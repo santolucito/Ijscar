@@ -2,11 +2,11 @@
 
 ![IJSCAR Logo](link-to-logo.png)
 
-Welcome to the official website of the International Journal of Secondary Computing and Applications Research (IJSCAR). IJSCAR is dedicated to publishing high-quality research in the field of secondary computing and applications.
+Welcome to the official website of the International Journal of Secondary Computing and Applications Research (IJSCAR). IJSCAR is dedicated to publishing high-quality research in the field of secondary computing and applications. The term "secondary" refers to secondary education, specifically targeting high school students.
 
 ## About IJSCAR
 
-The International Journal of Secondary Computing and Applications Research (IJSCAR) is a peer-reviewed academic journal that focuses on the latest advancements in secondary computing and its applications. Our mission is to disseminate cutting-edge research that can contribute to the development and understanding of secondary computing.
+The International Journal of Secondary Computing and Applications Research (IJSCAR) is a peer-reviewed academic journal that focuses on the latest advancements in secondary computing and its applications. Our mission is to disseminate cutting-edge research that can contribute to the development and understanding of secondary computing. We emphasize student involvement, requiring at least one author per paper to be a high school student.
 
 ## Editorial Board
 
@@ -29,25 +29,11 @@ We invite researchers and practitioners to submit their original research papers
 4. **References:** Use APA citation style for references.
 5. **Submission:** Send your manuscript to [submission@ijscar.org](mailto:submission@ijscar.org).
 
+### Specific Requirements for High School Student Authors
+
+At IJSCAR, we require that at least one author of each submission be a high school student. This aligns with our commitment to fostering young talent in the field of computing research.
+
 For detailed submission guidelines, please visit our [Submission Guidelines](submission-guidelines.md) page.
-
-## Current Issue
-
-### Volume 1, Issue 1 (2024)
-
-1. **Title of Paper 1**
-   - Authors: A. Author, B. Author
-   - Abstract: Brief summary of the paper.
-
-2. **Title of Paper 2**
-   - Authors: C. Author, D. Author
-   - Abstract: Brief summary of the paper.
-
-3. **Title of Paper 3**
-   - Authors: E. Author, F. Author
-   - Abstract: Brief summary of the paper.
-
-Read the full articles in the [Current Issue](current-issue.md).
 
 ## Archives
 
