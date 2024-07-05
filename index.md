@@ -1,6 +1,6 @@
 # International Journal of Secondary Computing and Applications Research (IJSCAR)
 
-![IJSCAR Logo](link-to-logo.png)
+![logo](./file-nk1q9ZBS3Op8T3zEOpAWnLh3.webp)
 
 Welcome to the official website of the International Journal of Secondary Computing and Applications Research (IJSCAR). IJSCAR is dedicated to publishing high-quality research in the field of secondary computing and applications. The term "secondary" refers to secondary education, specifically targeting high school students.
 
