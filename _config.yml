@@ -1,0 +1,7 @@
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: IJSCAR International Journal of Secondary Computer Science and Applied Research
+description: A High School Computer Science Journal
+show_downloads: false
+google_analytics: G-V1H1997MQ5
