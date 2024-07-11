@@ -5,3 +5,7 @@ title: IJSCAR International Journal of Secondary Computing and Applications Rese
 description: A High School Computer Science Journal
 show_downloads: false
 google_analytics: G-V1H1997MQ5
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

@@ -1,4 +1,3 @@
-
 ![logo](./logo.png)
 
 IJSCAR is dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
@@ -88,8 +87,8 @@ All articles are published as open-access and are assigned a DOI so that they ca
 There is no fee to submit an article.
 Typically, academic journals do not pay their reviewers in exchange for credit of ``academic service''.
 In recognition of the time and effort that goes into reviewing papers, and in service of moving towards a more equitable academic publishing model, we run a unique reviewing process where all reviewers are paid a modest stipend per review.
-As a result, for accepted papers only, we charge a $500 USD administrative fee. 
-This helps us to cover the costs of the review and publication.
+In order to cover these costs of the review process as well as publication, for accepted papers only, we charge a $450 USD administrative fee.
+**As a new journal, we are currently waiving this fee.**
 
 ## Contact Us
 
@@ -99,7 +98,3 @@ For any inquiries, please contact us at:
 - **Address:** 217 Manhattan Ave, Unit 4C, New York, NY 10025, USA
 
 <!--- Follow us on [Twitter](https://twitter.com/ijscar) and [LinkedIn](https://www.linkedin.com/company/ijscar). --->
-
----
-
-© 2024 International Journal of Secondary Computing and Applications Research (IJSCAR). All rights reserved.
