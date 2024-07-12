@@ -31,7 +31,7 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 ## Editorial Board
 
-- **Editor-in-Chief:** Dr. Maria Hwang, Fashion Institute of Technology. Professor of Computer Science.
+- **Editor-in-Chief:** Dr. Maria Hwang, Fashion Institute of Technology. Assistant Professor of Computer Science.
 - **Editorial Board:**
   - Dr. Mark Santolucito, Barnard College, Columbia University. Assistant Professor of Computer Science.
   - Dr. Selen Türkay, School of Computer Science, Queensland University of Technology. Associate Professor of Computer Science. 
