@@ -12,8 +12,7 @@ Our goal is to, by providing a platform for young researchers to publish their w
 
 The International Journal of Secondary Computing and Applications Research (IJSCAR) is a peer-reviewed academic journal that focuses on the latest advancements in computing and its applications broadly construed. We accept papers across a range of computing disciplines, including, but not limited to:
 
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence/Machine Learning
 - Bioinformatics/Biomedical Informatics
 - Human-Computer Interaction
 - Social Aspects of Computing
@@ -34,8 +33,10 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 - **Editor-in-Chief:** Dr. Maria Hwang, Fashion Institute of Technology. Professor of Computer Science.
 - **Editorial Board:**
-  - Dr. Maria Hwang, Fashion Institute of Technology. Professor of Computer Science.
-  - Dr. Mark Santolucito, Barnard College, Columbia University. Professor of Computer Science.
+  - Dr. Mark Santolucito, Barnard College, Columbia University. Assistant Professor of Computer Science.
+  - Dr. Selen Türkay, School of Computer Science, Queensland University of Technology. Associate Professor of Computer Science. 
+  - Dr. Woonhee Sung, The University of Texas at Tyler. Assistant Professor of Instructional Technology.
+  - Dr. Maria Hwang, Fashion Institute of Technology. Assistant Professor of Computer Science.
 
 ## Submission Guidelines
 
