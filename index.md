@@ -1,6 +1,6 @@
 ![logo](./logo.png)
 
-IJSCAR is a highly-selectively, open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
+IJSCAR is a highly-selective, open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
 
 IJSCAR is meant to fill a gap in the space of academic journals for computing and high school students.
 While there are many journals that publish research in computing, there are few that are specifically designed to cater to the needs of secondary school students. 
