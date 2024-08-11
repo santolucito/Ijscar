@@ -31,7 +31,7 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 ## Editorial Board
 
-- **Editor-in-Chief:** Dr. Maria Hwang, Fashion Institute of Technology. Assistant Professor of Computer Science.
+- **Editor-in-Chief:** Dr. Maria Hwang, Fashion Institute of Technology. Associate Professor of Computer Science.
 - **Editorial Board:**
   - Dr. Mark Santolucito, Barnard College, Columbia University. Assistant Professor of Computer Science.
   - Dr. Selen Türkay, School of Computer Science, Queensland University of Technology. Associate Professor of Computer Science. 
@@ -59,12 +59,24 @@ Each of the reviewers will assign a score to the paper of
 
 The final decision will be made by the editor-in-chief based on the reviews and the scores of the reviewers.
 
+A paper with Accept with minor revisions will be accepted after the authors have made the requested changes.
+
+A paper with Major revisions required will be invited to be resubmitted after the authors have made the requested changes. In this case, the paper will be sent back to the original reviewers for a second review.
+
+In recoginition of the fact that many of our authors are early stage researchers, we have a policy of encouraging resubmission.
+Authors are encouraged to iterate on their paper to work towards an Accept as is decision. There is no limit to the number of times a paper can be resubmitted.
+Authors may also choose to withdraw their paper at any time in case they feel that, based on the reviewer feedback, the paper is not a good fit for the journal.
+
 To ensure a high level of academic rigor, all submissions will undergo a transparent peer review process. 
 This means that the identities of the authors and reviewers will be made known to both parties.
 All reviewers are experts in the field of computing and applications research and will provide detailed feedback to help authors improve their work.
 Specifically all reviewers hold a PhD in a relevant field. 
 We do allow subreviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
 All reviewers (or subreviewers where relevant) will be paid a small stipend for their review.
+
+In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Edito-in-Cheif may make a decision to Desk Reject a paper without review.
+
+
 
 ### Timeline
 
