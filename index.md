@@ -36,7 +36,7 @@ To this end, every paper must include at least one co-author who is enrolled in 
   - Dr. Mark Santolucito, Barnard College, Columbia University. Assistant Professor of Computer Science.
   - Dr. Selen Türkay, School of Computer Science, Queensland University of Technology. Associate Professor of Computer Science. 
   - Dr. Woonhee Sung, The University of Texas at Tyler. Assistant Professor of Instructional Technology.
-  - Dr. Maria Hwang, Fashion Institute of Technology. Assistant Professor of Computer Science.
+  - Dr. Maria Hwang, Fashion Institute of Technology. Associate Professor of Computer Science.
 
 ## Submission Guidelines
 
