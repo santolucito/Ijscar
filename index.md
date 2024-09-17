@@ -44,7 +44,7 @@ We invite researchers and practitioners to submit their original research papers
 
 1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
 2. **Length:** Articles should be at least 2 pages, and not exceed 10 pages, not including references and appendices.
-3. **Submission:** Send your manuscript to [submissions@ijscar.org](mailto:submissions@ijscar.org).
+3. **Submission:** Send your manuscript (as a .pdf) to [submissions@ijscar.org](mailto:submissions@ijscar.org).
 
 
 
@@ -74,7 +74,7 @@ Specifically all reviewers hold a PhD in a relevant field.
 We do allow subreviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
 All reviewers (or subreviewers where relevant) will be paid a small stipend for their review.
 
-In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Edito-in-Cheif may make a decision to Desk Reject a paper without review.
+In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Editor-in-Cheif may make a decision to Desk Reject a paper without review.
 
 
 
@@ -87,6 +87,9 @@ The timeline for the review process is as follows:
 - **Rebuttal Due:** One week after receiving reviews
 - **Final Decision:** One week after rebuttal
 - **Publication:** At the next available issue
+
+After the final decision, the paper will be published in the next available issue of the journal.
+Authors will be asked to provide the latex source code of their paper, which will be used to generate the final version of the paper for the journal proceedings.
 
 ### Specific Requirements for High School Student Authors
 
