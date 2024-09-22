@@ -1,6 +1,4 @@
-# How to write an abstract
-
-**How to Write an Abstract for a Computer Science Journal Paper: A Structured Approach**
+## How to write an abstract
 
 Writing an abstract is a crucial skill for any researcher. It’s often the first part of your paper that readers engage with, and it's essential to provide a clear, concise summary of your work. Abstracts are not just mini-versions of your paper; they need to distill the key points, contributions, and results, and entice your audience to read more.
 
