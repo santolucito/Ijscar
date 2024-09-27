@@ -2,6 +2,10 @@
 
 When writing a computer science research paper, the organization of the content plays a crucial role in effectively communicating your research. Depending on whether your work is more algorithm-focused or application-oriented, the sections of your paper will vary slightly. This post walks through the common structures of both algorithmic and applied computer science papers and explain the reasoning behind these differences.
 
+A quick note - this blog post does not address how to write a literature review. 
+A literature review is a very different kind of paper than those examined here, and follows a different strucutre.
+For more on this, please read our blog post of [literature review papers](/blog).
+
 ### Algorithm-Focused Papers
 
 Algorithmic papers usually involve theoretical contributions, such as a new algorithm, a formal proof, or an optimization technique. These papers tend to follow a structure that focuses on formalization and evaluation of the method itself, often with less emphasis on external applications or user-centric evaluations.
