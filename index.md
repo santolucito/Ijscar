@@ -67,16 +67,14 @@ In recoginition of the fact that many of our authors are early stage researchers
 Authors are encouraged to iterate on their paper to work towards an Accept as is decision. There is no limit to the number of times a paper can be resubmitted.
 Authors may also choose to withdraw their paper at any time in case they feel that, based on the reviewer feedback, the paper is not a good fit for the journal.
 
-To ensure a high level of academic rigor, all submissions will undergo a transparent peer review process. 
-This means that the identities of the authors and reviewers will be made known to both parties.
+To ensure a high level of academic rigor, all submissions will undergo a single-blind peer review process. 
+This means that the identities of the authors will be made known to the reviewers, but the reviewers will remain anonymous to the authors.
 All reviewers are experts in the field of computing and applications research and will provide detailed feedback to help authors improve their work.
 Specifically all reviewers hold a PhD in a relevant field. 
 We do allow subreviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
 All reviewers (or subreviewers where relevant) will be paid a small stipend for their review.
 
 In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Editor-in-Cheif may make a decision to Desk Reject a paper without review.
-
-
 
 ### Timeline
 
