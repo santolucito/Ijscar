@@ -86,3 +86,10 @@ Algorithmic and applied papers are just two categories that we have discussed he
 There are, of course, many other types of papers in computer science, that may fall slightly outside of this framework.
 You can always adapt your structure as needed—just ensure it makes sense for the reader and the story you're telling.
 The best resource is also to read more papers in your field to understand the common structures and conventions used in your area of research.
+
+#### Quick tip
+
+Don't overuse bullet points (e.g. with the enumerate environment) in your paper.
+Look at papers in your field and see how the authors have organized their thoughts.
+Try to emulate the structure in the papers you are citing in your paper.
+An important part of writing a good paper, aside from the content itself, is making the paper ``look'' like a paper.
