@@ -53,11 +53,11 @@ Applied papers focus more on the practical implementation and evaluation of tech
 3. **Related Work**  
    Unlike algorithmic papers, related work is often front-loaded in applied research. This is because, in applied fields, understanding the existing landscape is crucial to contextualizing the contribution. Readers need to know what has been done before and how your work builds on or diverges from existing solutions.
 
-4. **System Overview**  
-   This section describes the architecture or methodology behind your system or evaluation. For instance, in LLM evaluations, this might cover the design of experiments, the metrics used for evaluation, or how the model was fine-tuned or deployed.
+4. **Methodology**  
+   This section describes the architecture or methodology behind your system or evaluation. For instance, in LLM evaluations, this might cover the design of experiments, the metrics used for evaluation, or how the model was fine-tuned or deployed. For a user study, this might describe the setup, participant demographics, how participants were recruited, and the instruments (e.g. surveys, interviews, etc.) used to collect data.
 
-5. **Evaluation**  
-   Applied papers emphasize empirical evaluation. This could be through benchmarking, user studies, or performance metrics. In a user study, this section would describe the setup, participant demographics, and any statistical analysis conducted to validate the results.
+5. **Results**  
+   Applied papers emphasize empirical evaluation. This could be through benchmarking, user studies, or performance metrics. In a user study, this section would describe the setup, participant demographics, and any statistical analysis conducted to validate the results. Just report the results, do not include discussion yet.
 
 6. **Discussion**  
    The discussion section is often richer in applied work. It may include interpretations of the results, discussions of limitations, or thoughts on broader implications (e.g., for real-world applications). Applied papers may also explore how results might generalize to other settings or outline unexpected challenges faced during evaluation. Often you will see a subsection here on **threats to validity** that discusses potential confounding factors or biases in the study. You may want to also read our post on [threats to validity](./threats_to_validity.md).
@@ -76,7 +76,10 @@ In applied work, it’s crucial to position your contribution within the existin
   
 - **Motivating Example:**  
    Algorithmic papers frequently include motivating examples, as the application of a formal method is not always clear. Applied papers, on the other hand, rarely need this, as the problem tends to be more obvious from the start.
-   
+
+- **System Overview vs Methodology:**  
+   In algorithmic papers, the System Overview section provides a high-level overview of the algorithm or system before diving into the nitty-gritty. In applied papers, the Methodology section mirrors the System Overview section, but is more detailed and describes the design of the system or evaluation.
+
 - **Discussion Section:**  
    Applied papers tend to have more to discuss in terms of user feedback, deployment challenges, or societal implications and so include a dedicated Discussion section. Algorithmic papers are often more dry in this regard so can skip this section, but recently many conferences are asking authors to include a **societal impact** section at the end in order to encourage reflection the impacts of their work beyond the computational contribution.
 
