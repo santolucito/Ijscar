@@ -1,6 +1,6 @@
 ![logo](./logo.png)
 
-IJSCAR is a highly-selective, open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
+IJSCAR is a highly-selective (approx. 30%), open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
 
 IJSCAR is meant to fill a gap in the space of academic journals for computing and high school students.
 While there are many journals that publish research in computing, there are few that are specifically designed to cater to the needs of secondary school students. 
@@ -42,7 +42,7 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 We invite researchers and practitioners to submit their original research papers, literature reviews, and case studies. Manuscripts should be formatted according to the following guidelines:
 
-1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
+1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746).
 2. **Length:** Articles should be at least 2 pages, and not exceed 10 pages, not including references and appendices.
 3. **Submission:** Send your manuscript (as a .pdf) to [submissions@ijscar.org](mailto:submissions@ijscar.org).
 
