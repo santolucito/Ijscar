@@ -82,8 +82,8 @@ The timeline for the review process is as follows:
 
 - **Initial Submission** 
 - **Initial Reviews:** Within two weeks of submission 
-- **Rebuttal Due:** One week after receiving reviews
-- **Final Decision:** One week after rebuttal
+- **Rebuttal/Revised Draft Due:** One week after receiving reviews
+- **Final Decision:** One week after rebuttal/revised draft
 - **Publication:** At the next available issue
 
 After the final decision, the paper will be published in the next available issue of the journal.
