@@ -65,13 +65,8 @@ A paper with "Accept with minor revisions" will be accepted after the authors ha
 
 A paper with "Major revisions required" will be invited to be resubmitted after the authors have made the requested changes. In this case, the paper will be sent back to the original reviewers for a second review.
 
-<<<<<<< HEAD
 In recognition of the fact that many of our authors are early stage researchers, we have a policy of encouraging resubmission.
-Authors are encouraged to iterate on their paper to work towards an Accept as is decision. There is no limit to the number of times a paper can be resubmitted.
-=======
-In recoginition of the fact that many of our authors are early stage researchers, we have a policy of encouraging resubmission.
 Authors are encouraged to iterate on their paper to work towards an "Accept as is" decision. There is no limit to the number of times a paper can be resubmitted.
->>>>>>> bc9b2dba8ab60c4ca14326c0a493539eb281e3b8
 Authors may also choose to withdraw their paper at any time in case they feel that, based on the reviewer feedback, the paper is not a good fit for the journal.
 
 To ensure a high level of academic rigor, all submissions will undergo a single-blind peer review process. 
