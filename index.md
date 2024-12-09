@@ -1,20 +1,21 @@
 ![logo](./logo.png)
 
-IJSCAR is a highly-selective, open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
+IJSCAR is a highly-selective (approx. 30% acceptance rate), open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
 
 IJSCAR is meant to fill a gap in the space of academic journals for computing and high school students.
 While there are many journals that publish research in computing, there are few that are specifically designed to cater to the needs of secondary school students. 
 On the other hand, existing journals for high school students are often more focused on science research in general and do not provide a dedicated platform for computing research.
 Computing research has a fundamentally different methodology and set of tools compared to other scientific disciplines, and we believe that it is important to provide a space where young researchers can publish their work and engage with the broader computing research community.
-Our goal is to, by providing a platform for young researchers to publish their work, help to foster the next generation of computing researchers.
+Our goal is to, by providing a platform for young researchers to publish their work, help foster the next generation of computing researchers.
 
 ## About IJSCAR
 
 The International Journal of Secondary Computing and Applications Research (IJSCAR) is a peer-reviewed academic journal that focuses on the latest advancements in computing and its applications broadly construed. We accept papers across a range of computing disciplines, including, but not limited to:
 
-- Artificial Intelligence/Machine Learning
-- Bioinformatics/Biomedical Informatics
-- Human-Computer Interaction
+- Artificial Intelligence (AI) / Machine Learning (ML)
+- Bioinformatics
+- Biomedical Informatics
+- Human-Computer Interaction (HCI)
 - Social Aspects of Computing
 - Software Engineering
 - Programming Languages
@@ -27,7 +28,7 @@ The International Journal of Secondary Computing and Applications Research (IJSC
 If you do not see your specific area of research listed above, please feel free to submit your work. We are open to a wide range of topics within the field of computing and applications of computing.
 
 Our mission is to disseminate cutting-edge research that can contribute to the development and understanding of computing, while supporting the next generation of researchers. 
-To this end, every paper must include at least one co-author who is enrolled in secondary school at the time of submission.
+To this end, every paper must include at least one co-author who is enrolled in a secondary school at the time of submission.
 
 ## Editorial Board
 
@@ -37,12 +38,13 @@ To this end, every paper must include at least one co-author who is enrolled in 
   - Dr. Selen Türkay, School of Computer Science, Queensland University of Technology. Associate Professor of Computer Science. 
   - Dr. Woonhee Sung, The University of Texas at Tyler. Assistant Professor of Instructional Technology.
   - Dr. Maria Hwang, Fashion Institute of Technology. Associate Professor of Computer Science.
+  - Dr. Junghyun Ahn, Fashion Institute of Technology. Assistant Professor of Computer Science.
 
 ## Submission Guidelines
 
 We invite researchers and practitioners to submit their original research papers, literature reviews, and case studies. Manuscripts should be formatted according to the following guidelines:
 
-1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
+1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746).
 2. **Length:** Articles should be at least 2 pages, and not exceed 10 pages, not including references and appendices.
 3. **Submission:** Send your manuscript (as a .pdf) to [submissions@ijscar.org](mailto:submissions@ijscar.org).
 
@@ -59,22 +61,27 @@ Each of the reviewers will assign a score to the paper of
 
 The final decision will be made by the editor-in-chief based on the reviews and the scores of the reviewers.
 
-A paper with Accept with minor revisions will be accepted after the authors have made the requested changes.
+A paper with "Accept with minor revisions" will be accepted after the authors have made the requested changes.
 
-A paper with Major revisions required will be invited to be resubmitted after the authors have made the requested changes. In this case, the paper will be sent back to the original reviewers for a second review.
+A paper with "Major revisions required" will be invited to be resubmitted after the authors have made the requested changes. In this case, the paper will be sent back to the original reviewers for a second review.
 
+<<<<<<< HEAD
 In recognition of the fact that many of our authors are early stage researchers, we have a policy of encouraging resubmission.
 Authors are encouraged to iterate on their paper to work towards an Accept as is decision. There is no limit to the number of times a paper can be resubmitted.
+=======
+In recoginition of the fact that many of our authors are early stage researchers, we have a policy of encouraging resubmission.
+Authors are encouraged to iterate on their paper to work towards an "Accept as is" decision. There is no limit to the number of times a paper can be resubmitted.
+>>>>>>> bc9b2dba8ab60c4ca14326c0a493539eb281e3b8
 Authors may also choose to withdraw their paper at any time in case they feel that, based on the reviewer feedback, the paper is not a good fit for the journal.
 
 To ensure a high level of academic rigor, all submissions will undergo a single-blind peer review process. 
 This means that the identities of the authors will be made known to the reviewers, but the reviewers will remain anonymous to the authors.
 All reviewers are experts in the field of computing and applications research and will provide detailed feedback to help authors improve their work.
-Specifically all reviewers hold a PhD in a relevant field. 
-We do allow subreviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
-All reviewers (or subreviewers where relevant) will be paid a small stipend for their review.
+Specifically all reviewers hold a Ph.D. (or equivalent) in a relevant field. 
+We do allow sub-reviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
+All reviewers (or sub-reviewers where relevant) will be paid a small stipend for their review.
 
-In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Editor-in-Chief may make a decision to Desk Reject a paper without review.
+In the case that a paper does not meet the formatting or authorship guidelines, or is outside the scope of the call for papers, the Editor-in-Chief may make a decision to "Desk Reject" a paper without review.
 
 ### Timeline
 
@@ -82,8 +89,8 @@ The timeline for the review process is as follows:
 
 - **Initial Submission** 
 - **Initial Reviews:** Within two weeks of submission 
-- **Rebuttal Due:** One week after receiving reviews
-- **Final Decision:** One week after rebuttal
+- **Rebuttal/Revised Draft Due:** One week after receiving reviews
+- **Final Decision:** One week after rebuttal/revised draft
 - **Publication:** At the next available issue
 
 After the final decision, the paper will be published in the next available issue of the journal.
@@ -102,7 +109,9 @@ There is no fee to submit an article.
 Typically, academic journals do not pay their reviewers in exchange for credit for "academic service".
 In recognition of the time and effort that goes into reviewing papers, and in service of moving towards a more equitable academic publishing model, we run a unique reviewing process where all reviewers are paid a modest stipend per review.
 In order to cover these costs of the review process as well as publication, for accepted papers only, we charge a $450 USD administrative fee.
-**As a new journal, we are currently waiving this fee.**
+**As a new journal, we are currently waiving this fee through the end of 2024. Starting January 1, 2025, we will charge a $450 USD administrative fee.**
+
+We have a special **scholarship program** for students from disadvantaged backgrounds and special circumstances. To learn more about how to apply to this scholarship program please contact us at the below email address.  
 
 ## Contact Us
 
