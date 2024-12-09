@@ -3,7 +3,7 @@
 When writing a computer science research paper, the organization of the content plays a crucial role in effectively communicating your research. Depending on whether your work is more algorithm-focused or application-oriented, the sections of your paper will vary slightly. This post walks through the common structures of both algorithmic and applied computer science papers and explain the reasoning behind these differences.
 
 A quick note - this blog post does not address how to write a literature review. 
-A literature review is a very different kind of paper than those examined here, and follows a different strucutre.
+A literature review is a very different kind of paper than those examined here, and follows a different structure.
 For more on this, please read our blog post of [literature review papers](/blog).
 
 ### Algorithm-Focused Papers
@@ -15,7 +15,7 @@ Algorithmic papers usually involve theoretical contributions, such as a new algo
    A concise summary of the problem, the algorithmic contribution, and the key results. See our post on [writing effective abstracts](./how_to_abstract.md).
 
 2. **Introduction**  
-   This section sets the stage by explaining the problem, its relevance, and the main contribution of the paper. In algorithmic papers, the introduction may also briefly outline the structure of the paper. End your introduction with a clear statement of the problem you are addressing and the main contributions of your work. This usually takes form of a statement like: "In summary, we make the following contributions:" followed by a bulleted list of the main contributions.
+   This section sets the stage by explaining the problem, its relevance, and the main contribution of the paper. In algorithmic papers, the introduction may also briefly outline the structure of the paper. End your introduction with a clear statement of the problem you are addressing and the main contributions of your work. This usually takes the form of a statement like: "In summary, we make the following contributions:" followed by a bulleted list of the main contributions.
 
 3. **Motivating Example**  
    A motivating example is often critical in algorithmic work. Since the application or use case of the algorithm might not be immediately obvious, this section illustrates why the problem is important and how the proposed method applies. The example helps ground the formalization that follows.
