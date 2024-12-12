@@ -1,0 +1,1576 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="https://icfp24.sigplan.org/favicon.ico?28d37e6d7e5e12d24c39bdba0f4f3cfd" rel="shortcut icon"
+    type="image/x-icon">
+  <link href="./winter25/common_.css" rel="stylesheet" type="text/css">
+  <title>IJSCAR Winter Research Symposium 2025</title>
+  <script type="text/javascript">var show_webdsl_debug = false;</script>
+  <script type="text/javascript">var contextpath = "https://ijscar.org/events/winter25";</script>
+  <link rel="stylesheet" href="./winter25/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/conf.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/logobar-with-logo.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/owl.theme.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/owl.carousel.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/owl.transitions.css" type="text/css">
+  <link rel="stylesheet" href="./winter25/theme.bootstrap_3.min.css" type="text/css">
+  <script type="text/javascript" src="./winter25/jquery-3.5.1.min.js.download"></script>
+  <script type="text/javascript" src="./winter25/owl.carousel.min.js.download"></script>
+  <script type="text/javascript" src="./winter25/jquery.tablesorter.combined.min.js.download"></script>
+  <script type="text/javascript" src="./winter25/jquery.tablesorter.pager.min.js.download"></script>
+  <script type="text/javascript" src="./winter25/tablesorter-init.js.download"></script>
+  <script type="text/javascript" src="./winter25/bootstrap.min.js.download"></script>
+  <script type="text/javascript" src="./winter25/notify.min.js.download"></script>
+  <style type="text/css" id="notify-bootstrap">
+    .notifyjs-bootstrap-base {
+      font-weight: bold;
+      padding: 8px 15px 8px 14px;
+      text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+      background-color: #fcf8e3;
+      border: 1px solid #fbeed5;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      white-space: nowrap;
+      padding-left: 25px;
+      background-repeat: no-repeat;
+      background-position: 3px 7px;
+    }
+
+    .notifyjs-bootstrap-error {
+      color: #B94A48;
+      background-color: #F2DEDE;
+      border-color: #EED3D7;
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAtRJREFUeNqkVc1u00AQHq+dOD+0poIQfkIjalW0SEGqRMuRnHos3DjwAH0ArlyQeANOOSMeAA5VjyBxKBQhgSpVUKKQNGloFdw4cWw2jtfMOna6JOUArDTazXi/b3dm55socPqQhFka++aHBsI8GsopRJERNFlY88FCEk9Yiwf8RhgRyaHFQpPHCDmZG5oX2ui2yilkcTT1AcDsbYC1NMAyOi7zTX2Agx7A9luAl88BauiiQ/cJaZQfIpAlngDcvZZMrl8vFPK5+XktrWlx3/ehZ5r9+t6e+WVnp1pxnNIjgBe4/6dAysQc8dsmHwPcW9C0h3fW1hans1ltwJhy0GxK7XZbUlMp5Ww2eyan6+ft/f2FAqXGK4CvQk5HueFz7D6GOZtIrK+srupdx1GRBBqNBtzc2AiMr7nPplRdKhb1q6q6zjFhrklEFOUutoQ50xcX86ZlqaZpQrfbBdu2R6/G19zX6XSgh6RX5ubyHCM8nqSID6ICrGiZjGYYxojEsiw4PDwMSL5VKsC8Yf4VRYFzMzMaxwjlJSlCyAQ9l0CW44PBADzXhe7xMdi9HtTrdYjFYkDQL0cn4Xdq2/EAE+InCnvADTf2eah4Sx9vExQjkqXT6aAERICMewd/UAp/IeYANM2joxt+q5VI+ieq2i0Wg3l6DNzHwTERPgo1ko7XBXj3vdlsT2F+UuhIhYkp7u7CarkcrFOCtR3H5JiwbAIeImjT/YQKKBtGjRFCU5IUgFRe7fF4cCNVIPMYo3VKqxwjyNAXNepuopyqnld602qVsfRpEkkz+GFL1wPj6ySXBpJtWVa5xlhpcyhBNwpZHmtX8AGgfIExo0ZpzkWVTBGiXCSEaHh62/PoR0p/vHaczxXGnj4bSo+G78lELU80h1uogBwWLf5YlsPmgDEd4M236xjm+8nm4IuE/9u+/PH2JXZfbwz4zw1WbO+SQPpXfwG/BBgAhCNZiSb/pOQAAAAASUVORK5CYII=);
+    }
+
+    .notifyjs-bootstrap-success {
+      color: #468847;
+      background-color: #DFF0D8;
+      border-color: #D6E9C6;
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAutJREFUeNq0lctPE0Ecx38zu/RFS1EryqtgJFA08YCiMZIAQQ4eRG8eDGdPJiYeTIwHTfwPiAcvXIwXLwoXPaDxkWgQ6islKlJLSQWLUraPLTv7Gme32zoF9KSTfLO7v53vZ3d/M7/fIth+IO6INt2jjoA7bjHCJoAlzCRw59YwHYjBnfMPqAKWQYKjGkfCJqAF0xwZjipQtA3MxeSG87VhOOYegVrUCy7UZM9S6TLIdAamySTclZdYhFhRHloGYg7mgZv1Zzztvgud7V1tbQ2twYA34LJmF4p5dXF1KTufnE+SxeJtuCZNsLDCQU0+RyKTF27Unw101l8e6hns3u0PBalORVVVkcaEKBJDgV3+cGM4tKKmI+ohlIGnygKX00rSBfszz/n2uXv81wd6+rt1orsZCHRdr1Imk2F2Kob3hutSxW8thsd8AXNaln9D7CTfA6O+0UgkMuwVvEFFUbbAcrkcTA8+AtOk8E6KiQiDmMFSDqZItAzEVQviRkdDdaFgPp8HSZKAEAL5Qh7Sq2lIJBJwv2scUqkUnKoZgNhcDKhKg5aH+1IkcouCAdFGAQsuWZYhOjwFHQ96oagWgRoUov1T9kRBEODAwxM2QtEUl+Wp+Ln9VRo6BcMw4ErHRYjH4/B26AlQoQQTRdHWwcd9AH57+UAXddvDD37DmrBBV34WfqiXPl61g+vr6xA9zsGeM9gOdsNXkgpEtTwVvwOklXLKm6+/p5ezwk4B+j6droBs2CsGa/gNs6RIxazl4Tc25mpTgw/apPR1LYlNRFAzgsOxkyXYLIM1V8NMwyAkJSctD1eGVKiq5wWjSPdjmeTkiKvVW4f2YPHWl3GAVq6ymcyCTgovM3FzyRiDe2TaKcEKsLpJvNHjZgPNqEtyi6mZIm4SRFyLMUsONSSdkPeFtY1n0mczoY3BHTLhwPRy9/lzcziCw9ACI+yql0VLzcGAZbYSM5CCSZg1/9oc/nn7+i8N9p/8An4JMADxhH+xHfuiKwAAAABJRU5ErkJggg==);
+    }
+
+    .notifyjs-bootstrap-info {
+      color: #3A87AD;
+      background-color: #D9EDF7;
+      border-color: #BCE8F1;
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QYFAhkSsdes/QAAA8dJREFUOMvVlGtMW2UYx//POaWHXg6lLaW0ypAtw1UCgbniNOLcVOLmAjHZolOYlxmTGXVZdAnRfXQm+7SoU4mXaOaiZsEpC9FkiQs6Z6bdCnNYruM6KNBw6YWewzl9z+sHImEWv+vz7XmT95f/+3/+7wP814v+efDOV3/SoX3lHAA+6ODeUFfMfjOWMADgdk+eEKz0pF7aQdMAcOKLLjrcVMVX3xdWN29/GhYP7SvnP0cWfS8caSkfHZsPE9Fgnt02JNutQ0QYHB2dDz9/pKX8QjjuO9xUxd/66HdxTeCHZ3rojQObGQBcuNjfplkD3b19Y/6MrimSaKgSMmpGU5WevmE/swa6Oy73tQHA0Rdr2Mmv/6A1n9w9suQ7097Z9lM4FlTgTDrzZTu4StXVfpiI48rVcUDM5cmEksrFnHxfpTtU/3BFQzCQF/2bYVoNbH7zmItbSoMj40JSzmMyX5qDvriA7QdrIIpA+3cdsMpu0nXI8cV0MtKXCPZev+gCEM1S2NHPvWfP/hL+7FSr3+0p5RBEyhEN5JCKYr8XnASMT0xBNyzQGQeI8fjsGD39RMPk7se2bd5ZtTyoFYXftF6y37gx7NeUtJJOTFlAHDZLDuILU3j3+H5oOrD3yWbIztugaAzgnBKJuBLpGfQrS8wO4FZgV+c1IxaLgWVU0tMLEETCos4xMzEIv9cJXQcyagIwigDGwJgOAtHAwAhisQUjy0ORGERiELgG4iakkzo4MYAxcM5hAMi1WWG1yYCJIcMUaBkVRLdGeSU2995TLWzcUAzONJ7J6FBVBYIggMzmFbvdBV44Corg8vjhzC+EJEl8U1kJtgYrhCzgc/vvTwXKSib1paRFVRVORDAJAsw5FuTaJEhWM2SHB3mOAlhkNxwuLzeJsGwqWzf5TFNdKgtY5qHp6ZFf67Y/sAVadCaVY5YACDDb3Oi4NIjLnWMw2QthCBIsVhsUTU9tvXsjeq9+X1d75/KEs4LNOfcdf/+HthMnvwxOD0wmHaXr7ZItn2wuH2SnBzbZAbPJwpPx+VQuzcm7dgRCB57a1uBzUDRL4bfnI0RE0eaXd9W89mpjqHZnUI5Hh2l2dkZZUhOqpi2qSmpOmZ64Tuu9qlz/SEXo6MEHa3wOip46F1n7633eekV8ds8Wxjn37Wl63VVa+ej5oeEZ/82ZBETJjpJ1Rbij2D3Z/1trXUvLsblCK0XfOx0SX2kMsn9dX+d+7Kf6h8o4AIykuffjT8L20LU+w4AZd5VvEPY+XpWqLV327HR7DzXuDnD8r+ovkBehJ8i+y8YAAAAASUVORK5CYII=);
+    }
+
+    .notifyjs-bootstrap-warn {
+      color: #C09853;
+      background-color: #FCF8E3;
+      border-color: #FBEED5;
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABJlBMVEXr6eb/2oD/wi7/xjr/0mP/ykf/tQD/vBj/3o7/uQ//vyL/twebhgD/4pzX1K3z8e349vK6tHCilCWbiQymn0jGworr6dXQza3HxcKkn1vWvV/5uRfk4dXZ1bD18+/52YebiAmyr5S9mhCzrWq5t6ufjRH54aLs0oS+qD751XqPhAybhwXsujG3sm+Zk0PTwG6Shg+PhhObhwOPgQL4zV2nlyrf27uLfgCPhRHu7OmLgAafkyiWkD3l49ibiAfTs0C+lgCniwD4sgDJxqOilzDWowWFfAH08uebig6qpFHBvH/aw26FfQTQzsvy8OyEfz20r3jAvaKbhgG9q0nc2LbZxXanoUu/u5WSggCtp1anpJKdmFz/zlX/1nGJiYmuq5Dx7+sAAADoPUZSAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfdBgUBGhh4aah5AAAAlklEQVQY02NgoBIIE8EUcwn1FkIXM1Tj5dDUQhPU502Mi7XXQxGz5uVIjGOJUUUW81HnYEyMi2HVcUOICQZzMMYmxrEyMylJwgUt5BljWRLjmJm4pI1hYp5SQLGYxDgmLnZOVxuooClIDKgXKMbN5ggV1ACLJcaBxNgcoiGCBiZwdWxOETBDrTyEFey0jYJ4eHjMGWgEAIpRFRCUt08qAAAAAElFTkSuQmCC);
+    }
+  </style>
+  <script type="text/javascript" src="./winter25/ajax.js.download"></script>
+  <script type="text/javascript">$(document).ready(function () {
+      $('#program-menu a[data-fltr-type]').on('click', function (event) {
+        event.preventDefault();
+        window.location = $(this).attr('href') + "?" + encodeURIComponent($(this).data('fltr-type')) + '=' + encodeURIComponent($(this).data('fltr-val'));
+      })
+    })
+  </script>
+  <script type="text/javascript">(function ($) {
+        $(document).ready(function () {
+          $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $(this).parent().siblings().removeClass('open');
+            $(this).parent().toggleClass('open');
+          });
+        });
+      })(jQuery);
+  </script>
+  <meta prefix="og: http://ogp.me/ns#" property="og:image"
+    content="https://icfp24.sigplan.org/getImage/carousel/003.jpg?1699540871000">
+  <script async="" src="./winter25/js"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-4G0QWEKVQS', { 'cookie_domain': 'auto', 'anonymizeIp': true }); gtag('config', 'UA-9607501-2', { 'cookie_domain': 'auto', 'anonymizeIp': true });</script>
+  <meta prefix="og: http://ogp.me/ns#" property="og:title" content="IJSCAR Winter Research Symposium 2025">
+  <meta name="description" content="The IJSCAR Winter Research Symposium 2025 will be held on January 11, 2025.">
+  <script type="text/javascript">function addEventModalLoadOnClick(containerNode) {
+      $(containerNode).find("a[data-event-modal]").on("click", function (e) {
+        var eventId = $(this).data("event-modal");
+        var modalElem = $("#modal-" + eventId);
+        if (modalElem.length) {
+          modalElem.modal({ backdrop: 'static', keyboard: true }, 'show');
+        } else {
+          var loaderElem = $("#event-modal-loader");
+          loaderElem.find("input.event-id-input").val(eventId);
+          loaderElem.find("#load-modal-action").click();
+        }
+        e.preventDefault();
+      });
+    }
+  </script>
+  <script type="text/javascript">function addStarredEventOnClick(containerNode) {
+      $(containerNode).find("[data-event-star]").on("click", function (e) {
+        var eventId = $(this).data("event-star");
+        var starEventFormElem = $("#event-star-form");
+        starEventFormElem.find("input.event-id-input").val(eventId);
+        starEventFormElem.find("#star-event-action").click();
+        e.preventDefault();
+        e.stopPropagation();
+      });
+    }
+  </script>
+  <script type="text/javascript">function pauseOnCloseModal(modalid) {
+      //pauses video (only youtube at the moment) when closing modal
+      $('#' + modalid).on('hidden.bs.modal', function () {
+        $(this).find('.embed-container iframe[src*=enablejsapi]').each(function () { this.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*') });
+      })
+    }
+  </script>
+  <meta prefix="og: http://ogp.me/ns#" property="og:description"
+    content="The IJSCAR Winter Research Symposium 2025 will be held on January 11, 2025.">
+  <style>
+    body.tablesorter-disableSelection {
+      -ms-user-select: none;
+      -moz-user-select: -moz-none;
+      -khtml-user-select: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    .tablesorter-resizable-container {
+      position: relative;
+      height: 1px;
+    }
+
+    .tablesorter-resizable-handle {
+      position: absolute;
+      display: inline-block;
+      width: 8px;
+      top: 1px;
+      cursor: ew-resize;
+      z-index: 3;
+      user-select: none;
+      -moz-user-select: none;
+    }
+  </style>
+  <style type="text/css" id="core-notify">
+    .notifyjs-corner {
+      position: fixed;
+      margin: 5px;
+      z-index: 1050;
+    }
+
+    .notifyjs-corner .notifyjs-wrapper,
+    .notifyjs-corner .notifyjs-container {
+      position: relative;
+      display: block;
+      height: inherit;
+      width: inherit;
+      margin: 3px;
+    }
+
+    .notifyjs-wrapper {
+      z-index: 1;
+      position: absolute;
+      display: inline-block;
+      height: 0;
+      width: 0;
+    }
+
+    .notifyjs-container {
+      display: none;
+      z-index: 1;
+      position: absolute;
+    }
+
+    .notifyjs-hidable {
+      cursor: pointer;
+    }
+
+    [data-notify-text],
+    [data-notify-html] {
+      position: relative;
+    }
+
+    .notifyjs-arrow {
+      position: absolute;
+      z-index: 2;
+      width: 0;
+      height: 0;
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-select__option {
+      cursor: pointer
+    }
+
+    .ismanga .ismanga-select__control {
+      cursor: pointer
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-spinner {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      z-index: 2
+    }
+
+    .ismanga .ismanga-spinner__inner {
+      animation: spin 2s linear infinite;
+      border-color: rgba(0, 0, 0, .04);
+      border-radius: 50%;
+      border-style: solid;
+      border-top-color: #b4183d
+    }
+
+    .ismanga .ismanga-spinner__inner-text {
+      background-color: rgba(255, 255, 255, .8);
+      border-radius: 4px;
+      color: #b4183d;
+      font-size: 16px;
+      margin-top: 8px;
+      text-align: center;
+      text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+      word-break: break-word
+    }
+
+    .ismanga .ismanga-spinner__inner-text a {
+      color: #b4183d;
+      font-weight: bold;
+      text-decoration: underline dotted #b4183d
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg)
+      }
+
+      100% {
+        transform: rotate(360deg)
+      }
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-button {
+      border: 0;
+      box-sizing: border-box;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: normal;
+      outline: none;
+      width: 100%
+    }
+
+    .ismanga .ismanga-button--primary {
+      background-color: #b4183d;
+      color: #fff
+    }
+
+    .ismanga .ismanga-button--primary .ismanga-button__dots {
+      background-color: #fff;
+      border-radius: 50%;
+      color: #fff;
+      height: 8px;
+      position: relative;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--primary .ismanga-button__dots::before,
+    .ismanga .ismanga-button--primary .ismanga-button__dots::after {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      top: 0
+    }
+
+    .ismanga .ismanga-button--primary .ismanga-button__dots::before {
+      animation: dotCollisionBefore 2s infinite ease-in;
+      background-color: #fff;
+      border-radius: 50%;
+      color: #fff;
+      height: 8px;
+      left: -12px;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--primary .ismanga-button__dots::after {
+      animation: dotCollisionAfter 2s infinite ease-in;
+      animation-delay: 1s;
+      background-color: #fff;
+      border-radius: 50%;
+      color: #fff;
+      height: 8px;
+      left: 12px;
+      width: 8px
+    }
+
+    @keyframes dotCollisionBefore {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(-16px)
+      }
+    }
+
+    @keyframes dotCollisionAfter {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(16px)
+      }
+    }
+
+    .ismanga .ismanga-button--primary-active,
+    .ismanga .ismanga-button--primary:hover,
+    .ismanga .ismanga-button--primary:active,
+    .ismanga .ismanga-button--primary:focus {
+      background-color: #901330
+    }
+
+    .ismanga .ismanga-button--primary-outline {
+      background-color: #fff;
+      border: 1px solid #b4183d;
+      color: #b4183d
+    }
+
+    .ismanga .ismanga-button--primary-outline .ismanga-button__dots {
+      background-color: #b4183d;
+      border-radius: 50%;
+      color: #b4183d;
+      height: 8px;
+      position: relative;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--primary-outline .ismanga-button__dots::before,
+    .ismanga .ismanga-button--primary-outline .ismanga-button__dots::after {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      top: 0
+    }
+
+    .ismanga .ismanga-button--primary-outline .ismanga-button__dots::before {
+      animation: dotCollisionBefore 2s infinite ease-in;
+      background-color: #b4183d;
+      border-radius: 50%;
+      color: #b4183d;
+      height: 8px;
+      left: -12px;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--primary-outline .ismanga-button__dots::after {
+      animation: dotCollisionAfter 2s infinite ease-in;
+      animation-delay: 1s;
+      background-color: #b4183d;
+      border-radius: 50%;
+      color: #b4183d;
+      height: 8px;
+      left: 12px;
+      width: 8px
+    }
+
+    @keyframes dotCollisionBefore {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(-16px)
+      }
+    }
+
+    @keyframes dotCollisionAfter {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(16px)
+      }
+    }
+
+    .ismanga .ismanga-button--primary-outline-active,
+    .ismanga .ismanga-button--primary-outline:hover,
+    .ismanga .ismanga-button--primary-outline:active,
+    .ismanga .ismanga-button--primary-outline:focus {
+      background-color: #b4183d;
+      color: #fff
+    }
+
+    .ismanga .ismanga-button--secondary {
+      background-color: #e0e1e2;
+      color: #000
+    }
+
+    .ismanga .ismanga-button--secondary .ismanga-button__dots {
+      background-color: #000;
+      border-radius: 50%;
+      color: #000;
+      height: 8px;
+      position: relative;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--secondary .ismanga-button__dots::before,
+    .ismanga .ismanga-button--secondary .ismanga-button__dots::after {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      top: 0
+    }
+
+    .ismanga .ismanga-button--secondary .ismanga-button__dots::before {
+      animation: dotCollisionBefore 2s infinite ease-in;
+      background-color: #000;
+      border-radius: 50%;
+      color: #000;
+      height: 8px;
+      left: -12px;
+      width: 8px
+    }
+
+    .ismanga .ismanga-button--secondary .ismanga-button__dots::after {
+      animation: dotCollisionAfter 2s infinite ease-in;
+      animation-delay: 1s;
+      background-color: #000;
+      border-radius: 50%;
+      color: #000;
+      height: 8px;
+      left: 12px;
+      width: 8px
+    }
+
+    @keyframes dotCollisionBefore {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(-16px)
+      }
+    }
+
+    @keyframes dotCollisionAfter {
+
+      0%,
+      50%,
+      75%,
+      100% {
+        transform: translateX(0)
+      }
+
+      25% {
+        transform: translateX(16px)
+      }
+    }
+
+    .ismanga .ismanga-button--secondary-active,
+    .ismanga .ismanga-button--secondary:hover,
+    .ismanga .ismanga-button--secondary:active,
+    .ismanga .ismanga-button--secondary:focus {
+      background-color: #b3b4b4
+    }
+
+    .ismanga .ismanga-button__dots-stage {
+      display: flex;
+      justify-content: center;
+      line-height: 14px
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-click-translate-overlay {
+      background-color: rgba(0, 0, 0, .5);
+      border: 4px solid #b4183d;
+      height: 100%;
+      width: 100%
+    }
+
+    .ismanga .ismanga-click-translate-overlay__translate-btn {
+      border-radius: 4px;
+      display: flex;
+      font-size: 20px;
+      justify-content: center;
+      left: 16px;
+      padding: 12px 16px;
+      position: absolute;
+      top: 16px;
+      width: auto
+    }
+
+    .ismanga .ismanga-click-translate-overlay__disabled-text {
+      color: #fff;
+      font-size: 20px;
+      padding-top: 16px
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-screenshot-translation-content {
+      height: 100%;
+      position: absolute;
+      width: 100%
+    }
+
+    .ismanga .ismanga-screenshot-translation-content__warning {
+      align-items: center;
+      background-color: #6c0e24;
+      box-sizing: border-box;
+      color: #fff;
+      display: flex;
+      font-size: 22px;
+      height: 80px;
+      justify-content: center;
+      left: 0;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 9999
+    }
+
+    .ismanga .ismanga-screenshot-translation-content__warning .ismanga-spinner__inner {
+      border-top-color: #fff
+    }
+
+    .ismanga .ismanga-screenshot-translation-content__spinner-container {
+      margin-left: 12px;
+      position: relative
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__bubble {
+      align-items: center;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      position: absolute;
+      z-index: 10
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__text {
+      color: #000;
+      line-height: 1.2;
+      margin: 0;
+      padding: 4px;
+      cursor: pointer;
+      white-space: normal
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__text--with-hover:hover {
+      background-color: #fff;
+      border-radius: 4px;
+      box-shadow: 0 0 0 2px #b4183d;
+      z-index: 11
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__tooltip {
+      position: absolute;
+      color: #000;
+      background-color: #fff;
+      line-height: 1.2;
+      border-radius: 12px;
+      font-size: 18px;
+      padding: 20px;
+      box-shadow: rgba(149, 157, 165, .2) 0px 8px 24px;
+      z-index: 12;
+      white-space: normal
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__tooltip-close-btn {
+      border: none;
+      color: #000;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      background-color: rgba(0, 0, 0, 0);
+      padding: 0;
+      width: 32px;
+      height: 32px
+    }
+
+    .ismanga .ismanga-text-bubble-content .ismanga-text-bubble-content__tooltip-close-btn svg {
+      width: 14px;
+      height: 14px
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga .ismanga-interaction-content__overlay {
+      align-items: center;
+      background-color: rgba(255, 255, 255, .7);
+      color: #b4183d;
+      display: flex;
+      font-size: 24px;
+      justify-content: center;
+      position: absolute;
+      text-align: center;
+      z-index: 1
+    }
+
+    .ismanga .ismanga-interaction-content__translate-button {
+      background-color: #b4183d;
+      border: 0;
+      border-radius: 2px;
+      box-shadow: none;
+      color: #fff;
+      font-family: "Comic Neue";
+      outline: none;
+      padding: 6px 10px
+    }
+
+    .ismanga .ismanga-interaction-content__translate-button:hover {
+      background-color: #901330
+    }
+  </style>
+  <style>
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga {
+      font-family: "Comic Neue"
+    }
+
+    .ismanga *,
+    .ismanga *::before,
+    .ismanga *::after {
+      box-sizing: border-box
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      padding: 0
+    }
+
+    .ismanga body,
+    .ismanga h1,
+    .ismanga h2,
+    .ismanga h3,
+    .ismanga h4,
+    .ismanga p,
+    .ismanga ul[class],
+    .ismanga ol[class],
+    .ismanga li,
+    .ismanga figure,
+    .ismanga figcaption,
+    .ismanga blockquote,
+    .ismanga dl,
+    .ismanga dd {
+      margin: 0
+    }
+
+    .ismanga body {
+      line-height: 1.5;
+      min-height: 100vh;
+      scroll-behavior: smooth;
+      text-rendering: optimizeSpeed
+    }
+
+    .ismanga ul[class],
+    .ismanga ol[class] {
+      list-style: none
+    }
+
+    .ismanga a:not([class]) {
+      text-decoration-skip-ink: auto
+    }
+
+    .ismanga img {
+      display: block;
+      max-width: 100%
+    }
+
+    .ismanga input,
+    .ismanga button,
+    .ismanga textarea,
+    .ismanga select {
+      font: inherit
+    }
+
+    @media(prefers-reduced-motion: reduce) {
+      .ismanga * {
+        animation-duration: .01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important
+      }
+    }
+
+    .ismanga.ismanga-preloader {
+      background-color: rgba(0, 0, 0, .1);
+      color: #b4183d;
+      font-size: 16px;
+      overflow: hidden;
+      position: absolute;
+      text-align: left
+    }
+
+    .ismanga.ismanga-preloader div {
+      padding: 8px
+    }
+
+    .ismanga.ismanga-preloader span {
+      animation: slowshow 2s ease 0s infinite;
+      color: #b4183d;
+      font-size: 28px;
+      opacity: 0
+    }
+
+    @keyframes slowshow {
+      100% {
+        opacity: 1
+      }
+    }
+
+    .ismanga.ismanga-control-panel-container {
+      left: 0;
+      position: fixed;
+      top: 40%;
+      z-index: 99999 !important
+    }
+  </style>
+</head>
+
+<body id="home">
+  <div class="frame">
+    <div class="logobar">
+      <div class="container"><a href="https://ijscar.org" class="navbar-brand navigate"><span class="brand-text">IJSCAR
+            Winter Research Symposium 2025</span></a>
+        <div class="place">January 11, 2025 <a href="https://ijscar.org/events" class="navigate">Online</a></div>
+      </div>
+    </div>
+
+    <div id="content" class="container">
+      <div class="row">
+        <div class="col-sm-7">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="page-header">
+                <h1>IJSCAR Winter Research Symposium 2025</h1>
+              </div>
+              <p>The IJSCAR Winter Research Symposium 2025 will be held on January 11, 2025 from 8:00 PM to 10:30 PM
+                (EST).</p>
+              <p>The symposium will be held online via Zoom. Through the symposium, we will be discussing the latest
+                research in the field of secondary computing and applications.</p>
+              <p>The judges will evaluate the submissions and select the top 3 papers for a certificate of excellence.
+                The judges will evaluate the submissions and select the top 3 papers for a certificate of excellence.
+              </p>
+            </div>
+          </div>
+          <div class="page-header">
+            <h3>Submission Guidelines</h3>
+            <p>Authors should submit and abstract of 1000 words or less.
+              The abstract should introduce the problem at a high level, and make explicit the contribution of the
+              paper.
+              Work in progress abstracts are welcome.
+              There are no proceedings for this event, so submissions can be work that has already been published.
+            </p>
+            <p>Submissions will be accepted on a rolling basis, starting in January 2025.
+              Authors will be notified of acceptance by January 10, 2025.</p>
+            <p>Submissions should be submitted to <a
+                href="mailto:contact@ijscar.org?subject=Winter%202025%20Submission">contact@ijscar.org</a>.</p>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="page-header">
+                <h3>Schedule Overview</h3>
+              </div>
+              <table class="table table-hover">
+                <thead>
+                  <tr>
+                    <th>Time (EST)</th>
+                    <th>Event</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>8:00 PM - 8:15 PM</td>
+                    <td>Welcome and Opening Remarks</td>
+                  </tr>
+                  <tr>
+                    <td>8:15 PM - 9:15 PM</td>
+                    <td>Poster Sessions in breakout rooms. Judges will rotate between rooms.</td>
+                  </tr>
+                  <tr>
+                    <td>9:15 PM - 9:30 PM</td>
+                    <td>Panel Discussion (How to write do impactful research) and Q&A with Judges</td>
+                  </tr>
+                  <tr>
+                    <td>9:30 PM - 10:00 PM</td>
+                    <td>Research Presentations (3 presentations × 10 minutes each)</td>
+                  </tr>
+                  <tr>
+                    <td>10:00 PM - 10:30 PM</td>
+                    <td>Awards Announcement and Closing Remarks</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <h3>Judges</h3>
+              <div id="8c2cc343d2b73ac7cabd5cc2abbf8832wrapper">
+                <div id="8c2cc343d2b73ac7cabd5cc2abbf8832"><a
+                    href="https://icfp24.sigplan.org/details/icfp-2024-papers/37/Refinement-Types-from-Light-to-Deep-Verification"
+                    class="highlight-carousel-item navigate">
+                    <div class="thumbnail"><span style="position:absolute;"></span><img alt="Mark Santolucito"
+                        src="https://media.licdn.com/dms/image/v2/C4E03AQEnmdTDfBzIYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1662817362451?e=2147483647&v=beta&t=8dOgv1HsmHP7rIxQ_Yj4UqGXeEYybY2Nh3xqfDea6vU"
+                        class="outputimage owl-top" />
+                      <div class="caption">
+                        <div class="owl-bottom">
+                          <h5>Professor Mark Santolucito</h5>
+                          <h6><i>Barnard College, Columbia University</i></h6>
+                        </div>
+                      </div>
+                    </div>
+                  </a><a href="https://icfp24.sigplan.org/details/icfp-2024-papers/36/Requirements-are-All-You-Need"
+                    class="highlight-carousel-item navigate">
+                    <div class="thumbnail"><span style="position:absolute;"></span><img alt="Maria Hwang"
+                        src="https://media.licdn.com/dms/image/v2/C4E03AQEcjOXw_tvFag/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1612036238074?e=2147483647&v=beta&t=-ieWn6C4zMaiREgrPWplBRIEpgfkiuC3k8tz_y4zovM"
+                        class="outputimage owl-top" />
+                      <div class="caption">
+                        <div class="owl-bottom">
+                          <h5>Professor Maria Hwang</h5>
+                          <h6><i>Fashion Institute of Technology, SUNY</i></h6>
+                        </div>
+                      </div>
+                    </div>
+                  </a><a href="https://icfp24.sigplan.org/details/icfp-2024-papers/38/Capabilities-for-Control"
+                    class="highlight-carousel-item navigate">
+                    <div class="thumbnail"><span style="position:absolute;"></span><img alt="Elven Shum"
+                        src="data:image/jpeg;base64,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"
+                        class="outputimage owl-top" />
+                      <div class="caption">
+                        <div class="owl-bottom">
+                          <h5>Elven Shum</h5>
+                          <h6><i>Yale University</i></h6>
+                        </div>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+              <script type="text/javascript">$(document).ready(function () {
+
+                  $("#8c2cc343d2b73ac7cabd5cc2abbf8832").owlCarousel({
+
+                    autoPlay: 15000, //Set AutoPlay to 15 sec
+
+                    items: 4,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [979, 4],
+                    itemsTablet: [768, 3],
+                    itemsTabletSmall: [600, 2],
+                    itemsMobile: [479, 2],
+                    itemsScaleUp: false,
+                    stopOnHover: true,
+                    responsiveBaseWidth: "#8c2cc343d2b73ac7cabd5cc2abbf8832wrapper"
+
+
+                  });
+
+                });
+              </script>
+              <script type="text/javascript">$(window).on('load', function () {
+                  var a = [/*"owl-top",*/ "owl-bottom"];
+                  a.forEach(function (cl) {
+                    var maxHeight = 0;
+                    $('#8c2cc343d2b73ac7cabd5cc2abbf8832 .' + cl + ',#8c2cc343d2b73ac7cabd5cc2abbf8832 .' + cl + ' *').each(function () {
+                      var thisHeight = $(this).outerHeight(true);
+                      if (thisHeight > maxHeight) {
+                        maxHeight = thisHeight;
+                      }
+                    });
+                    $('#8c2cc343d2b73ac7cabd5cc2abbf8832 .' + cl).css('height', maxHeight);
+                  });
+                });
+              </script>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4 col-sm-offset-1 sidebar">
+          <div class="panel panel-primary">
+            <div class="panel-heading clearfix">
+              <div class="panel-title">How to submit</div>
+            </div>
+            <div class="panel-body">
+              <p>Submissions will open on Dec 15, 2024, and will close on January 5, 2025.
+                Authors will be notified of acceptance on a rolling basis, starting in January 2025.
+                There is no fee to submit or participate.</p>
+            </div>
+          </div>
+          <div class="panel panel-warning">
+            <div class="panel-heading clearfix">
+              <div class="panel-title">Supporters</div>
+            </div>
+            <table class="table table-hover">
+              <tr href="https://www.lumiere-education.com/" title="Lumiere" class="clickable-row new-window">
+                <td><span class="supporter-logo "><img alt="Lumiere" src="images/Lumiere.png"
+                      class="outputimage" /></span></td>
+                <td>Lumiere Education <br> Diamond Sponsor</td>
+              </tr>
+              <tr title="Become a Sponsor">
+                <td><span class="supporter-logo "><img alt="Become a Sponsor" src="images/hands.jpg"
+                      class="outputimage" /></span></td>
+                <td><a href="mailto:contact@ijscar.org?subject=Winter%202025%20Sponsorship%20Inquiry">Become a
+                    Sponsor</a> </td>
+              </tr>
+
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="notifications-ph" class="webdsl-placeholder"></div>
+    <div id="event-modal-loader" class="webdsl-placeholder">
+      <form name="form_131600131703c411e65b13378d08eb1f6672b5a0259"
+        id="form_131600131703c411e65b13378d08eb1f6672b5a0259"
+        action="https://icfp24.sigplan.org/eventDetailsModalByAjaxConferenceEdition" accept-charset="UTF-8"
+        method="POST" class="hidden"><input type="hidden" name="form_131600131703c411e65b13378d08eb1f6672b5a0259"
+          value="1"><input type="hidden" name="context" value="icfp-2024"><input name="ae03f7f6f951d515a297b161e922205d"
+          type="text" value="" class="inputString form-control event-id-input"><button
+          style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+          onclick="javascript:serverInvoke(&quot;https://icfp24.sigplan.org/eventDetailsModalByAjaxConferenceEdition&quot;,&quot;eventDetailsModalByAjaxConferenceEdition_ia0_3c411e65b13378d08eb1f6672b5a0259&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icfp-2024&quot;},],&quot;form_131600131703c411e65b13378d08eb1f6672b5a0259&quot;, this.nextSibling, false,&quot;event-modal-loader&quot;); return false;"></button><a
+          submitid="eventDetailsModalByAjaxConferenceEdition_ia0_3c411e65b13378d08eb1f6672b5a0259"
+          href="javascript:void(0)" onclick="javascript:loadImageElem=this;$(this.previousSibling).click()"
+          id="load-modal-action"></a></form>
+    </div>
+    <div id="event-star-form" class="webdsl-placeholder">
+      <form name="form_509860938088b48fd14544d4239b498a2cf339e02b" id="form_509860938088b48fd14544d4239b498a2cf339e02b"
+        action="https://icfp24.sigplan.org/eventStarByAjaxConferenceEdition" accept-charset="UTF-8" method="POST"
+        class="hidden"><input type="hidden" name="form_509860938088b48fd14544d4239b498a2cf339e02b" value="1"><input
+          type="hidden" name="context" value="icfp-2024"><input name="a0b55aa29cf9431a9461b359872014e3" type="text"
+          value="" class="inputString form-control event-id-input"><button
+          style="position: absolute; left: -9999px; width: 1px; height: 1px;"
+          onclick="javascript:serverInvoke(&quot;https://icfp24.sigplan.org/eventStarByAjaxConferenceEdition&quot;,&quot;eventStarByAjaxConferenceEdition_ia0_88b48fd14544d4239b498a2cf339e02b&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icfp-2024&quot;},],&quot;form_509860938088b48fd14544d4239b498a2cf339e02b&quot;, this.nextSibling, false,&quot;event-star-form&quot;); return false;"></button><a
+          submitid="eventStarByAjaxConferenceEdition_ia0_88b48fd14544d4239b498a2cf339e02b" href="javascript:void(0)"
+          onclick="javascript:loadImageElem=this;$(this.previousSibling).click()" id="star-event-action"></a></form>
+    </div>
+    <div id="event-modals" class="webdsl-placeholder"></div>
+    <script type="text/javascript">(function () {
+        var post_process_function = function (n) { var node = (n && n.nodeType === 1) ? n : document; addEventModalLoadOnClick(node); addStarredEventOnClick(node); };
+        var original_post_process_func = ajax_post_process;
+        ajax_post_process = function () {
+          original_post_process_func.apply(this, arguments);
+          post_process_function.apply(this, arguments);
+        };
+        $(document).ready(post_process_function);
+      })();   
+    </script>
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-box">
+          <div class="row">
+            <div class="col-sm-3">
+              <p><a href="https://ijscar.org/" class="navigate">International Journal of Secondary Computing and
+                  Applications Research © </a></p>
+            </div>
+          </div>
+        </div>
+    </footer>
+  </div>
+  <script type="text/javascript">(function () {
+      var post_process_function = function (n) { var node = (n && n.nodeType === 1) ? n : document; var defaultplacement = $(document).scrollLeft() > 100 ? 'auto left' : 'auto top'; $(node).find('[title]').each(function (i, el) { var $e = $(el); var $parent = $e.parent(); $e.tooltip({ placement: function (tt, elem) { var attval = elem.getAttribute('data-placement'); return attval ? attval : defaultplacement; }, sanitize: false, container: $parent.hasClass('btn-group') || $parent.hasClass('input-group') ? $parent.parent() : false }) }); $('.tooltip.fade.in, .ui-tooltip-content').remove(); };
+      var original_post_process_func = ajax_post_process;
+      ajax_post_process = function () {
+        original_post_process_func.apply(this, arguments);
+        post_process_function.apply(this, arguments);
+      };
+      $(document).ready(post_process_function);
+    })();   
+  </script>
+  <script type="text/javascript">jQuery(document).ready(function ($) {
+      $(".clickable-row").click(function () {
+        var href = $(this).attr("href");
+        if (window.location.href.indexOf(href) < 0) {
+          if ($(this).hasClass('new-window')) {
+            window.open(href);
+          } else {
+            window.document.location = href;
+          }
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>
