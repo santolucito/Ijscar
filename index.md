@@ -108,7 +108,6 @@ There is no fee to submit an article.
 Typically, academic journals do not pay their reviewers in exchange for credit for "academic service".
 In recognition of the time and effort that goes into reviewing papers, and in service of moving towards a more equitable academic publishing model, we run a unique reviewing process where all reviewers are paid a modest stipend per review.
 In order to cover these costs of the review process as well as publication, for accepted papers only, we charge a $450 USD administrative fee.
-**As a new journal, we are currently waiving this fee through the end of 2024. Starting January 1, 2025, we will charge a $450 USD administrative fee.**
 
 We have a special **scholarship program** for students from disadvantaged backgrounds and special circumstances. To learn more about how to apply to this scholarship program please contact us at the below email address.  
 
