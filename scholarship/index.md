@@ -2,7 +2,7 @@
 
 IJSCAR is proud to announce the **IJSCAR Scholarship for Excellence in Secondary School Research**, recognizing outstanding original research in computing and its applications by secondary school students.
 
-![Download Poster (PDF)](mayscholarship.pdf)
+<embed src="./mayscholarship.pdf" type="application/pdf" width="100%" height="600px">
 
 ## Scholarship Overview
 
