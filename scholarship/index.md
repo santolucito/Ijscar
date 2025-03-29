@@ -17,7 +17,7 @@ The winner will receive **$500 USD** and have the chance to have their extended 
 To apply, you must:
 
 - Be a current **secondary school student** (equivalent to US grades 9-12).
-- Prepare a 2 page (max) extended abstract of your **research project in computer science or a related area**. Please use the [IJSCAR Overleaf template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746)
+- Prepare a 2 page (max), anonymized extended abstract of your **research project in computer science or a related area**. Please use the [IJSCAR Overleaf template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746)
 - The work should be original and not published, or under review elsewhere.
 
 ## Application Process
@@ -31,6 +31,8 @@ Please complete the [application form](https://docs.google.com/forms/d/e/1FAIpQL
 
 ## Evaluation Criteria
 
+The evaluation process is double-blind.
+Please ensure that your name and contact information are not included in the pdf.
 Submissions will be evaluated by the IJSCAR editorial board based on:
 
 - Originality and impact of the research.
