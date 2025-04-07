@@ -41,8 +41,8 @@ Submissions will be evaluated by the IJSCAR editorial board based on:
 
 ## Timeline
 
-- **Deadline:** May 1, 2025  
-- **Results Announced:** June 1, 2025  
+- **Deadline:** June 30, 2025  
+- **Results Announced:** July 15, 2025  
 - **Publication Date:** Optionally, at no fee, the winning extended abstract will be published in the next issue of IJSCAR. Note this may require some revisions to the extended abstract to meet the journal's formatting standards. If the author would like to publish their work at another venue instead of with IJSCAR, they are welcome to do so.
 
 ## Contact
