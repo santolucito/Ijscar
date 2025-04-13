@@ -18,5 +18,6 @@ if (code) {
 }
 </script>
 
+If you have any questions, please contact us at [contact@ijscar.org](mailto:contact@ijscar.org).
 
 ![logo](../logo.png)
