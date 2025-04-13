@@ -10,7 +10,7 @@ The IJSCAR Scholarship is awarded to students whose research demonstrates creati
 
 ## Award
 
-The winner will receive **$500 USD** and have the chance to have their extended abstract published in the next issue of IJSCAR.
+The top 3 submissions will receive **$500 USD** and have the chance to have their extended abstract published in the next issue of IJSCAR.
 
 ## Eligibility
 
@@ -22,7 +22,7 @@ To apply, you must:
 
 ## Application Process
 
-Please complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfqrdhEK9quy5GZQMxLWoX5gsvSpDT6hqY5HRNv_KL-MY8E8A/viewform?usp=sharing) by **May 1, 2025**. For this form, you will need to provide:
+Please complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfqrdhEK9quy5GZQMxLWoX5gsvSpDT6hqY5HRNv_KL-MY8E8A/viewform?usp=sharing) by **June 30, 2025**. For this form, you will need to provide:
 
 1. Your name and contact information.
 2. Your school and grade.
