@@ -1,5 +1,3 @@
-![logo](./logo.png)
-
 IJSCAR is a highly-selective (approx. 30% acceptance rate), open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
 
 IJSCAR is meant to fill a gap in the space of academic journals for computing and high school students.
@@ -107,9 +105,7 @@ All articles are published as open-access and are assigned a DOI so that they ca
 There is no fee to submit an article.
 Typically, academic journals do not pay their reviewers in exchange for credit for "academic service".
 In recognition of the time and effort that goes into reviewing papers, and in service of moving towards a more equitable academic publishing model, we run a unique reviewing process where all reviewers are paid a modest stipend per review.
-In order to cover these costs of the review process as well as publication, for accepted papers only, we charge a $450 USD administrative fee.
-
-We have a special **scholarship program** for students from disadvantaged backgrounds and special circumstances. To learn more about how to apply to this scholarship program please contact us at the below email address.  
+In order to cover these costs of the review process as well as publication, for accepted papers only, we charge a $450 USD administrative fee. 
 
 ## Contact Us
 
@@ -117,5 +113,7 @@ For any inquiries, please contact us at:
 
 - **Email:** [contact@ijscar.org](mailto:contact@ijscar.org)
 - **Address:** 217 Manhattan Ave, Unit 4C, New York, NY 10025, USA
+
+![logo](./logo.png)
 
 <!--- Follow us on [Twitter](https://twitter.com/ijscar) and [LinkedIn](https://www.linkedin.com/company/ijscar). --->
