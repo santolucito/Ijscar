@@ -41,6 +41,7 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 - **Staff:**
   - Deputy Editor: Elven Shum
+  - Executive Deputy Director (Asia): Sujin Kim
 
 ## Submission Guidelines
 
