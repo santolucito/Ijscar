@@ -16,7 +16,7 @@ The top 3 submissions will receive **$500 USD** and have the chance to have thei
 
 To apply, you must:
 
-- Be a current **secondary school student** (equivalent to US grades 9-12).
+- Be a current **secondary school student** (equivalent to US grades 9-12). You can be of any grade from 9th through 12th and you may submit as a group or as an individual. If you do submit as a group, the award is still $500 for the group's submission and one person must be selected to receive the entirety of the scholarship.  
 - Prepare a 2 page (max), anonymized extended abstract of your **research project in computer science or a related area**. Please use the [IJSCAR Overleaf template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746)
 - The work should be original and not published, or under review elsewhere.
 
