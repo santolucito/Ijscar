@@ -113,7 +113,7 @@ In order to cover these costs of the review process as well as publication, for 
 For any inquiries, please contact us at:
 
 - **Email:** [contact@ijscar.org](mailto:contact@ijscar.org)
-- **Address:** 217 Manhattan Ave, Unit 4C, New York, NY 10025, USA
+- **Address:** 217 Manhattan Ave, Unit 6E, New York, NY 10025, USA
 
 ![logo](./logo.png)
 
