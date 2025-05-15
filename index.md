@@ -1,10 +1,10 @@
-IJSCAR is a highly-selective (approx. 30% acceptance rate), open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school.
+IJSCAR is a highly-selective (approx. 30% acceptance rate), open-access journal dedicated to publishing high-quality research in the field of computing and applications, with a special focus on researchers in secondary school, with **current professors and/or experts in the field of computing and applications research**. 
 
 IJSCAR is meant to fill a gap in the space of academic journals for computing and high school students.
 While there are many journals that publish research in computing, there are few that are specifically designed to cater to the needs of secondary school students. 
 On the other hand, existing journals for high school students are often more focused on science research in general and do not provide a dedicated platform for computing research.
 Computing research has a fundamentally different methodology and set of tools compared to other scientific disciplines, and we believe that it is important to provide a space where young researchers can publish their work and engage with the broader computing research community.
-Our goal is to, by providing a platform for young researchers to publish their work, help foster the next generation of computing researchers.
+Our goal is to, by providing a platform for young researchers to publish their work, help foster the next generation of computing researchers, especially by providing feedback from **current professors and experts in the field of computing**. 
 
 ## About IJSCAR
 
@@ -26,7 +26,7 @@ The International Journal of Secondary Computing and Applications Research (IJSC
 If you do not see your specific area of research listed above, please feel free to submit your work. We are open to a wide range of topics within the field of computing and applications of computing.
 
 Our mission is to disseminate cutting-edge research that can contribute to the development and understanding of computing, while supporting the next generation of researchers. 
-To this end, every paper must include at least one co-author who is enrolled in a secondary school at the time of submission.
+To this end, every paper must include at least one co-author who is enrolled in a secondary school (equivalent to US 9th through 12th grade) at the time of submission.
 
 ## Editorial Board
 
@@ -74,7 +74,7 @@ Authors may also choose to withdraw their paper at any time in case they feel th
 
 To ensure a high level of academic rigor, all submissions will undergo a single-blind peer review process. 
 This means that the identities of the authors will be made known to the reviewers, but the reviewers will remain anonymous to the authors.
-All reviewers are experts in the field of computing and applications research and will provide detailed feedback to help authors improve their work.
+All reviewers are **experts in the field of computing and applications research** and will provide detailed feedback to help authors improve their work.
 Specifically all reviewers hold a Ph.D. (or equivalent) in a relevant field. 
 We do allow sub-reviews from graduate students of professors who are reviewers, as a way to engage the next generation of researchers in the review process.
 All reviewers (or sub-reviewers where relevant) will be paid a small stipend for their review.
