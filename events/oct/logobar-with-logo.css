@@ -1,0 +1,53 @@
+.navbar-brand {
+  position: relative;
+  background-image: url('../../logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 150px;
+  z-index: 3;
+  margin: 10px;
+}
+
+.brand-text {
+  opacity: 0;
+}
+
+div.logobar {
+  padding: 10px 5px;
+  background-color: rgb(256, 256, 256);
+  color: #777777;
+  font-size: large
+}
+
+.logobar .container {}
+
+.logobar a {
+  color: #4e5e6b;
+}
+
+.navbar {
+  border-top: none !important;
+}
+
+.navbar-brand {
+  font-size: 36px;
+}
+
+.navbar {
+  border-radius: 0px !important;
+}
+
+.place {
+  float: left;
+  padding: 53px 0 0 0
+}
+
+.place a {
+  display: block;
+}
+
+.place2 {
+  float: right;
+  padding: 23px 0 0 0px
+}
