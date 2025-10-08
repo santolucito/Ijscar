@@ -2,7 +2,7 @@
 
 Writing an abstract is a crucial skill for any researcher. It’s often the first part of your paper that readers engage with, and it's essential to provide a clear, concise summary of your work. Abstracts are not just mini-versions of your paper; they need to distill the key points, contributions, and results, and entice your audience to read more.
 
-In this post, I'll offer a practical framework for writing an abstract, using a surprisingly relevant analogy—the structure of the Gettysburg Address by Abraham Lincoln. The speech, famous for its brevity and power, mirrors the flow of an effective abstract. Let’s break it down.
+I was inspired to write this after my student Will asked for a framework for writing an abstract. After explaining the idea to him, he actually suggested using the surprisingly relevant analogy of the structure of the Gettysburg Address by Abraham Lincoln. The speech, quite to my surprise, mirrors what I had told Will was the flow of an effective scientific abstract.
 
 ### 1. **Start with Context and Motivation ("Generic Growth")**
    - *"Four score and seven years ago our fathers brought forth, on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."*
