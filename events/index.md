@@ -4,7 +4,7 @@
 
 ### Fall Research Symposium 2025
 
-The IJSCAR Fall Research Symposium 2025 will be held on October 11, 2025, 11am EST.
+The IJSCAR Fall Research Symposium 2025 will be held on October 18, 2025, 11am EST.
 See the [Fall Research Symposium 2025](oct.html) page for more information.
 
 ## Past Events
