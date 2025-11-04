@@ -46,11 +46,13 @@ To this end, every paper must include at least one co-author who is enrolled in 
 
 ## Submission Guidelines
 
-We invite researchers and practitioners to submit their original research papers, literature reviews, and case studies. Manuscripts should be formatted according to the following guidelines:
+We invite researchers and practitioners to submit original research papers, literature reviews, and case studies.
 
-1. **Format:** Manuscripts should be submitted in LaTeX format using the provided [LaTeX Template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746).
-2. **Length:** Articles should be at least 2 pages, and not exceed 10 pages, not including references and appendices.
-3. **Submission:** Send your manuscript (as a .pdf) to [submissions@ijscar.org](mailto:submissions@ijscar.org).
+**Format:** Authors are encouraged to use the Overleaf [LaTeX template](https://www.overleaf.com/read/ggbvzrsvpnhs#b64746) and submit a .zip file containing all source files and the compiled PDF. If authors encounter challenges using LaTeX, manuscripts may be submitted in Word or PDF format instead. For Word/PDF submissions, please attach all figures separately in the highest resolution possible.
+
+**Length:** Articles should be between 2 and 10 pages, excluding references and appendices.
+
+**Submission:** Send the PDF of your manuscript to [submissions@ijscar.org](mailto:submissions@ijscar.org).
 
 
 
