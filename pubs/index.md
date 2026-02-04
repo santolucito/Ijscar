@@ -16,3 +16,8 @@ On this page, you can find the publications of IJSCAR.
 
 - [Volume 2, Issue 2](vol2-issue2.pdf)
 
+
+## 2026
+
+- [Volume 3, Issue 1](vol3-issue1.pdf)
+
