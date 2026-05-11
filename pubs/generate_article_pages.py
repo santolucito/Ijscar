@@ -107,6 +107,30 @@ STOPWORDS = {
     "study", "case", "approach", "analysis", "framework", "model", "method",
     "towards", "against", "use", "used", "uses", "understanding", "comparing",
     "leveraging", "enhancing", "streamlining", "predicting", "detecting",
+    # generic ML/AI terms to avoid since almost every article uses them
+    "machine", "learning", "deep", "artificial", "intelligence", "neural",
+    "network", "networks", "performance", "traditional", "comparative",
+    "hybrid", "automated", "automatic", "classification", "detection",
+    "prediction", "modeling", "models", "algorithm", "algorithms",
+    "data", "dataset", "results", "system", "systems", "code", "generation",
+    "large", "language", "llm", "llms", "ai", "ml",
+}
+
+# Manual overrides for slugs where auto-extraction still produces vague results.
+# Key: (volume, issue, author_last_lowercase)  Value: keyword suffix to use
+SLUG_OVERRIDES = {
+    ("1", "1", "zhang"):       "midi",
+    ("1", "1", "pallapothu"):  "cardiac-mri",
+    ("1", "1", "wang"):        "sonic-pi",
+    ("1", "1", "amarnath"):    "infrastructure-as-code",
+    ("2", "1", "hwang"):       "glaucoma-detection",
+    ("2", "1", "maganti"):     "heat-pollution",
+    ("2", "1", "raghav"):      "verilog",
+    ("2", "1", "carvalho"):    "cloud-seeding",
+    ("3", "1", "ranjit"):      "breast-cancer-survival",
+    ("3", "1", "mkrtumyan"):   "phishing-imbalanced",
+    ("3", "1", "sanku"):       "disaster-path-planning",
+    ("3", "1", "cheng"):       "epta-zinc-docking",
 }
 
 
@@ -120,7 +144,8 @@ def make_slug(row):
     vol = row["volume"]
     iss = row["issue"]
     last = slugify(row["author_Last"])
-    kw = title_keywords(row["article_title"])
+    key = (vol, iss, last)
+    kw = SLUG_OVERRIDES.get(key) or title_keywords(row["article_title"])
     return f"vol{vol}-issue{iss}-{last}-{kw}"
 
 
