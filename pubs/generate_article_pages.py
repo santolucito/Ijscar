@@ -100,11 +100,28 @@ description: "{authors_line} — IJSCAR Vol. {vol}, Issue {iss}, {year}, pp. {p_
     return page.strip() + "\n"
 
 
+STOPWORDS = {
+    "a", "an", "the", "and", "or", "but", "of", "in", "on", "at", "to",
+    "for", "with", "by", "from", "as", "is", "its", "it", "that", "this",
+    "using", "based", "how", "their", "our", "we", "via", "into", "through",
+    "study", "case", "approach", "analysis", "framework", "model", "method",
+    "towards", "against", "use", "used", "uses", "understanding", "comparing",
+    "leveraging", "enhancing", "streamlining", "predicting", "detecting",
+}
+
+
+def title_keywords(title, n=2):
+    words = re.sub(r"[^\w\s]", " ", title).split()
+    keywords = [w for w in words if w.lower() not in STOPWORDS and len(w) > 2]
+    return "-".join(slugify(w) for w in keywords[:n])
+
+
 def make_slug(row):
     vol = row["volume"]
     iss = row["issue"]
     last = slugify(row["author_Last"])
-    return f"vol{vol}-issue{iss}-{last}"
+    kw = title_keywords(row["article_title"])
+    return f"vol{vol}-issue{iss}-{last}-{kw}"
 
 
 def main():
