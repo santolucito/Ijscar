@@ -26,4 +26,4 @@ In this research paper we examine the co-occurrence of extreme heat and humidity
 
 ---
 
-[View Full Issue PDF](../vol2-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue1.pdf#page=9){: .button} &nbsp; [All Publications](../)

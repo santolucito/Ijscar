@@ -26,4 +26,4 @@ Phishing emails remain a persistent cybersecurity threat as attackers continue t
 
 ---
 
-[View Full Issue PDF](../vol3-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue1.pdf#page=24){: .button} &nbsp; [All Publications](../)

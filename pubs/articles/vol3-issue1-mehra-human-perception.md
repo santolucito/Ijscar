@@ -26,4 +26,4 @@ Large Language Models (LLMs) now generate phishing emails indistinguishable from
 
 ---
 
-[View Full Issue PDF](../vol3-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue1.pdf#page=4){: .button} &nbsp; [All Publications](../)

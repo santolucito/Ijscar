@@ -26,4 +26,4 @@ Research has demonstrated that creating music and soundscapes with tools like So
 
 ---
 
-[View Full Issue PDF](../vol1-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol1-issue1.pdf#page=19){: .button} &nbsp; [All Publications](../)

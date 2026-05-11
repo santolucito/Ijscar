@@ -26,4 +26,4 @@ This paper explores the application of large language models (LLMs) for music ge
 
 ---
 
-[View Full Issue PDF](../vol1-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol1-issue1.pdf#page=3){: .button} &nbsp; [All Publications](../)

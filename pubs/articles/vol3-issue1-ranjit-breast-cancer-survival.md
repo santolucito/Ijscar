@@ -26,4 +26,4 @@ Breast cancer remains the most commonly diagnosed cancer among women worldwide w
 
 ---
 
-[View Full Issue PDF](../vol3-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue1.pdf#page=13){: .button} &nbsp; [All Publications](../)

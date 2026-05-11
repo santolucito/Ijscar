@@ -26,4 +26,4 @@ In disaster-stricken environments such as collapsed buildings landslides or eart
 
 ---
 
-[View Full Issue PDF](../vol3-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue1.pdf#page=31){: .button} &nbsp; [All Publications](../)

@@ -26,4 +26,4 @@ This study develops and evaluates the performance and computational efficiency o
 
 ---
 
-[View Full Issue PDF](../vol2-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue1.pdf#page=3){: .button} &nbsp; [All Publications](../)

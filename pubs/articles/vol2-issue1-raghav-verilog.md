@@ -26,4 +26,4 @@ Recent advancements in Large Language Models (LLMs) have transformed code genera
 
 ---
 
-[View Full Issue PDF](../vol2-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue1.pdf#page=23){: .button} &nbsp; [All Publications](../)

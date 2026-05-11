@@ -58,7 +58,7 @@ def make_page(row):
     p_start = row["page_start"].strip()
     p_end = row["page_end"].strip()
     doi = row["doi"].strip()
-    pdf_path = ISSUE_PDF.get((vol, iss), "../pubs/")
+    pdf_path = ISSUE_PDF.get((vol, iss), "../pubs/") + f"#page={p_start}"
 
     authors_line = format_authors_line(row)
 

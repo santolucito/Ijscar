@@ -26,4 +26,4 @@ Game development is a field that benefits immensely from using Generative Artifi
 
 ---
 
-[View Full Issue PDF](../vol1-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol1-issue1.pdf#page=24){: .button} &nbsp; [All Publications](../)
