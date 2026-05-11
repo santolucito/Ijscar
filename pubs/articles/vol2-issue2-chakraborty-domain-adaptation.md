@@ -26,4 +26,4 @@ This paper investigates whether Domain Adaptation techniques can significantly i
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=28){: .button} &nbsp; [All Publications](../)

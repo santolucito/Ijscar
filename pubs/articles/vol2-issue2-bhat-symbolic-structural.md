@@ -26,4 +26,4 @@ Systemic risk in financial systems is frequently thought to rise largely from ma
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=14){: .button} &nbsp; [All Publications](../)

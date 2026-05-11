@@ -26,4 +26,4 @@ Water is one of the most essential resources on Earth yet many regions face seve
 
 ---
 
-[View Full Issue PDF](../vol2-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue1.pdf#page=33){: .button} &nbsp; [All Publications](../)

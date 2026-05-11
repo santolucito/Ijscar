@@ -26,4 +26,4 @@ Antibiotic resistance in multidrug-resistant (MDR) bacteria poses a critical thr
 
 ---
 
-[View Full Issue PDF](../vol3-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue1.pdf#page=37){: .button} &nbsp; [All Publications](../)

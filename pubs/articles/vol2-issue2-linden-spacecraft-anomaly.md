@@ -26,4 +26,4 @@ As space travel becomes increasingly complex and sought after with the prospects
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=21){: .button} &nbsp; [All Publications](../)

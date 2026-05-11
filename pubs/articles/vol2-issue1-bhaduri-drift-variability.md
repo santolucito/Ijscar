@@ -26,4 +26,4 @@ Drift is one of the most unpredictable challenges when operating nano-quadcopter
 
 ---
 
-[View Full Issue PDF](../vol2-issue1.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue1.pdf#page=15){: .button} &nbsp; [All Publications](../)

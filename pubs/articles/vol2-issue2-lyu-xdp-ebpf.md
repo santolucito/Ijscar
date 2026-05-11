@@ -26,4 +26,4 @@ Firewalls are foundational to computer network security yet managing large and c
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=4){: .button} &nbsp; [All Publications](../)

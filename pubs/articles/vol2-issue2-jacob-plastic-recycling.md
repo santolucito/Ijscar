@@ -26,4 +26,4 @@ Not all plastic is recyclable yet many consumers rely on the recycling symbol al
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=8){: .button} &nbsp; [All Publications](../)

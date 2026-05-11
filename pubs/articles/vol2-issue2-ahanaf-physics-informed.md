@@ -26,4 +26,4 @@ Recent advances in machine learning (ML) have opened new frontiers for modeling 
 
 ---
 
-[View Full Issue PDF](../vol2-issue2.pdf){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol2-issue2.pdf#page=16){: .button} &nbsp; [All Publications](../)
