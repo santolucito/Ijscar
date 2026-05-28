@@ -86,14 +86,14 @@
 - [Visualizing Hyperparameters in 2D Drone Navigation](articles/vol3-issue2-punuru-drone-navigation.md)  
   Maanas Punuru, Jan Ole Ernst · pp. TBD
 
-- [Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments](articles/vol3-issue2-goel-plexibot-modular-robot.md)  
-  Kaavya Goel · pp. TBD
-
 - [Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach](articles/vol3-issue2-omar-diffusion-thermodynamics.md)  
   Tawhid Bin Omar · pp. TBD
 
-- [Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control](articles/vol3-issue2-raghavan-backdoor-ev-charging.md)  
-  Ajay Raghavan · pp. TBD
+- [Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments](articles/vol3-issue2-goel-plexibot-modular-robot.md)  
+  Kaavya Goel · pp. TBD
 
 - [Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities](articles/vol3-issue2-mehra-municipal-ai-policy.md)  
   Nikhil Mehra · pp. TBD
+
+- [Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control](articles/vol3-issue2-raghavan-backdoor-ev-charging.md)  
+  Ajay Raghavan · pp. TBD
