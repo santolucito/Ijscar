@@ -13,6 +13,7 @@ ISSUE_PDF = {
     (2, 1): "../vol2-issue1.pdf",
     (2, 2): "../vol2-issue2.pdf",
     (3, 1): "../vol3-issue1.pdf",
+    (3, 2): "../vol3-issue2.pdf",
 }
 
 
@@ -131,6 +132,11 @@ SLUG_OVERRIDES = {
     ("3", "1", "mkrtumyan"):   "phishing-imbalanced",
     ("3", "1", "sanku"):       "disaster-path-planning",
     ("3", "1", "cheng"):       "epta-zinc-docking",
+    ("3", "2", "punuru"):      "drone-navigation",
+    ("3", "2", "goel"):        "plexibot-modular-robot",
+    ("3", "2", "omar"):        "diffusion-thermodynamics",
+    ("3", "2", "raghavan"):    "backdoor-ev-charging",
+    ("3", "2", "mehra"):       "municipal-ai-policy",
 }
 
 
