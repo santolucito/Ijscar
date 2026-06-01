@@ -19,14 +19,15 @@ OUTPUT = f"vol{VOLUME}-issue{ISSUE}.pdf"
 # List PDFs in the order they should appear in the final issue.
 # Paths are relative to this script (pubs/).
 COMPONENTS = [
-    "components/vol3-issue2/cover.pdf",
-    "components/vol3-issue2/editor-letter.pdf",
-    "components/vol3-issue2/toc.pdf",
-    "papers/vol3-issue2/01_punuru.pdf",
-    "papers/vol3-issue2/02_omar.pdf",
-    "papers/vol3-issue2/03_goel.pdf",
-    "papers/vol3-issue2/04_mehra.pdf",
-    "papers/vol3-issue2/05_raghavan.pdf",
+    # ← DROP your cover page PDF here (export from Canva as PDF, put in pubs/)
+    "cover-vol3-issue2.pdf",
+    "editor-letter.pdf",
+    "toc.pdf",
+    "/Users/mariahwang/Downloads/1_Hyperparameters_in_Drone_Navigation_Maanas_FINAL/main.pdf",
+    "/Users/mariahwang/Downloads/2_Entropy_Minimal_Noise_Schedules_for_DDPMs_Tawhid_FINAL/main.pdf",
+    "/Users/mariahwang/Downloads/3_A_Homogeneous_Modular_Robot_for_Adaptive_Locomotion_GOEL_FINAL/ARTICLE.pdf",
+    "/Users/mariahwang/Downloads/4_Municipal_AI_Policy_Usability_NIKHIL_FINAL/Municipal_AI_Policy_IJSCAR_Overleaf/main.pdf",
+    "/Users/mariahwang/Downloads/5_Backdoor_Detection_in_RL_EV_Charging_AJAY_FINAL/main.pdf",
 ]
 # ──────────────────────────────────────────────────────────────────────────────
 

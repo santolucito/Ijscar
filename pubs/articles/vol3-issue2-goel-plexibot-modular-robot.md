@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments"
-description: "Kaavya Goel — IJSCAR Vol. 3, Issue 2, 2026, pp. –"
+description: "Kaavya Goel — IJSCAR Vol. 3, Issue 2, 2026, pp. 16–22"
 ---
 
 # Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments
@@ -10,9 +10,9 @@ Kaavya Goel
 
 **Affiliation:** The Quarry Lane School
 
-**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 16–22
 
-
+**DOI:** [10.67149/yhjs2024.5/n7x5q8jm](https://doi.org/10.67149/yhjs2024.5/n7x5q8jm)
 
 ---
 
@@ -26,4 +26,4 @@ Modular robots represent a transformative approach to robotic design and unmanne
 
 ---
 
-[View Full Issue PDF](../vol3-issue2.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue2.pdf#page=16){: .button} &nbsp; [All Publications](../)

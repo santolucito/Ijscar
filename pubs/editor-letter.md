@@ -10,8 +10,8 @@ issue: 2
 month: "June"
 year: 2026
 date_long: "June 1, 2026"
-issue_doi: "10.5281/zenodo.XXXXXXXX"
-issue_url: "https://ijscar.org/pubs/volume3/issue2"
+issue_doi: "10.67149/yhjs2024.5/7m4qk9d2"
+issue_url: "https://ijscar.org/pubs/vol3-issue2.pdf"
 ---
 
 # Letter from the Editor-in-Chief

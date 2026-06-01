@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach"
-description: "Tawhid Bin Omar — IJSCAR Vol. 3, Issue 2, 2026, pp. –"
+description: "Tawhid Bin Omar — IJSCAR Vol. 3, Issue 2, 2026, pp. 10–15"
 ---
 
 # Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach
@@ -10,9 +10,9 @@ Tawhid Bin Omar
 
 **Affiliation:** St. Joseph Higher Secondary School
 
-**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 10–15
 
-
+**DOI:** [10.67149/yhjs2024.5/k2v9p4cz](https://doi.org/10.67149/yhjs2024.5/k2v9p4cz)
 
 ---
 
@@ -26,4 +26,4 @@ Noise schedules in denoising diffusion probabilistic models (DDPMs) control how 
 
 ---
 
-[View Full Issue PDF](../vol3-issue2.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue2.pdf#page=10){: .button} &nbsp; [All Publications](../)

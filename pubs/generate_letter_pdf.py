@@ -99,20 +99,20 @@ title_style = ParagraphStyle(
 body_style = ParagraphStyle(
     "body",
     fontName="Times-Roman",
-    fontSize=10.5,
-    leading=15,
+    fontSize=10,
+    leading=13.5,
     alignment=TA_JUSTIFY,
-    spaceAfter=10,
+    spaceAfter=7,
 )
 
 sig_style = ParagraphStyle(
     "sig",
     fontName="Times-Roman",
-    fontSize=10.5,
-    leading=15,
+    fontSize=10,
+    leading=13.5,
     alignment=TA_LEFT,
-    spaceBefore=6,
-    spaceAfter=4,
+    spaceBefore=4,
+    spaceAfter=3,
 )
 
 footer_style = ParagraphStyle(
@@ -134,8 +134,8 @@ doc = SimpleDocTemplate(
     pagesize=letter,
     leftMargin=1.1 * inch,
     rightMargin=1.1 * inch,
-    topMargin=0.9 * inch,
-    bottomMargin=1.0 * inch,
+    topMargin=0.75 * inch,
+    bottomMargin=0.75 * inch,
 )
 
 story = []

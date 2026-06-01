@@ -84,16 +84,16 @@
 ### Volume 3, Issue 2 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue2.pdf)
 
 - [Visualizing Hyperparameters in 2D Drone Navigation](articles/vol3-issue2-punuru-drone-navigation.md)  
-  Maanas Punuru, Jan Ole Ernst · pp. TBD
+  Maanas Punuru, Jan Ole Ernst · pp. 4–9
 
 - [Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach](articles/vol3-issue2-omar-diffusion-thermodynamics.md)  
-  Tawhid Bin Omar · pp. TBD
+  Tawhid Bin Omar · pp. 10–15
 
 - [Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments](articles/vol3-issue2-goel-plexibot-modular-robot.md)  
-  Kaavya Goel · pp. TBD
+  Kaavya Goel · pp. 16–22
 
 - [Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities](articles/vol3-issue2-mehra-municipal-ai-policy.md)  
-  Nikhil Mehra · pp. TBD
+  Nikhil Mehra · pp. 23–39
 
 - [Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control](articles/vol3-issue2-raghavan-backdoor-ev-charging.md)  
-  Ajay Raghavan · pp. TBD
+  Ajay Raghavan · pp. 40–46

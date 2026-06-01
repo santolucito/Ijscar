@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities"
-description: "Nikhil Mehra — IJSCAR Vol. 3, Issue 2, 2026, pp. –"
+description: "Nikhil Mehra — IJSCAR Vol. 3, Issue 2, 2026, pp. 23–39"
 ---
 
 # Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities
@@ -10,9 +10,9 @@ Nikhil Mehra
 
 **Affiliation:** Ethical Culture Fieldston School
 
-**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 23–39
 
-
+**DOI:** [10.67149/yhjs2024.5/r4d2w9ky](https://doi.org/10.67149/yhjs2024.5/r4d2w9ky)
 
 ---
 
@@ -26,4 +26,4 @@ As artificial intelligence tools become embedded in government operations U.S. m
 
 ---
 
-[View Full Issue PDF](../vol3-issue2.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue2.pdf#page=23){: .button} &nbsp; [All Publications](../)
