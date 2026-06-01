@@ -186,5 +186,13 @@ story.append(Paragraph(
     footer_style
 ))
 
-doc.build(story)
+def _draw_page_number(canvas, doc):
+    """Draw page number 2 at the bottom centre, matching acmart style."""
+    canvas.saveState()
+    canvas.setFont("Times-Roman", 9)
+    canvas.setFillColor(GRAY)
+    canvas.drawCentredString(letter[0] / 2, 0.5 * inch, "2")
+    canvas.restoreState()
+
+doc.build(story, onFirstPage=_draw_page_number, onLaterPages=_draw_page_number)
 print(f"Wrote {OUTPUT}")
