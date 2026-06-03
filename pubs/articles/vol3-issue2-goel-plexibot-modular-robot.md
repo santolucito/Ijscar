@@ -12,7 +12,7 @@ Kaavya Goel
 
 **IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 16–22
 
-**DOI:** [10.67149/yhjs2024.5/n7x5q8jm](https://doi.org/10.67149/yhjs2024.5/n7x5q8jm)
+**DOI:** [10.67149/yhjs2024.5/n7x5q8jm](../vol3-issue2.pdf#page=16)
 
 ---
 
