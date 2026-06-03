@@ -12,7 +12,7 @@ Ajay Raghavan
 
 **IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 40–46
 
-**DOI:** [10.67149/yhjs2024.5/t8m6z3qp](../vol3-issue2.pdf#page=40)
+**DOI:** [10.67149/yhjs2024.5/t8m6z3qp](vol3-issue2-raghavan-backdoor-ev-charging.pdf)
 
 ---
 

@@ -12,7 +12,7 @@ Maanas Punuru, Jan Ole Ernst
 
 **IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 4–9
 
-**DOI:** [10.67149/yhjs2024.5/bx8r3n6w](../vol3-issue2.pdf#page=4)
+**DOI:** [10.67149/yhjs2024.5/bx8r3n6w](vol3-issue2-punuru-drone-navigation.pdf)
 
 ---
 

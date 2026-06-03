@@ -12,7 +12,7 @@ Tawhid Bin Omar
 
 **IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 10–15
 
-**DOI:** [10.67149/yhjs2024.5/k2v9p4cz](../vol3-issue2.pdf#page=10)
+**DOI:** [10.67149/yhjs2024.5/k2v9p4cz](vol3-issue2-omar-diffusion-thermodynamics.pdf)
 
 ---
 

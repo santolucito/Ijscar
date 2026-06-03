@@ -12,7 +12,7 @@ Nikhil Mehra
 
 **IJSCAR** Vol. 3, Issue 2 (2026) &nbsp;·&nbsp; pp. 23–39
 
-**DOI:** [10.67149/yhjs2024.5/r4d2w9ky](../vol3-issue2.pdf#page=23)
+**DOI:** [10.67149/yhjs2024.5/r4d2w9ky](vol3-issue2-mehra-municipal-ai-policy.pdf)
 
 ---
 
