@@ -16,7 +16,7 @@ issue_url: "https://ijscar.org/pubs/vol3-issue2.pdf"
 
 # Letter from the Editor-in-Chief
 
-It is my pleasure to welcome you to the latest issue of the International Journal of Student Computing and Research (IJSCAR). As the field of computing continues to evolve at an extraordinary pace, this issue showcases the breadth, creativity, and technical rigor that characterize student-led research today. The articles featured here span artificial intelligence, robotics, reinforcement learning security, human-centered policy analysis, and autonomous systems, reflecting both the diversity and interdisciplinary nature of modern computational research.
+It is my pleasure to welcome you to the latest issue of the International Journal of Secondary Computing and Applications Research (IJSCAR). As the field of computing continues to evolve at an extraordinary pace, this issue showcases the breadth, creativity, and technical rigor that characterize student-led research today. The articles featured here span artificial intelligence, robotics, reinforcement learning security, human-centered policy analysis, and autonomous systems, reflecting both the diversity and interdisciplinary nature of modern computational research.
 
 The rapid advancement of intelligent technologies continues to reshape how we interact with information, machines, and the world around us. At the same time, these developments bring new opportunities and challenges, requiring thoughtful research that balances innovation with reliability, security, and societal impact. The contributions in this issue reflect that balance, exploring both foundational questions and practical applications across a range of emerging domains.
 
