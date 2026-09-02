@@ -97,3 +97,23 @@
 
 - [Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control](articles/vol3-issue2-raghavan-backdoor-ev-charging.md)  
   Ajay Raghavan · pp. 40–46
+
+### Volume 3, Issue 3 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue3.pdf)
+
+- [PostureScore: An On-Device Phase-Aware Scoring Pipeline for At-Home Rehabilitation](articles/vol3-issue3-wang-posturescore-rehab.md)  
+  Ella Wang
+
+- [A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data](articles/vol3-issue3-kolesnikov-stopping-rule-pipeline.md)  
+  Alex Kolesnikov
+
+- [Precision versus Efficiency: A Quantized DistilBERT Framework for Automated Mental Health Text Triage](articles/vol3-issue3-goswami-mental-health-triage.md)  
+  Ayaan Goswami, Clayton Greenberg
+
+- [The Effects of Active and Passive Learning Methods](articles/vol3-issue3-lee-active-passive-learning.md)  
+  Jimin Lee
+
+- [An Investigation into Whether Structured Prompting Affects the Similarity of AI-Generated Practice Questions to Teacher-Written Questions](articles/vol3-issue3-tripathy-structured-prompting.md)  
+  Suyash Tripathy
+
+- [A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection](articles/vol3-issue3-singh-iot-intrusion-detection.md)  
+  Pradyumn Singh, Russ Alizadeh

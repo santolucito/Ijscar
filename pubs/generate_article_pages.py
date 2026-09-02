@@ -14,6 +14,7 @@ ISSUE_PDF = {
     (2, 2): "../vol2-issue2.pdf",
     (3, 1): "../vol3-issue1.pdf",
     (3, 2): "../vol3-issue2.pdf",
+    (3, 3): "../vol3-issue3.pdf",
 }
 
 
@@ -137,6 +138,12 @@ SLUG_OVERRIDES = {
     ("3", "2", "omar"):        "diffusion-thermodynamics",
     ("3", "2", "raghavan"):    "backdoor-ev-charging",
     ("3", "2", "mehra"):       "municipal-ai-policy",
+    ("3", "3", "wang"):        "posturescore-rehab",
+    ("3", "3", "kolesnikov"):  "stopping-rule-pipeline",
+    ("3", "3", "goswami"):     "mental-health-triage",
+    ("3", "3", "lee"):         "active-passive-learning",
+    ("3", "3", "tripathy"):    "structured-prompting",
+    ("3", "3", "singh"):       "iot-intrusion-detection",
 }
 
 
