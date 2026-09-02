@@ -132,7 +132,7 @@ python3 generate_article_pages.py
 
 1. Log in to Crossref at [doi.crossref.org](https://doi.crossref.org).
 2. Prepare the metadata XML deposit (or use the web form) for each article.
-3. Each article needs: title, authors, affiliations, abstract, volume, issue, year, page range, ISSN, and the URL of its individual article page on ijscar.org (e.g. `https://ijscar.org/pubs/articles/vol3-issue2-punuru-drone-navigation`).
+3. Each article needs: title, authors, affiliations, abstract, volume, issue, year, page range, ISSN, and the URL of its individual article page on ijscar.org — this is the DOI's "resource URL" and must be the article's own HTML landing page, **not** the merged issue PDF (e.g. `https://ijscar.org/pubs/articles/vol3-issue2-punuru-drone-navigation.html`, not `vol3-issue2.pdf`). Crossref recommends DOIs resolve to a metadata landing page rather than a bare PDF.
 4. Submit the deposit. DOIs are typically activated within a few hours.
 
 ---
