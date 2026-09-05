@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data"
-description: "Alex Kolesnikov — IJSCAR Vol. 3, Issue 3, 2026, pp. –"
+description: "Alex Kolesnikov — IJSCAR Vol. 3, Issue 3, 2026, pp. 14–20"
 ---
 
 # A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data
@@ -10,7 +10,7 @@ Alex Kolesnikov
 
 **Affiliation:** Eton College
 
-**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 14–20
 
 **DOI:** [10.67149/yhjs2024.5/3s7gdh1q](https://doi.org/10.67149/yhjs2024.5/3s7gdh1q)
 
@@ -26,4 +26,4 @@ Stopping-rule experiments ask participants to move through ordered stages until 
 
 ---
 
-[View Full Issue PDF](../vol3-issue3.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue3.pdf#page=14){: .button} &nbsp; [All Publications](../)

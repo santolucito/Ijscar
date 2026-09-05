@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection"
-description: "Pradyumn Singh, Russ Alizadeh — IJSCAR Vol. 3, Issue 3, 2026, pp. –"
+description: "Pradyumn Singh, Russ Alizadeh — IJSCAR Vol. 3, Issue 3, 2026, pp. 41–47"
 ---
 
 # A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection
@@ -10,7 +10,7 @@ Pradyumn Singh, Russ Alizadeh
 
 **Affiliation:** John F. Kennedy High School
 
-**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 41–47
 
 **DOI:** [10.67149/yhjs2024.5/br0qqg04](https://doi.org/10.67149/yhjs2024.5/br0qqg04)
 
@@ -26,4 +26,4 @@ IoT intrusion-detection models are useful only if they detect attacks without be
 
 ---
 
-[View Full Issue PDF](../vol3-issue3.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue3.pdf#page=41){: .button} &nbsp; [All Publications](../)

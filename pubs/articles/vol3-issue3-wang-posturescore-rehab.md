@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation"
-description: "Ella Wang — IJSCAR Vol. 3, Issue 3, 2026, pp. –"
+description: "Ella Wang — IJSCAR Vol. 3, Issue 3, 2026, pp. 4–13"
 ---
 
 # PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation
@@ -10,7 +10,7 @@ Ella Wang
 
 **Affiliation:** Emma Willard School
 
-**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 4–13
 
 **DOI:** [10.67149/yhjs2024.5/17iljp8h](https://doi.org/10.67149/yhjs2024.5/17iljp8h)
 
@@ -26,4 +26,4 @@ After surgery many patients do their rehab exercises at home without knowing whe
 
 ---
 
-[View Full Issue PDF](../vol3-issue3.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue3.pdf#page=4){: .button} &nbsp; [All Publications](../)

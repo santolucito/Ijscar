@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Precision versus Efficiency: A Quantized DistilBERT Framework for Automated Mental Health Text Triage"
-description: "Ayaan Goswami, Clayton Greenberg — IJSCAR Vol. 3, Issue 3, 2026, pp. –"
+description: "Ayaan Goswami, Clayton Greenberg — IJSCAR Vol. 3, Issue 3, 2026, pp. 21–35"
 ---
 
 # Precision versus Efficiency: A Quantized DistilBERT Framework for Automated Mental Health Text Triage
@@ -10,7 +10,7 @@ Ayaan Goswami, Clayton Greenberg
 
 **Affiliation:** Carnegie Vanguard High School
 
-**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 21–35
 
 **DOI:** [10.67149/yhjs2024.5/5wcbbc4m](https://doi.org/10.67149/yhjs2024.5/5wcbbc4m)
 
@@ -26,4 +26,4 @@ This study addresses the challenge of automatically triaging online mental healt
 
 ---
 
-[View Full Issue PDF](../vol3-issue3.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue3.pdf#page=21){: .button} &nbsp; [All Publications](../)

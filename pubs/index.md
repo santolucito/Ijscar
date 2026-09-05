@@ -101,16 +101,16 @@
 ### Volume 3, Issue 3 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue3.pdf)
 
 - [PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation](articles/vol3-issue3-wang-posturescore-rehab.md)  
-  Ella Wang
+  Ella Wang · pp. 4–13
 
 - [A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data](articles/vol3-issue3-kolesnikov-stopping-rule-pipeline.md)  
-  Alex Kolesnikov
+  Alex Kolesnikov · pp. 14–20
 
 - [Precision versus Efficiency: A Quantized DistilBERT Framework for Automated Mental Health Text Triage](articles/vol3-issue3-goswami-mental-health-triage.md)  
-  Ayaan Goswami, Clayton Greenberg
+  Ayaan Goswami, Clayton Greenberg · pp. 21–35
 
 - [The Effects of Active and Passive Learning Methods](articles/vol3-issue3-lee-active-passive-learning.md)  
-  Jimin Lee
+  Jimin Lee · pp. 36–40
 
 - [A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection](articles/vol3-issue3-singh-iot-intrusion-detection.md)  
-  Pradyumn Singh, Russ Alizadeh
+  Pradyumn Singh, Russ Alizadeh · pp. 41–47

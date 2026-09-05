@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Effects of Active and Passive Learning Methods"
-description: "Jimin Lee — IJSCAR Vol. 3, Issue 3, 2026, pp. –"
+description: "Jimin Lee — IJSCAR Vol. 3, Issue 3, 2026, pp. 36–40"
 ---
 
 # The Effects of Active and Passive Learning Methods
@@ -10,7 +10,7 @@ Jimin Lee
 
 
 
-**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. –
+**IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 36–40
 
 **DOI:** [10.67149/yhjs2024.5/76v9axa9](https://doi.org/10.67149/yhjs2024.5/76v9axa9)
 
@@ -26,4 +26,4 @@ While active learning is widely recognized as the more instructional approach fo
 
 ---
 
-[View Full Issue PDF](../vol3-issue3.pdf#page=){: .button} &nbsp; [All Publications](../)
+[View Full Issue PDF](../vol3-issue3.pdf#page=36){: .button} &nbsp; [All Publications](../)
