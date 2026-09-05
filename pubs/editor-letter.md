@@ -6,27 +6,25 @@
 #
 # ISSUE METADATA — update these every issue
 volume: 3
-issue: 2
-month: "June"
+issue: 3
+month: "September"
 year: 2026
-date_long: "June 1, 2026"
-issue_doi: "10.67149/yhjs2024.5/7m4qk9d2"
-issue_url: "https://ijscar.org/pubs/vol3-issue2.pdf"
+date_long: "September 1, 2026"
+issue_doi: ""
+issue_url: "https://ijscar.org/pubs/vol3-issue3.pdf"
 ---
 
 # Letter from the Editor-in-Chief
 
-It is my pleasure to welcome you to the latest issue of the International Journal of Secondary Computing and Applications Research (IJSCAR). As the field of computing continues to evolve at an extraordinary pace, this issue showcases the breadth, creativity, and technical rigor that characterize student-led research today. The articles featured here span artificial intelligence, robotics, reinforcement learning security, human-centered policy analysis, and autonomous systems, reflecting both the diversity and interdisciplinary nature of modern computational research.
+It is my pleasure to welcome you to this issue of the International Journal of Secondary Computing and Applications Research (IJSCAR). The five articles gathered here reflect just how wide the reach of student-led computing research has become, spanning mobile sensing and on-device machine learning for at-home physical rehabilitation, reproducible data-engineering pipelines for behavioral survey research, lightweight transformer models for mental health text triage, the cognitive science of active versus passive learning, and lightweight machine learning for IoT intrusion detection.
 
-The rapid advancement of intelligent technologies continues to reshape how we interact with information, machines, and the world around us. At the same time, these developments bring new opportunities and challenges, requiring thoughtful research that balances innovation with reliability, security, and societal impact. The contributions in this issue reflect that balance, exploring both foundational questions and practical applications across a range of emerging domains.
+Taken together, these papers show a maturing research instinct: a willingness to engage seriously with real deployment constraints, not just idealized benchmarks. Several authors in this issue built and tested working prototypes on actual hardware, released reproducible software artifacts alongside their write-ups, or ran adversarial and sensitivity checks on their own results rather than reporting a single favorable configuration. That kind of self-scrutiny is exactly what distinguishes rigorous research from a class project, and it is heartening to see it appear so consistently at the secondary level.
 
-One of the most encouraging trends in computing research is the increasing convergence of disciplines. Breakthroughs today often emerge from the intersection of fields such as machine learning, robotics, human-computer interaction, cybersecurity, and public policy. As researchers seek to address increasingly complex problems, interdisciplinary thinking has become not only valuable but essential. The work presented in this issue exemplifies that spirit of exploration and collaboration.
+The diversity of domains represented here, health technology, data engineering, natural language processing, learning science, and cybersecurity, also speaks to something IJSCAR has long believed: that computing research is not a single narrow track but a set of tools and habits of mind that students bring to bear on whatever problem captures their curiosity. Whether that problem is a patient's rehabilitation exercises, a classroom's learning outcomes, or a network's exposure to attack, the underlying discipline of careful measurement, honest reporting of limitations, and reproducible methodology remains the same.
 
-At IJSCAR, our mission remains to provide a platform for students and early-career researchers to share innovative ideas, engage with the broader research community, and contribute to the advancement of knowledge. We are continually inspired by the quality of submissions we receive and by the dedication of young scholars pursuing meaningful and impactful research.
+As always, I want to thank our authors for the care they put into this work, their mentors and teachers for the guidance behind the scenes, and our reviewers for the time they gave to strengthening each submission. It is a genuine privilege to help bring this research to a wider audience.
 
-On behalf of the editorial team, I extend my sincere gratitude to our authors for entrusting us with their work, to our reviewers for their time and expertise, and to our readers for their continued support. Together, you help foster a vibrant community committed to learning, discovery, and scientific progress.
-
-We hope you find this issue both informative and inspiring, and we look forward to continuing to showcase the next generation of research and innovation in future editions of IJSCAR.
+We hope this issue informs and inspires, and we look forward to sharing the next chapter of student computing research with you soon.
 
 Sincerely,
 

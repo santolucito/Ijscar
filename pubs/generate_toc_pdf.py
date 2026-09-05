@@ -18,39 +18,39 @@ from reportlab.lib import colors
 
 # ── Configuration — update these for each new issue ───────────────────────────
 VOLUME    = 3
-ISSUE     = 2
-DATE_LONG = "June 1, 2026"
+ISSUE     = 3
+DATE_LONG = "September 1, 2026"
 OUTPUT    = "toc.pdf"
 
 ARTICLES = [
     {
-        "title":   "Visualizing Hyperparameters in 2D Drone Navigation",
-        "authors": "Maanas Punuru, Jan Ole Ernst",
+        "title":   "PostureScore: An On-Device, Phase-Aware Scoring Pipeline for "
+                   "At-Home Rehabilitation",
+        "authors": "Ella Wang",
         "page":    4,
     },
     {
-        "title":   "Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: "
-                   "A Non-Equilibrium Thermodynamics Approach",
-        "authors": "Tawhid Bin Omar",
-        "page":    10,
+        "title":   "A Reproducible Computational Pipeline for Modelling Sequential "
+                   "Decision Thresholds from Stopping-Rule Data",
+        "authors": "Alex Kolesnikov",
+        "page":    14,
     },
     {
-        "title":   "Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion "
-                   "in Unstructured Environments",
-        "authors": "Kaavya Goel",
-        "page":    16,
+        "title":   "Precision versus Efficiency: A Quantized DistilBERT Framework "
+                   "for Automated Mental Health Text Triage",
+        "authors": "Ayaan Goswami, Clayton Greenberg",
+        "page":    21,
     },
     {
-        "title":   "Usability of Municipal AI Policy Documents: A Heuristic Evaluation and "
-                   "NLP Analysis Across 20 U.S. Cities",
-        "authors": "Nikhil Mehra",
-        "page":    23,
+        "title":   "The Effects of Active and Passive Learning Methods",
+        "authors": "Jimin Lee",
+        "page":    36,
     },
     {
-        "title":   "Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle "
-                   "Charging Control",
-        "authors": "Ajay Raghavan",
-        "page":    40,
+        "title":   "A Five-Run Comparison of Lightweight Machine Learning Models "
+                   "for IoT Intrusion Detection",
+        "authors": "Pradyumn Singh, Russ Alizadeh",
+        "page":    41,
     },
 ]
 # ──────────────────────────────────────────────────────────────────────────────
