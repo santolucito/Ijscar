@@ -12,7 +12,7 @@ Ayaan Goswami, Clayton Greenberg
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 21–35
 
-**DOI:** [10.67149/yhjs2024.5/5wcbbc4m](https://doi.org/10.67149/yhjs2024.5/5wcbbc4m)
+**DOI:** [10.67149/yhjs2024.5/5wcbbc4m](vol3-issue3-goswami-mental-health-triage.pdf)
 
 ---
 

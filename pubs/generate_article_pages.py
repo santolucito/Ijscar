@@ -49,7 +49,7 @@ def format_authors_line(row):
     return ", ".join(all_authors)
 
 
-def make_page(row):
+def make_page(row, slug):
     vol = int(row["volume"])
     iss = int(row["issue"])
     year = row["year"]
@@ -65,7 +65,12 @@ def make_page(row):
     authors_line = format_authors_line(row)
 
     doi_display = doi.replace("https://doi.org/", "") if doi.startswith("https://doi.org/") else doi
-    doi_section = f'**DOI:** [{doi_display}]({doi})' if doi else ""
+    # If this article's own individual PDF is hosted alongside its landing page,
+    # link the DOI text straight to that PDF (matches the existing house convention
+    # for articles that have one, e.g. Vol 3 Issue 2) instead of the doi.org resolver.
+    own_pdf = os.path.join(OUTPUT_DIR, f"{slug}.pdf")
+    doi_target = f"{slug}.pdf" if os.path.exists(own_pdf) else doi
+    doi_section = f'**DOI:** [{doi_display}]({doi_target})' if doi else ""
 
     affiliation_section = f"**Affiliation:** {affiliation}" if affiliation else ""
 
@@ -187,7 +192,7 @@ def main():
         else:
             slug = base_slug
 
-        content = make_page(row)
+        content = make_page(row, slug)
         filepath = os.path.join(OUTPUT_DIR, f"{slug}.md")
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)

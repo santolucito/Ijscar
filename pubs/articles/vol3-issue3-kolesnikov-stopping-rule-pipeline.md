@@ -12,7 +12,7 @@ Alex Kolesnikov
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 14–20
 
-**DOI:** [10.67149/yhjs2024.5/3s7gdh1q](https://doi.org/10.67149/yhjs2024.5/3s7gdh1q)
+**DOI:** [10.67149/yhjs2024.5/3s7gdh1q](vol3-issue3-kolesnikov-stopping-rule-pipeline.pdf)
 
 ---
 

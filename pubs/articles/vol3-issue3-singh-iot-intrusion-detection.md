@@ -12,7 +12,7 @@ Pradyumn Singh, Russ Alizadeh
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 41–47
 
-**DOI:** [10.67149/yhjs2024.5/br0qqg04](https://doi.org/10.67149/yhjs2024.5/br0qqg04)
+**DOI:** [10.67149/yhjs2024.5/br0qqg04](vol3-issue3-singh-iot-intrusion-detection.pdf)
 
 ---
 

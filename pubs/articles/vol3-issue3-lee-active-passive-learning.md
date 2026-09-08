@@ -12,7 +12,7 @@ Jimin Lee
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 36–40
 
-**DOI:** [10.67149/yhjs2024.5/76v9axa9](https://doi.org/10.67149/yhjs2024.5/76v9axa9)
+**DOI:** [10.67149/yhjs2024.5/76v9axa9](vol3-issue3-lee-active-passive-learning.pdf)
 
 ---
 

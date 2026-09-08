@@ -12,7 +12,7 @@ Ella Wang
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 4–13
 
-**DOI:** [10.67149/yhjs2024.5/17iljp8h](https://doi.org/10.67149/yhjs2024.5/17iljp8h)
+**DOI:** [10.67149/yhjs2024.5/17iljp8h](vol3-issue3-wang-posturescore-rehab.pdf)
 
 ---
 
