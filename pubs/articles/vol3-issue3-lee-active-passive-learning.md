@@ -8,7 +8,7 @@ description: "Jimin Lee — IJSCAR Vol. 3, Issue 3, 2026, pp. 36–40"
 
 Jimin Lee
 
-
+**Affiliation:** Branksome Hall Asia
 
 **IJSCAR** Vol. 3, Issue 3 (2026) &nbsp;·&nbsp; pp. 36–40
 
@@ -22,7 +22,7 @@ While active learning is widely recognized as the more instructional approach fo
 
 ---
 
-**Keywords:** active vs. passive training, educational research, comprehension and application, study duration
+**Keywords:** Active vs. Passive Training, Educational Research, Comprehension and Application, Study Duration
 
 ---
 

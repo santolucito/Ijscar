@@ -22,7 +22,7 @@ Stopping-rule experiments ask participants to move through ordered stages until 
 
 ---
 
-**Keywords:** stopping-rule data; sequential decision-making; computational pipeline; R software; reproducibility; data validation; data engineering; discrete-time hazard models; right-censoring; decision-support systems
+**Keywords:** Stopping-Rule Data; Sequential Decision-Making; Computational Pipeline; R Software; Reproducibility; Data Validation; Data Engineering; Discrete-Time Hazard Models; Right-Censoring; Decision-Support Systems
 
 ---
 
