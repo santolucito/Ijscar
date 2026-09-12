@@ -6,4 +6,4 @@ Find some helpful materials from the IJSCAR team here:
 
 [How to Write an Abstract](https://www.ijscar.org/blog/how_to_abstract)
 
-[How to Prepare a Poster (and Pitch!) for a Research Symposium](https://www.ijscar.org/blog/how_to_poster)
+[How to Prepare a Poster](https://www.ijscar.org/blog/how_to_poster)
