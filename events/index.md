@@ -5,7 +5,7 @@
 ### Fall Research Symposium 2026
 
 The IJSCAR Fall Research Symposium 2026 will be held on October 17, 2026, 10am EST.
-See the [Fall Research Symposium 2026](oct26.html) page for more information.
+See the [Fall Research Symposium 2026](oct2026.html) page for more information.
 
 ## Past Events
 
