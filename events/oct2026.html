@@ -127,7 +127,8 @@
                         <div class="caption">
                           <div class="owl-bottom">
                             <h5>Mark Santolucito</h5>
-                            <h6><i>Assistant Professor of Computer Science<br>Barnard College, Columbia University</i></h6>
+                            <h6><i>Assistant Professor of Computer Science,</i></h6>
+                            <h6 style="margin-top:6px"><i>Barnard College, Columbia University</i></h6>
                           </div>
                         </div>
                       </div>
@@ -140,7 +141,8 @@
                         <div class="caption">
                           <div class="owl-bottom">
                             <h5>Maria Hwang</h5>
-                            <h6><i>Associate Professor of Computer Science<br>Fashion Institute of Technology, SUNY</i></h6>
+                            <h6><i>Associate Professor of Computer Science,</i></h6>
+                            <h6 style="margin-top:6px"><i>Fashion Institute of Technology, SUNY</i></h6>
                           </div>
                         </div>
                       </div>
@@ -153,7 +155,8 @@
                         <div class="caption">
                           <div class="owl-bottom">
                             <h5>Miles Scharff</h5>
-                            <h6><i>Research Scientist<br>Computer Music Center at Columbia University</i></h6>
+                            <h6><i>Research Scientist,</i></h6>
+                            <h6 style="margin-top:6px"><i>Computer Music Center at Columbia University</i></h6>
                           </div>
                         </div>
                       </div>
@@ -166,7 +169,8 @@
                         <div class="caption">
                           <div class="owl-bottom">
                             <h5>Viktoria Bourmpoulia</h5>
-                            <h6><i>Research Coordinator<br>Einstein College of Medicine and Montefiore Hospital</i></h6>
+                            <h6><i>Research Coordinator,</i></h6>
+                            <h6 style="margin-top:6px"><i>Einstein College of Medicine and Montefiore Hospital</i></h6>
                           </div>
                         </div>
                       </div>
@@ -188,6 +192,18 @@
                     stopOnHover: true,
                     responsiveBaseWidth: "#judges-carousel-wrapper"
                   });
+                });
+              </script>
+              <script type="text/javascript">
+                $(window).on('load', function () {
+                  var maxHeight = 0;
+                  $('#judges-carousel .owl-bottom, #judges-carousel .owl-bottom *').each(function () {
+                    var thisHeight = $(this).outerHeight(true);
+                    if (thisHeight > maxHeight) {
+                      maxHeight = thisHeight;
+                    }
+                  });
+                  $('#judges-carousel .owl-bottom').css('height', maxHeight);
                 });
               </script>
             </div>
