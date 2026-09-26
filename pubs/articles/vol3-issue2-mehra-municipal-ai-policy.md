@@ -2,6 +2,15 @@
 layout: default
 title: "Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities"
 description: "Nikhil Mehra — IJSCAR Vol. 3, Issue 2, 2026, pp. 23–39"
+citation_authors:
+  - "Mehra, Nikhil"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 2
+citation_firstpage: 23
+citation_lastpage: 39
+citation_doi: "10.67149/yhjs2024.5/r4d2w9ky"
+citation_pdf: "/pubs/articles/vol3-issue2-mehra-municipal-ai-policy.pdf"
 ---
 
 # Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities

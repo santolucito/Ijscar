@@ -2,6 +2,14 @@
 layout: default
 title: "Spacecraft Anomaly Detection: Machine Learning Based Detection of Lithium-Ion Battery Degradation in Space Conditions"
 description: "Vera A. van der Linden — IJSCAR Vol. 2, Issue 2, 2025, pp. 21–27"
+citation_authors:
+  - "van der Linden, Vera A."
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 21
+citation_lastpage: 27
+citation_doi: "10.5281/zenodo.17107814"
 ---
 
 # Spacecraft Anomaly Detection: Machine Learning Based Detection of Lithium-Ion Battery Degradation in Space Conditions

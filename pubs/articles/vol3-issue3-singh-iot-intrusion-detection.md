@@ -2,6 +2,16 @@
 layout: default
 title: "A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection"
 description: "Pradyumn Singh, Russ Alizadeh — IJSCAR Vol. 3, Issue 3, 2026, pp. 41–47"
+citation_authors:
+  - "Singh, Pradyumn"
+  - "Alizadeh, Russ"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 3
+citation_firstpage: 41
+citation_lastpage: 47
+citation_doi: "10.67149/yhjs2024.5/br0qqg04"
+citation_pdf: "/pubs/articles/vol3-issue3-singh-iot-intrusion-detection.pdf"
 ---
 
 # A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection

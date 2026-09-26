@@ -2,6 +2,15 @@
 layout: default
 title: "Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments"
 description: "Kaavya Goel — IJSCAR Vol. 3, Issue 2, 2026, pp. 16–22"
+citation_authors:
+  - "Goel, Kaavya"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 2
+citation_firstpage: 16
+citation_lastpage: 22
+citation_doi: "10.67149/yhjs2024.5/n7x5q8jm"
+citation_pdf: "/pubs/articles/vol3-issue2-goel-plexibot-modular-robot.pdf"
 ---
 
 # Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments

@@ -2,6 +2,14 @@
 layout: default
 title: "Comparing the Performance of Traditional Machine Learning and Deep Learning Algorithms for Breast Cancer Survival Prediction"
 description: "Navaneeth Ranjit — IJSCAR Vol. 3, Issue 1, 2026, pp. 13–23"
+citation_authors:
+  - "Ranjit, Navaneeth"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 1
+citation_firstpage: 13
+citation_lastpage: 23
+citation_doi: "10.5281/zenodo.18404485"
 ---
 
 # Comparing the Performance of Traditional Machine Learning and Deep Learning Algorithms for Breast Cancer Survival Prediction

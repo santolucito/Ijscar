@@ -2,6 +2,15 @@
 layout: default
 title: "Using Model Counting for Game Development: Quantifying Difficulty of 2D Platformer Levels for Diverse Playable Characters"
 description: "Aditya Patil, Mark Santolucito — IJSCAR Vol. 1, Issue 1, 2024, pp. 24–28"
+citation_authors:
+  - "Patil, Aditya"
+  - "Santolucito, Mark"
+citation_year: 2024
+citation_volume: 1
+citation_issue: 1
+citation_firstpage: 24
+citation_lastpage: 28
+citation_doi: "10.5281/zenodo.14279496"
 ---
 
 # Using Model Counting for Game Development: Quantifying Difficulty of 2D Platformer Levels for Diverse Playable Characters

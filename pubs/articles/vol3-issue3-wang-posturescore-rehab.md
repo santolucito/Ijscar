@@ -2,6 +2,15 @@
 layout: default
 title: "PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation"
 description: "Ella Wang — IJSCAR Vol. 3, Issue 3, 2026, pp. 4–13"
+citation_authors:
+  - "Wang, Ella"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 3
+citation_firstpage: 4
+citation_lastpage: 13
+citation_doi: "10.67149/yhjs2024.5/17iljp8h"
+citation_pdf: "/pubs/articles/vol3-issue3-wang-posturescore-rehab.pdf"
 ---
 
 # PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation

@@ -2,6 +2,14 @@
 layout: default
 title: "Deep Learning Based Volumetric Segmentation of Heart Ventricles for Assessment of Cardiac Disease Using MRI"
 description: "Anika Pallapothu — IJSCAR Vol. 1, Issue 1, 2024, pp. 11–14"
+citation_authors:
+  - "Pallapothu, Anika"
+citation_year: 2024
+citation_volume: 1
+citation_issue: 1
+citation_firstpage: 11
+citation_lastpage: 14
+citation_doi: "10.5281/zenodo.14279490"
 ---
 
 # Deep Learning Based Volumetric Segmentation of Heart Ventricles for Assessment of Cardiac Disease Using MRI

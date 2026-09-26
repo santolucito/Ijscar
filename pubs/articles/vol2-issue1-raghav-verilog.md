@@ -2,6 +2,15 @@
 layout: default
 title: "LLM-based Code Generation for Verilog"
 description: "Anshul Raghav, Mark Santolucito — IJSCAR Vol. 2, Issue 1, 2025, pp. 23–32"
+citation_authors:
+  - "Raghav, Anshul"
+  - "Santolucito, Mark"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 1
+citation_firstpage: 23
+citation_lastpage: 32
+citation_doi: "10.5281/zenodo.14988731"
 ---
 
 # LLM-based Code Generation for Verilog

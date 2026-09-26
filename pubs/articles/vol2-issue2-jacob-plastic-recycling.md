@@ -2,6 +2,15 @@
 layout: default
 title: "Streamlining Plastic Recycling using Machine Learning-Based Image Classification"
 description: "Rebecca Jacob, Gokarna Sharma — IJSCAR Vol. 2, Issue 2, 2025, pp. 8–13"
+citation_authors:
+  - "Jacob, Rebecca"
+  - "Sharma, Gokarna"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 8
+citation_lastpage: 13
+citation_doi: "10.5281/zenodo.17123234"
 ---
 
 # Streamlining Plastic Recycling using Machine Learning-Based Image Classification

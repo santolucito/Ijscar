@@ -2,6 +2,15 @@
 layout: default
 title: "Co-occurrence of Extreme Heat and Pollution in the Southwest United States"
 description: "Arjun Maganti, Zachary Espinosa — IJSCAR Vol. 2, Issue 1, 2025, pp. 9–14"
+citation_authors:
+  - "Maganti, Arjun"
+  - "Espinosa, Zachary"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 1
+citation_firstpage: 9
+citation_lastpage: 14
+citation_doi: "10.5281/zenodo.14988723"
 ---
 
 # Co-occurrence of Extreme Heat and Pollution in the Southwest United States

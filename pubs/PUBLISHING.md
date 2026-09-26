@@ -148,6 +148,8 @@ cd /Users/mariahwang/Github/Ijscar/pubs
 python3 generate_article_pages.py
 ```
 
+This also writes the Google Scholar metadata (`citation_*` fields) into each article's front matter; `_includes/citation-meta.html` turns them into `<meta name="citation_...">` tags on the page. Put each article's own PDF in `pubs/articles/` (named `<slug>.pdf`, same as its `.md`) **before** running the script, so `citation_pdf_url` is included — Google Scholar needs a PDF of just that article, not the merged issue. To check after the site rebuilds, open an article page, View Page Source, and search for `citation_title`.
+
 ---
 
 ## Step 9 — Commit Everything to GitHub

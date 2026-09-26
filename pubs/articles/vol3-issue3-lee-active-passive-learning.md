@@ -2,6 +2,15 @@
 layout: default
 title: "The Effects of Active and Passive Learning Methods"
 description: "Jimin Lee — IJSCAR Vol. 3, Issue 3, 2026, pp. 36–40"
+citation_authors:
+  - "Lee, Jimin"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 3
+citation_firstpage: 36
+citation_lastpage: 40
+citation_doi: "10.67149/yhjs2024.5/76v9axa9"
+citation_pdf: "/pubs/articles/vol3-issue3-lee-active-passive-learning.pdf"
 ---
 
 # The Effects of Active and Passive Learning Methods

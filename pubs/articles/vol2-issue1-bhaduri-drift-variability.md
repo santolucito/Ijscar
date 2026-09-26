@@ -2,6 +2,15 @@
 layout: default
 title: "A Study of Drift Variability in Crazyflie Nano-Quadcopters by Pitting in-built Logging Parameters against Meticulous Measurement Techniques"
 description: "Vihaan Bhaduri, Mark Santolucito — IJSCAR Vol. 2, Issue 1, 2025, pp. 15–22"
+citation_authors:
+  - "Bhaduri, Vihaan"
+  - "Santolucito, Mark"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 1
+citation_firstpage: 15
+citation_lastpage: 22
+citation_doi: "10.5281/zenodo.14988716"
 ---
 
 # A Study of Drift Variability in Crazyflie Nano-Quadcopters by Pitting in-built Logging Parameters against Meticulous Measurement Techniques

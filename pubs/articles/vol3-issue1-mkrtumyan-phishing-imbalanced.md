@@ -2,6 +2,14 @@
 layout: default
 title: "Machine Learning Framework for Phishing Detection through Email using Imbalanced Data"
 description: "Mher Mkrtumyan — IJSCAR Vol. 3, Issue 1, 2026, pp. 24–30"
+citation_authors:
+  - "Mkrtumyan, Mher"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 1
+citation_firstpage: 24
+citation_lastpage: 30
+citation_doi: "10.5281/zenodo.18435064"
 ---
 
 # Machine Learning Framework for Phishing Detection through Email using Imbalanced Data

@@ -2,6 +2,14 @@
 layout: default
 title: "A Vision-Based Approach to Safe Void Detection and Path Planning in Post-Disaster Rubble Using Segment Anything Models"
 description: "Abhiram Sanku — IJSCAR Vol. 3, Issue 1, 2026, pp. 31–36"
+citation_authors:
+  - "Sanku, Abhiram"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 1
+citation_firstpage: 31
+citation_lastpage: 36
+citation_doi: "10.5281/zenodo.18404630"
 ---
 
 # A Vision-Based Approach to Safe Void Detection and Path Planning in Post-Disaster Rubble Using Segment Anything Models

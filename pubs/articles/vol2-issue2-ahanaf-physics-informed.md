@@ -2,6 +2,14 @@
 layout: default
 title: "Hybrid Physics-Informed Machine Learning Frameworks for Predictive Thermodynamic Modeling"
 description: "Ariq Ahanaf — IJSCAR Vol. 2, Issue 2, 2025, pp. 16–20"
+citation_authors:
+  - "Ahanaf, Ariq"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 16
+citation_lastpage: 20
+citation_doi: "10.5281/zenodo.17195513"
 ---
 
 # Hybrid Physics-Informed Machine Learning Frameworks for Predictive Thermodynamic Modeling

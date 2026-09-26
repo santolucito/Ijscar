@@ -2,6 +2,15 @@
 layout: default
 title: "Using a Feedback Loop for LLM-based Infrastructure as Code Generation"
 description: "Mayur Amarnath, Mark Santolucito — IJSCAR Vol. 1, Issue 1, 2024, pp. 15–18"
+citation_authors:
+  - "Amarnath, Mayur"
+  - "Santolucito, Mark"
+citation_year: 2024
+citation_volume: 1
+citation_issue: 1
+citation_firstpage: 15
+citation_lastpage: 18
+citation_doi: "10.5281/zenodo.14279492"
 ---
 
 # Using a Feedback Loop for LLM-based Infrastructure as Code Generation

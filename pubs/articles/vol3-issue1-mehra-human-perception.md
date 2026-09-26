@@ -2,6 +2,14 @@
 layout: default
 title: "Human Perception and Detection of AI-Generated Phishing Emails: A Red-Teaming and Multi-Layered Detection Approach"
 description: "Rohan Mehra — IJSCAR Vol. 3, Issue 1, 2026, pp. 4–12"
+citation_authors:
+  - "Mehra, Rohan"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 1
+citation_firstpage: 4
+citation_lastpage: 12
+citation_doi: "10.5281/zenodo.18404590"
 ---
 
 # Human Perception and Detection of AI-Generated Phishing Emails: A Red-Teaming and Multi-Layered Detection Approach

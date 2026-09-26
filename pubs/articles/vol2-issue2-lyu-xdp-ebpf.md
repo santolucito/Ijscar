@@ -2,6 +2,14 @@
 layout: default
 title: "Enhancing XDP eBPF Firewall Performance and Accuracy with Large Language Models and Symbolic Execution"
 description: "Jeffrey Lyu — IJSCAR Vol. 2, Issue 2, 2025, pp. 4–7"
+citation_authors:
+  - "Lyu, Jeffrey"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 4
+citation_lastpage: 7
+citation_doi: "10.5281/zenodo.17107507"
 ---
 
 # Enhancing XDP eBPF Firewall Performance and Accuracy with Large Language Models and Symbolic Execution

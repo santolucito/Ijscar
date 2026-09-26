@@ -2,6 +2,14 @@
 layout: default
 title: "A Symbolic Approach to Detecting Structural Risk in Financial Networks Using Graph-Based Constraint Solving"
 description: "Ananya Bhat — IJSCAR Vol. 2, Issue 2, 2025, pp. 14–15"
+citation_authors:
+  - "Bhat, Ananya"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 14
+citation_lastpage: 15
+citation_doi: "10.5281/zenodo.17107047"
 ---
 
 # A Symbolic Approach to Detecting Structural Risk in Financial Networks Using Graph-Based Constraint Solving

@@ -2,6 +2,15 @@
 layout: default
 title: "Leveraging LLMs for Automated MIDI Generation"
 description: "Corey Zhang, Mark Santolucito — IJSCAR Vol. 1, Issue 1, 2024, pp. 3–10"
+citation_authors:
+  - "Zhang, Corey"
+  - "Santolucito, Mark"
+citation_year: 2024
+citation_volume: 1
+citation_issue: 1
+citation_firstpage: 3
+citation_lastpage: 10
+citation_doi: "10.5281/zenodo.14279480"
 ---
 
 # Leveraging LLMs for Automated MIDI Generation

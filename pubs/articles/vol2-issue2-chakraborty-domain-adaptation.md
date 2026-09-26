@@ -2,6 +2,14 @@
 layout: default
 title: "Understanding Domain Adaptation Using CORAL in Computer Vision"
 description: "Aditya Chakraborty — IJSCAR Vol. 2, Issue 2, 2025, pp. 28–36"
+citation_authors:
+  - "Chakraborty, Aditya"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 2
+citation_firstpage: 28
+citation_lastpage: 36
+citation_doi: "10.5281/zenodo.17195365"
 ---
 
 # Understanding Domain Adaptation Using CORAL in Computer Vision

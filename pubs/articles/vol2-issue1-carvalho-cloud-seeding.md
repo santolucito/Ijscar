@@ -2,6 +2,15 @@
 layout: default
 title: "Using AI Modeling to Predict the Impact of Cloud Seeding on Amount of Rainfall and How that Affects the Temperature in Different Regions"
 description: "Rex Carvalho, Ihita Mandal — IJSCAR Vol. 2, Issue 1, 2025, pp. 33–36"
+citation_authors:
+  - "Carvalho, Rex"
+  - "Mandal, Ihita"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 1
+citation_firstpage: 33
+citation_lastpage: 36
+citation_doi: "10.5281/zenodo.15149793"
 ---
 
 # Using AI Modeling to Predict the Impact of Cloud Seeding on Amount of Rainfall and How that Affects the Temperature in Different Regions

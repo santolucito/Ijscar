@@ -2,6 +2,15 @@
 layout: default
 title: "Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach"
 description: "Tawhid Bin Omar — IJSCAR Vol. 3, Issue 2, 2026, pp. 10–15"
+citation_authors:
+  - "Omar, Tawhid Bin"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 2
+citation_firstpage: 10
+citation_lastpage: 15
+citation_doi: "10.67149/yhjs2024.5/k2v9p4cz"
+citation_pdf: "/pubs/articles/vol3-issue2-omar-diffusion-thermodynamics.pdf"
 ---
 
 # Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach

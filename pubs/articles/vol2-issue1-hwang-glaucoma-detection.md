@@ -2,6 +2,14 @@
 layout: default
 title: "Comparative Analysis of Vision Transformer and ResNet50 for Glaucoma Detection: Balancing Performance and Efficiency"
 description: "Eric Hwang — IJSCAR Vol. 2, Issue 1, 2025, pp. 3–8"
+citation_authors:
+  - "Hwang, Eric"
+citation_year: 2025
+citation_volume: 2
+citation_issue: 1
+citation_firstpage: 3
+citation_lastpage: 8
+citation_doi: "10.5281/zenodo.15149831"
 ---
 
 # Comparative Analysis of Vision Transformer and ResNet50 for Glaucoma Detection: Balancing Performance and Efficiency

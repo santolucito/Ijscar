@@ -2,6 +2,15 @@
 layout: default
 title: "Leveraging Machine Learning and Zinc-Aware Docking to Discover Natural Inhibitors of EptA Resistance Enzymes"
 description: "Mason Cheng, Mariame Diabate — IJSCAR Vol. 3, Issue 1, 2026, pp. 37–46"
+citation_authors:
+  - "Cheng, Mason"
+  - "Diabate, Mariame"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 1
+citation_firstpage: 37
+citation_lastpage: 46
+citation_doi: "10.5281/zenodo.18432165"
 ---
 
 # Leveraging Machine Learning and Zinc-Aware Docking to Discover Natural Inhibitors of EptA Resistance Enzymes

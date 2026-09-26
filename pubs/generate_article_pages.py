@@ -49,6 +49,63 @@ def format_authors_line(row):
     return ", ".join(all_authors)
 
 
+NAME_PARTICLES = {"van", "der", "den", "de", "del", "della", "di", "da", "von", "le", "la", "du"}
+
+
+def citation_name(last, first):
+    """Return 'Last, First' for Google Scholar, moving lowercase surname
+    particles (e.g. 'van der') from the first name onto the last name."""
+    last, first = last.strip(), first.strip()
+    parts = first.split()
+    particles = []
+    while parts and parts[-1] in NAME_PARTICLES:
+        particles.insert(0, parts.pop())
+    if particles:
+        last = " ".join(particles + [last])
+        first = " ".join(parts)
+    return f"{last}, {first}" if first else last
+
+
+def citation_authors(row):
+    """All authors in 'Last, First' form, in author order."""
+    names = [citation_name(row["author_Last"], row["author_First"])]
+    for entry in (row.get("more_authors_last_first") or "").split("|"):
+        entry = entry.strip()
+        if not entry:
+            continue
+        if "," in entry:
+            last, first = entry.split(",", 1)
+            names.append(citation_name(last, first))
+        else:
+            names.append(entry)
+    return names
+
+
+def yaml_str(value):
+    return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def citation_front_matter(row, slug, vol, iss, year, p_start, p_end, doi, has_own_pdf):
+    """Front-matter fields read by _includes/citation-meta.html, which turns
+    them into the <meta name="citation_*"> tags Google Scholar indexes."""
+    lines = ["citation_authors:"]
+    lines += [f"  - {yaml_str(name)}" for name in citation_authors(row)]
+    lines += [
+        f"citation_year: {year}",
+        f"citation_volume: {vol}",
+        f"citation_issue: {iss}",
+        f"citation_firstpage: {p_start}",
+        f"citation_lastpage: {p_end}",
+    ]
+    if doi:
+        lines.append(f"citation_doi: {yaml_str(doi)}")
+    # Scholar wants a PDF of just this article, so only list one when the
+    # article's own PDF exists (not the merged issue PDF).
+    if has_own_pdf:
+        lines.append(f"citation_pdf: {yaml_str(f'/pubs/articles/{slug}.pdf')}")
+    return "\n".join(lines)
+
+
 def make_page(row, slug):
     vol = int(row["volume"])
     iss = int(row["issue"])
@@ -69,15 +126,21 @@ def make_page(row, slug):
     # link the DOI text straight to that PDF (matches the existing house convention
     # for articles that have one, e.g. Vol 3 Issue 2) instead of the doi.org resolver.
     own_pdf = os.path.join(OUTPUT_DIR, f"{slug}.pdf")
-    doi_target = f"{slug}.pdf" if os.path.exists(own_pdf) else doi
+    has_own_pdf = os.path.exists(own_pdf)
+    doi_target = f"{slug}.pdf" if has_own_pdf else doi
     doi_section = f'**DOI:** [{doi_display}]({doi_target})' if doi else ""
 
     affiliation_section = f"**Affiliation:** {affiliation}" if affiliation else ""
+
+    citation_fields = citation_front_matter(
+        row, slug, vol, iss, year, p_start, p_end, doi_display, has_own_pdf
+    )
 
     page = f"""---
 layout: default
 title: "{title.replace('"', '&quot;')}"
 description: "{authors_line} — IJSCAR Vol. {vol}, Issue {iss}, {year}, pp. {p_start}–{p_end}"
+{citation_fields}
 ---
 
 # {title}

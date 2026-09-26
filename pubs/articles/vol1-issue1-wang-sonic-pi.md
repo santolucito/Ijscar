@@ -2,6 +2,14 @@
 layout: default
 title: "A Case Study on LLM Code Generation in Sonic Pi and Its Impact on Student Attitudes towards Computer Science"
 description: "Josch Wang — IJSCAR Vol. 1, Issue 1, 2024, pp. 19–23"
+citation_authors:
+  - "Wang, Josch"
+citation_year: 2024
+citation_volume: 1
+citation_issue: 1
+citation_firstpage: 19
+citation_lastpage: 23
+citation_doi: "10.5281/zenodo.14279494"
 ---
 
 # A Case Study on LLM Code Generation in Sonic Pi and Its Impact on Student Attitudes towards Computer Science

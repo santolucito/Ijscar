@@ -2,6 +2,16 @@
 layout: default
 title: "Visualizing Hyperparameters in 2D Drone Navigation"
 description: "Maanas Punuru, Jan Ole Ernst — IJSCAR Vol. 3, Issue 2, 2026, pp. 4–9"
+citation_authors:
+  - "Punuru, Maanas"
+  - "Ernst, Jan Ole"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 2
+citation_firstpage: 4
+citation_lastpage: 9
+citation_doi: "10.67149/yhjs2024.5/bx8r3n6w"
+citation_pdf: "/pubs/articles/vol3-issue2-punuru-drone-navigation.pdf"
 ---
 
 # Visualizing Hyperparameters in 2D Drone Navigation

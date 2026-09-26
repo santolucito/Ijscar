@@ -2,6 +2,15 @@
 layout: default
 title: "Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control"
 description: "Ajay Raghavan — IJSCAR Vol. 3, Issue 2, 2026, pp. 40–46"
+citation_authors:
+  - "Raghavan, Ajay"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 2
+citation_firstpage: 40
+citation_lastpage: 46
+citation_doi: "10.67149/yhjs2024.5/t8m6z3qp"
+citation_pdf: "/pubs/articles/vol3-issue2-raghavan-backdoor-ev-charging.pdf"
 ---
 
 # Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control

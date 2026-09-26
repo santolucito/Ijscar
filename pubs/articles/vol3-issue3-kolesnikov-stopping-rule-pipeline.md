@@ -2,6 +2,15 @@
 layout: default
 title: "A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data"
 description: "Alex Kolesnikov — IJSCAR Vol. 3, Issue 3, 2026, pp. 14–20"
+citation_authors:
+  - "Kolesnikov, Alex"
+citation_year: 2026
+citation_volume: 3
+citation_issue: 3
+citation_firstpage: 14
+citation_lastpage: 20
+citation_doi: "10.67149/yhjs2024.5/3s7gdh1q"
+citation_pdf: "/pubs/articles/vol3-issue3-kolesnikov-stopping-rule-pipeline.pdf"
 ---
 
 # A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data
