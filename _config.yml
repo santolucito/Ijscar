@@ -10,3 +10,15 @@ google_analytics: G-V1H1997MQ5
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+# Files and folders that should NOT be published on ijscar.org.
+# (Setting this list replaces Jekyll's defaults, so those are repeated here.)
+exclude:
+  - "Claude outputs"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
