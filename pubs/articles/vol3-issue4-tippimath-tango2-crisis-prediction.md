@@ -15,7 +15,7 @@ citation_lastpage: 37
 
 Abhay Tippimath
 
-**Affiliation:** McNeil High School
+**Affiliation:** McNeil High School, Austin, TX, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 29–37
 

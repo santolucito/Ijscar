@@ -15,7 +15,7 @@ citation_lastpage: 56
 
 Nico Katz
 
-**Affiliation:** La Jolla Country Day School
+**Affiliation:** La Jolla Country Day School, La Jolla, CA, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 44–56
 

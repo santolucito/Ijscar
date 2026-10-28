@@ -16,7 +16,7 @@ citation_lastpage: 61
 
 Siya Sharma, Emily Broadhurst
 
-**Affiliation:** Reservoir High School, Fulton, Maryland
+**Affiliation:** Reservoir High School, Fulton, MD, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 57–61
 

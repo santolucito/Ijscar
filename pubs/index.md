@@ -115,7 +115,7 @@
 - [A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection](articles/vol3-issue3-singh-iot-intrusion-detection.md)  
   Pradyumn Singh, Russ Alizadeh · pp. 41–47
 
-### Volume 3, Issue 4
+### Volume 3, Issue 4 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue4.pdf)
 
 - [Comparing the Sample and Computational Efficiency of Unit-Precision Predictive Coding and Backpropagation](articles/vol3-issue4-huang-predictive-coding.md)  
   Austin Huang · pp. 4–15
@@ -138,7 +138,7 @@
 - [Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants](articles/vol3-issue4-sharma-tomato-bacterial-spot.md)  
   Siya Sharma, Emily Broadhurst · pp. 57–61
 
-- [Demographic Sensitivity in Heartsteep Drink Recommendations: An exploratory audit of three language models. Heartsteep Bias Audit](articles/vol3-issue4-jung-heartsteep-drinks.md)  
+- [Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models](articles/vol3-issue4-jung-heartsteep-drinks.md)  
   Yoomin (Rachel) Jung · pp. 62–71
 
 - [Evaluating Representation Learning for Model-Independent Anomaly Detection in High-Energy Particle Collisions](articles/vol3-issue4-arun-collider-anomaly-detection.md)  

@@ -15,7 +15,7 @@ citation_lastpage: 87
 
 Abhijay Arun
 
-**Affiliation:** GEMS Modern Academy
+**Affiliation:** GEMS Modern Academy, Nad Al Sheba, Dubai, United Arab Emirates
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 72–87
 

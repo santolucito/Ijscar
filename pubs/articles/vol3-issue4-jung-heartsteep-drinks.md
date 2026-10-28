@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Demographic Sensitivity in Heartsteep Drink Recommendations: An exploratory audit of three language models. Heartsteep Bias Audit"
+title: "Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models"
 description: "Yoomin (Rachel) Jung — IJSCAR Vol. 3, Issue 4, 2026, pp. 62–71"
 citation_authors:
   - "Jung, Yoomin (Rachel)"
@@ -11,11 +11,11 @@ citation_firstpage: 62
 citation_lastpage: 71
 ---
 
-# Demographic Sensitivity in Heartsteep Drink Recommendations: An exploratory audit of three language models. Heartsteep Bias Audit
+# Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models
 
 Yoomin (Rachel) Jung
 
-**Affiliation:** West Windsor-Plainsboro High School South
+**Affiliation:** Chadwick International, Songdo, Incheon, South Korea
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 62–71
 
@@ -29,7 +29,7 @@ When a language model responds to an emotional story, how much does its recommen
 
 ---
 
-**Keywords:** language models; demographic sensitivity; structured recommendations; counterfactual l prompts; permutation tests; game-based evaluation
+**Keywords:** Language models; demographic sensitivity; structured recommendations; counterfactual prompts; permutation tests; game-based evaluation
 
 ---
 

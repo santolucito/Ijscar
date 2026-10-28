@@ -15,7 +15,7 @@ citation_lastpage: 28
 
 Prahalad Talur
 
-**Affiliation:** Eastlake High School
+**Affiliation:** Eastlake High School, Sammamish, WA, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 23–28
 

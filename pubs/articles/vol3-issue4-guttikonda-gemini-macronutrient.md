@@ -18,7 +18,7 @@ citation_lastpage: 43
 
 Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou
 
-**Affiliation:** GSTEM New York University
+**Affiliation:** University High School, Carmel, IN, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 38–43
 

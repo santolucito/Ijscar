@@ -16,7 +16,7 @@ citation_lastpage: 22
 
 Meirav Bocknek, Mariame Diabate
 
-**Affiliation:** Brooklyn Prospect Charter School
+**Affiliation:** Brooklyn Prospect Charter School, Brooklyn, NY, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 16–22
 

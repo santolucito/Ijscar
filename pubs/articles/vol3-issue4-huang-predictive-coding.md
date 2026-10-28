@@ -15,7 +15,7 @@ citation_lastpage: 15
 
 Austin Huang
 
-**Affiliation:** Eton College
+**Affiliation:** Eton College, Windsor, Berkshire, United Kingdom
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 4–15
 
