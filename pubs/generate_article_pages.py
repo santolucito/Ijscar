@@ -15,6 +15,7 @@ ISSUE_PDF = {
     (3, 1): "../vol3-issue1.pdf",
     (3, 2): "../vol3-issue2.pdf",
     (3, 3): "../vol3-issue3.pdf",
+    (3, 4): "../vol3-issue4.pdf",
 }
 
 
@@ -212,6 +213,14 @@ SLUG_OVERRIDES = {
     ("3", "3", "lee"):         "active-passive-learning",
     ("3", "3", "tripathy"):    "structured-prompting",
     ("3", "3", "singh"):       "iot-intrusion-detection",
+    ("3", "4", "huang"):       "predictive-coding",
+    ("3", "4", "bocknek"):     "brca2-variant-predictors",
+    ("3", "4", "talur"):       "turbofan-maintenance",
+    ("3", "4", "tippimath"):   "tango2-crisis-prediction",
+    ("3", "4", "guttikonda"):  "gemini-macronutrient",
+    ("3", "4", "sharma"):      "tomato-bacterial-spot",
+    ("3", "4", "jung"):        "heartsteep-drinks",
+    ("3", "4", "arun"):        "collider-anomaly-detection",
 }
 
 
