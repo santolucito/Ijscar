@@ -114,3 +114,32 @@
 
 - [A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection](articles/vol3-issue3-singh-iot-intrusion-detection.md)  
   Pradyumn Singh, Russ Alizadeh · pp. 41–47
+
+### Volume 3, Issue 4
+
+- [Comparing the Sample and Computational Efficiency of Unit-Precision Predictive Coding and Backpropagation](articles/vol3-issue4-huang-predictive-coding.md)  
+  Austin Huang · pp. 4–15
+
+- [Benchmarking BRCA2 Missense Variant Pathogenicity Predictors Across Functional Domains and in a Subset of Variants Observed in Ashkenazi Jewish Individuals](articles/vol3-issue4-bocknek-brca2-variant-predictors.md)  
+  Meirav Bocknek, Mariame Diabate · pp. 16–22
+
+- [Beyond Cycle Count: Sensor-Based Maintenance Warnings for Simulated Turbofan Engines](articles/vol3-issue4-talur-turbofan-maintenance.md)  
+  Prahalad Talur · pp. 23–28
+
+- [Dynamic Mathematical PDE Modeling and Machine Learning for TANGO2 Identification and Crisis Prediction](articles/vol3-issue4-tippimath-tango2-crisis-prediction.md)  
+  Abhay Tippimath · pp. 29–37
+
+- [Investigating the Efficacy of the Gemini 2.5 Pro Model in the Estimation of Macronutrient Content](articles/vol3-issue4-guttikonda-gemini-macronutrient.md)  
+  Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou · pp. 38–43
+
+- [Analysis of Methods to Improve Underwater Object Detection in Various Environments](articles/vol3-issue4-katz-underwater-detection.md)  
+  Nico Katz · pp. 44–56
+
+- [Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants](articles/vol3-issue4-sharma-tomato-bacterial-spot.md)  
+  Siya Sharma, Emily Broadhurst · pp. 57–61
+
+- [Demographic Sensitivity in Heartsteep Drink Recommendations: An exploratory audit of three language models. Heartsteep Bias Audit](articles/vol3-issue4-jung-heartsteep-drinks.md)  
+  Yoomin (Rachel) Jung · pp. 62–71
+
+- [Evaluating Representation Learning for Model-Independent Anomaly Detection in High-Energy Particle Collisions](articles/vol3-issue4-arun-collider-anomaly-detection.md)  
+  Abhijay Arun · pp. 72–87
