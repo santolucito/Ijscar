@@ -147,5 +147,7 @@
 - [Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback](articles/vol3-issue4-amancha-dental-caries-detection.md)  
   Chinmay Karthik Amancha · pp. 88–93
 
+<!-- Hidden until Samuel Xie's article is confirmed for this issue; restore by deleting the comment markers.
 - [Causal Faithfulness of SAE Feature Attributions in a Probe Pipeline](articles/vol3-issue4-xie-shap-causal-faithfulness.md)  
   Samuel Xie, Noura Al-Moubayed · pp. 94–106
+-->
