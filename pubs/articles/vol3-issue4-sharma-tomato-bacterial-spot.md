@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants"
-description: "Siya Sharma, Emily Broadhurst — IJSCAR Vol. 3, Issue 4, 2026, pp. 57–61"
+description: "Siya Sharma — IJSCAR Vol. 3, Issue 4, 2026, pp. 57–61"
 citation_authors:
   - "Sharma, Siya"
-  - "Broadhurst, Emily"
 citation_year: 2026
 citation_volume: 3
 citation_issue: 4
@@ -16,7 +15,7 @@ citation_pdf: "/pubs/articles/vol3-issue4-sharma-tomato-bacterial-spot.pdf"
 
 # Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants
 
-Siya Sharma, Emily Broadhurst
+Siya Sharma
 
 **Affiliation:** Reservoir High School, Fulton, MD, USA
 

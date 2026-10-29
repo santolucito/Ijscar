@@ -136,7 +136,7 @@
   Nico Katz · pp. 44–56
 
 - [Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants](articles/vol3-issue4-sharma-tomato-bacterial-spot.md)  
-  Siya Sharma, Emily Broadhurst · pp. 57–61
+  Siya Sharma · pp. 57–61
 
 - [Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models](articles/vol3-issue4-jung-heartsteep-drinks.md)  
   Yoomin (Rachel) Jung · pp. 62–71
