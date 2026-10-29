@@ -224,6 +224,7 @@ SLUG_OVERRIDES = {
     ("3", "4", "katz"):        "underwater-detection",
     ("3", "4", "amancha"):     "dental-caries-detection",
     ("3", "4", "xie"):         "shap-causal-faithfulness",
+    ("3", "4", "damera"):      "character-transformer-arithmetic",
 }
 
 
