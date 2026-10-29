@@ -10,6 +10,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 57
 citation_lastpage: 61
+citation_doi: "10.67149/yhjs2024.5/5k51m878"
 citation_pdf: "/pubs/articles/vol3-issue4-sharma-tomato-bacterial-spot.pdf"
 ---
 
@@ -21,7 +22,7 @@ Siya Sharma, Emily Broadhurst
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 57–61
 
-
+**DOI:** [10.67149/yhjs2024.5/5k51m878](vol3-issue4-sharma-tomato-bacterial-spot.pdf)
 
 ---
 

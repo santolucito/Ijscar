@@ -10,6 +10,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 16
 citation_lastpage: 22
+citation_doi: "10.67149/yhjs2024.5/jbuwpv6l"
 citation_pdf: "/pubs/articles/vol3-issue4-bocknek-brca2-variant-predictors.pdf"
 ---
 
@@ -21,7 +22,7 @@ Meirav Bocknek, Mariame Diabate
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 16–22
 
-
+**DOI:** [10.67149/yhjs2024.5/jbuwpv6l](vol3-issue4-bocknek-brca2-variant-predictors.pdf)
 
 ---
 

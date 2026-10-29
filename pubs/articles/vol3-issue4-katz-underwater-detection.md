@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 44
 citation_lastpage: 56
+citation_doi: "10.67149/yhjs2024.5/myab98j1"
 citation_pdf: "/pubs/articles/vol3-issue4-katz-underwater-detection.pdf"
 ---
 
@@ -20,7 +21,7 @@ Nico Katz
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 44–56
 
-
+**DOI:** [10.67149/yhjs2024.5/myab98j1](vol3-issue4-katz-underwater-detection.pdf)
 
 ---
 

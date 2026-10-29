@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 88
 citation_lastpage: 93
+citation_doi: "10.67149/yhjs2024.5/03kanv0l"
 citation_pdf: "/pubs/articles/vol3-issue4-amancha-dental-caries-detection.pdf"
 ---
 
@@ -20,7 +21,7 @@ Chinmay Karthik Amancha
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 88–93
 
-
+**DOI:** [10.67149/yhjs2024.5/03kanv0l](vol3-issue4-amancha-dental-caries-detection.pdf)
 
 ---
 

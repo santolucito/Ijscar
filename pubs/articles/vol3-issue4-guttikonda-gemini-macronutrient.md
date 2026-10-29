@@ -12,6 +12,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 38
 citation_lastpage: 43
+citation_doi: "10.67149/yhjs2024.5/c6ey9odw"
 citation_pdf: "/pubs/articles/vol3-issue4-guttikonda-gemini-macronutrient.pdf"
 ---
 
@@ -23,7 +24,7 @@ Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 38–43
 
-
+**DOI:** [10.67149/yhjs2024.5/c6ey9odw](vol3-issue4-guttikonda-gemini-macronutrient.pdf)
 
 ---
 

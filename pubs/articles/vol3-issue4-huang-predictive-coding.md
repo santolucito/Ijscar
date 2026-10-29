@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 4
 citation_lastpage: 15
+citation_doi: "10.67149/yhjs2024.5/3u76nbg5"
 citation_pdf: "/pubs/articles/vol3-issue4-huang-predictive-coding.pdf"
 ---
 
@@ -20,7 +21,7 @@ Austin Huang
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 4–15
 
-
+**DOI:** [10.67149/yhjs2024.5/3u76nbg5](vol3-issue4-huang-predictive-coding.pdf)
 
 ---
 

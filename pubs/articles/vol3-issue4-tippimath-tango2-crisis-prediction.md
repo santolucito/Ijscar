@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 29
 citation_lastpage: 37
+citation_doi: "10.67149/yhjs2024.5/l542temi"
 citation_pdf: "/pubs/articles/vol3-issue4-tippimath-tango2-crisis-prediction.pdf"
 ---
 
@@ -20,7 +21,7 @@ Abhay Tippimath
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 29–37
 
-
+**DOI:** [10.67149/yhjs2024.5/l542temi](vol3-issue4-tippimath-tango2-crisis-prediction.pdf)
 
 ---
 

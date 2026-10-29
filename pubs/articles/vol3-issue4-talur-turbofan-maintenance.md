@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 23
 citation_lastpage: 28
+citation_doi: "10.67149/yhjs2024.5/vfmxte3f"
 citation_pdf: "/pubs/articles/vol3-issue4-talur-turbofan-maintenance.pdf"
 ---
 
@@ -20,7 +21,7 @@ Prahalad Talur
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 23–28
 
-
+**DOI:** [10.67149/yhjs2024.5/vfmxte3f](vol3-issue4-talur-turbofan-maintenance.pdf)
 
 ---
 
