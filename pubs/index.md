@@ -143,3 +143,9 @@
 
 - [Evaluating Representation Learning for Model-Independent Anomaly Detection in High-Energy Particle Collisions](articles/vol3-issue4-arun-collider-anomaly-detection.md)  
   Abhijay Arun · pp. 72–87
+
+- [Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback](articles/vol3-issue4-amancha-dental-caries-detection.md)  
+  Chinmay Karthik Amancha · pp. 88–93
+
+- [Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features](articles/vol3-issue4-xie-shap-causal-faithfulness.md)  
+  Samuel Xie, Noura Al-Moubayed · pp. 94–106

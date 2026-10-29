@@ -221,6 +221,8 @@ SLUG_OVERRIDES = {
     ("3", "4", "sharma"):      "tomato-bacterial-spot",
     ("3", "4", "jung"):        "heartsteep-drinks",
     ("3", "4", "arun"):        "collider-anomaly-detection",
+    ("3", "4", "amancha"):     "dental-caries-detection",
+    ("3", "4", "xie"):         "shap-causal-faithfulness",
 }
 
 
