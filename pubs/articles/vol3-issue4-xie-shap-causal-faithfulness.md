@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features"
+title: "Causal Faithfulness of SAE Feature Attributions in a Probe Pipeline"
 description: "Samuel Xie, Noura Al-Moubayed — IJSCAR Vol. 3, Issue 4, 2026, pp. 94–106"
 citation_authors:
   - "Xie, Samuel"
@@ -10,9 +10,10 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 94
 citation_lastpage: 106
+citation_pdf: "/pubs/articles/vol3-issue4-xie-shap-causal-faithfulness.pdf"
 ---
 
-# Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features
+# Causal Faithfulness of SAE Feature Attributions in a Probe Pipeline
 
 Samuel Xie, Noura Al-Moubayed
 

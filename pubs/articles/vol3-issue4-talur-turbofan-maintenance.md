@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 23
 citation_lastpage: 28
+citation_pdf: "/pubs/articles/vol3-issue4-talur-turbofan-maintenance.pdf"
 ---
 
 # Beyond Cycle Count: Sensor-Based Maintenance Warnings for Simulated Turbofan Engines
@@ -29,7 +30,7 @@ Run-to-failure engine data can make a maintenance warning look successful for th
 
 ---
 
-**Keywords:** 
+**Keywords:** Predictive maintenance, remaining useful life, turbofan engines, N-CMAPSS, sensor telemetry, warning threshold, engine-grouped cross-validation
 
 ---
 

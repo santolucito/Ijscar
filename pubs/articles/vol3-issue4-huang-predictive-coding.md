@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 4
 citation_lastpage: 15
+citation_pdf: "/pubs/articles/vol3-issue4-huang-predictive-coding.pdf"
 ---
 
 # Comparing the Sample and Computational Efficiency of Unit-Precision Predictive Coding and Backpropagation

@@ -10,6 +10,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 57
 citation_lastpage: 61
+citation_pdf: "/pubs/articles/vol3-issue4-sharma-tomato-bacterial-spot.pdf"
 ---
 
 # Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants
@@ -26,7 +27,7 @@ Siya Sharma, Emily Broadhurst
 
 ## Abstract
 
-On a worldwide scale, the farming industry loses $220 billion annually due to crop deaths. With approximately 160 tons of tomatoes consumed annually, about 50% of those crops are lost to diseases and pests. Our research aims to reduce the number of crops lost using early detection and machine learning. Modeling our data as a supervised learning problem, we can use images of tomato plant leaves to accurately detect bacterial spot disease, focusing on the impact that machine learning has on the reduction of food waste using accurate disease predictions. Bacterial spot disease was caused by the bacteria Xanthomonas perforans, most active humid, as tomato losses due to bacterial spot cost almost $900,000 in Florida were reported during the 2007-2008 growing season. (6) This paper explores how machine learning was used to detect bacterial spot disease, specifically in tomato plants. We hypothesized that tomato leaves infected with bacterial spot disease will show measurable differences in color and texture compared to healthy leaves, and these differences will become more pronounced as infection severity increases. We utilized and tested classifiers such as the Logistic Regression model, Ridge Classifier Model, Decision Tree Classifier alongside the Support Vector Classifier. Our Support Vector Classifier model had an accuracy score of 99.3%, along with a 99.4% recall score, which is more accurate than classifier models tested. This study indicates the usage of machine learning and early detection in tomato plants can strengthen sustainable agriculture, minimize food waste and improve food security.
+Plant pests and diseases destroy up to 40% of global crop production each year, causing more than US$220 billion in losses [4]. Tomatoes are among the most widely consumed crops, with approximately 160 million tons consumed each year [13]. In Florida, bacterial spot, caused mainly by Xanthomonas perforans [9, 11] and favored by hot, humid, rainy weather, cost tomato growers almost $900,000 in the 2007–2008 season [2]. We hypothesized that infected tomato leaves differ measurably from healthy leaves in color and texture, and tested whether machine learning could detect these differences. Using 3,769 PlantVillage leaf images, we compared Logistic Regression, Ridge Classifier, Decision Tree, Random Forest, and Support Vector Classifier (SVC) models with a lightweight convolutional neural network (CNN). The tuned SVC performed best among the classical models (99.34% accuracy, 99.44% F1, ROC-AUC 1.00) and matched the CNN (McNemar’s test, p = 1.00). However, its accuracy fell sharply on rotated or brightened images, so field performance is likely lower. Machine learning shows promise for early detection of bacterial spot, but it must be validated on field images before practical use.
 
 ---
 

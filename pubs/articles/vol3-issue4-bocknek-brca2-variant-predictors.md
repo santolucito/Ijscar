@@ -10,6 +10,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 16
 citation_lastpage: 22
+citation_pdf: "/pubs/articles/vol3-issue4-bocknek-brca2-variant-predictors.pdf"
 ---
 
 # Benchmarking BRCA2 Missense Variant Pathogenicity Predictors Across Functional Domains and in a Subset of Variants Observed in Ashkenazi Jewish Individuals

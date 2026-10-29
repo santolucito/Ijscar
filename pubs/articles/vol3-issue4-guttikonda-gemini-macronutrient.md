@@ -12,6 +12,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 38
 citation_lastpage: 43
+citation_pdf: "/pubs/articles/vol3-issue4-guttikonda-gemini-macronutrient.pdf"
 ---
 
 # Investigating the Efficacy of the Gemini 2.5 Pro Model in the Estimation of Macronutrient Content

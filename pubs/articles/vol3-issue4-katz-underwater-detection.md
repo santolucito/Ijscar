@@ -9,13 +9,14 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 44
 citation_lastpage: 56
+citation_pdf: "/pubs/articles/vol3-issue4-katz-underwater-detection.pdf"
 ---
 
 # Analysis of Methods to Improve Underwater Object Detection in Various Environments
 
 Nico Katz
 
-**Affiliation:** La Jolla Country Day School, La Jolla, CA, USA
+**Affiliation:** La Jolla Country Day School, San Diego, CA, USA
 
 **IJSCAR** Vol. 3, Issue 4 (2026) &nbsp;·&nbsp; pp. 44–56
 
@@ -29,7 +30,7 @@ We evaluate how single-augmentation and aggregate-augmentation training affect t
 
 ---
 
-**Keywords:** 
+**Keywords:** Computer Vision, Underwater, Jerlov Water Types, Data Augmentations
 
 ---
 

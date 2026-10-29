@@ -9,6 +9,7 @@ citation_volume: 3
 citation_issue: 4
 citation_firstpage: 88
 citation_lastpage: 93
+citation_pdf: "/pubs/articles/vol3-issue4-amancha-dental-caries-detection.pdf"
 ---
 
 # Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback

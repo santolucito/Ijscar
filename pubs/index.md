@@ -141,11 +141,11 @@
 - [Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models](articles/vol3-issue4-jung-heartsteep-drinks.md)  
   Yoomin (Rachel) Jung · pp. 62–71
 
-- [Evaluating Representation Learning for Model-Independent Anomaly Detection in High-Energy Particle Collisions](articles/vol3-issue4-arun-collider-anomaly-detection.md)  
+- [A Jet-Multiplicity Confound in Reconstruction-Based Anomaly Detection: Evidence from a Higgs-to-Tau-Pair Proxy Signal](articles/vol3-issue4-arun-collider-anomaly-detection.md)  
   Abhijay Arun · pp. 72–87
 
 - [Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback](articles/vol3-issue4-amancha-dental-caries-detection.md)  
   Chinmay Karthik Amancha · pp. 88–93
 
-- [Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features](articles/vol3-issue4-xie-shap-causal-faithfulness.md)  
+- [Causal Faithfulness of SAE Feature Attributions in a Probe Pipeline](articles/vol3-issue4-xie-shap-causal-faithfulness.md)  
   Samuel Xie, Noura Al-Moubayed · pp. 94–106
