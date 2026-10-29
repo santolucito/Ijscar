@@ -1,0 +1,31 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\setlength{\parindent}{0pt}
+\pagestyle{plain}
+\setcounter{page}{3}
+\newcommand{\entry}[3]{%
+  \noindent$\bullet$\hspace{0.45em}\begin{minipage}[t]{\dimexpr\linewidth-1.25em\relax}
+  \raggedright #1\\
+  #2\leaders\hbox to 0.62em{\hss.\hss}\hfill\textbf{#3}%
+  \end{minipage}\par\vspace{2.6ex}}
+\begin{document}
+\noindent Proceedings of IJSCAR, Volume 3, Issue 4\hfill October 30, 2026\par\vspace{-1.3ex}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{3ex}
+
+{\Large\bfseries Contents}
+\vspace{3.4ex}
+
+\entry{Comparing the Sample and Computational Efficiency of Unit-Precision Predictive Coding and Backpropagation}{Austin Huang}{4}
+\entry{Benchmarking BRCA2 Missense Variant Pathogenicity Predictors Across Functional Domains and in a Subset of Variants Observed in Ashkenazi Jewish Individuals}{Meirav Bocknek, Mariame Diabate}{16}
+\entry{Beyond Cycle Count: Sensor-Based Maintenance Warnings for Simulated Turbofan Engines}{Prahalad Talur}{23}
+\entry{Dynamic Mathematical PDE Modeling and Machine Learning for TANGO2 Identification and Crisis Prediction}{Abhay Tippimath}{29}
+\entry{Investigating the Efficacy of the Gemini 2.5 Pro Model in the Estimation of Macronutrient Content}{Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou}{38}
+\entry{Analysis of Methods to Improve Underwater Object Detection in Various Environments}{Nico Katz}{44}
+\entry{Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants}{Siya Sharma, Emily Broadhurst}{57}
+\entry{Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models}{Yoomin (Rachel) Jung}{62}
+\entry{Evaluating Representation Learning for Model-Independent Anomaly Detection in High-Energy Particle Collisions}{Abhijay Arun}{72}
+\entry{Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback}{Chinmay Karthik Amancha}{88}
+\entry{Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features}{Samuel Xie, Noura Al-Moubayed}{94}
+\end{document}
