@@ -10,6 +10,7 @@ citation_issue: 1
 citation_firstpage: 4
 citation_lastpage: 12
 citation_doi: "10.5281/zenodo.18404590"
+citation_pdf: "/pubs/articles/vol3-issue1-mehra-human-perception.pdf"
 ---
 
 # Human Perception and Detection of AI-Generated Phishing Emails: A Red-Teaming and Multi-Layered Detection Approach

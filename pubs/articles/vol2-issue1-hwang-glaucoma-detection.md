@@ -10,6 +10,7 @@ citation_issue: 1
 citation_firstpage: 3
 citation_lastpage: 8
 citation_doi: "10.5281/zenodo.15149831"
+citation_pdf: "/pubs/articles/vol2-issue1-hwang-glaucoma-detection.pdf"
 ---
 
 # Comparative Analysis of Vision Transformer and ResNet50 for Glaucoma Detection: Balancing Performance and Efficiency

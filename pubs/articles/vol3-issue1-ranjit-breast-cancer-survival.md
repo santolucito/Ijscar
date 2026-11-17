@@ -10,6 +10,7 @@ citation_issue: 1
 citation_firstpage: 13
 citation_lastpage: 23
 citation_doi: "10.5281/zenodo.18404485"
+citation_pdf: "/pubs/articles/vol3-issue1-ranjit-breast-cancer-survival.pdf"
 ---
 
 # Comparing the Performance of Traditional Machine Learning and Deep Learning Algorithms for Breast Cancer Survival Prediction

@@ -26,19 +26,19 @@
 ### Volume 2, Issue 1 &nbsp;·&nbsp; [Full Issue PDF](vol2-issue1.pdf)
 
 - [Comparative Analysis of Vision Transformer and ResNet50 for Glaucoma Detection: Balancing Performance and Efficiency](articles/vol2-issue1-hwang-glaucoma-detection.md)  
-  Eric Hwang · pp. 3–8
+  Eric Hwang · pp. 3–8 · [PDF](articles/vol2-issue1-hwang-glaucoma-detection.pdf)
 
 - [Co-occurrence of Extreme Heat and Pollution in the Southwest United States](articles/vol2-issue1-maganti-heat-pollution.md)  
-  Arjun Maganti, Zachary Espinosa · pp. 9–14
+  Arjun Maganti, Zachary Espinosa · pp. 9–14 · [PDF](articles/vol2-issue1-maganti-heat-pollution.pdf)
 
 - [A Study of Drift Variability in Crazyflie Nano-Quadcopters by Pitting in-built Logging Parameters against Meticulous Measurement Techniques](articles/vol2-issue1-bhaduri-drift-variability.md)  
-  Vihaan Bhaduri, Mark Santolucito · pp. 15–22
+  Vihaan Bhaduri, Mark Santolucito · pp. 15–22 · [PDF](articles/vol2-issue1-bhaduri-drift-variability.pdf)
 
 - [LLM-based Code Generation for Verilog](articles/vol2-issue1-raghav-verilog.md)  
-  Anshul Raghav, Mark Santolucito · pp. 23–32
+  Anshul Raghav, Mark Santolucito · pp. 23–32 · [PDF](articles/vol2-issue1-raghav-verilog.pdf)
 
 - [Using AI Modeling to Predict the Impact of Cloud Seeding on Amount of Rainfall and How that Affects the Temperature in Different Regions](articles/vol2-issue1-carvalho-cloud-seeding.md)  
-  Rex Carvalho, Ihita Mandal · pp. 33–36
+  Rex Carvalho, Ihita Mandal · pp. 33–36 · [PDF](articles/vol2-issue1-carvalho-cloud-seeding.pdf)
 
 ### Volume 2, Issue 2 &nbsp;·&nbsp; [Full Issue PDF](vol2-issue2.pdf)
 
@@ -67,88 +67,88 @@
 ### Volume 3, Issue 1 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue1.pdf)
 
 - [Human Perception and Detection of AI-Generated Phishing Emails: A Red-Teaming and Multi-Layered Detection Approach](articles/vol3-issue1-mehra-human-perception.md)  
-  Rohan Mehra · pp. 4–12
+  Rohan Mehra · pp. 4–12 · [PDF](articles/vol3-issue1-mehra-human-perception.pdf)
 
 - [Comparing the Performance of Traditional Machine Learning and Deep Learning Algorithms for Breast Cancer Survival Prediction](articles/vol3-issue1-ranjit-breast-cancer-survival.md)  
-  Navaneeth Ranjit · pp. 13–23
+  Navaneeth Ranjit · pp. 13–23 · [PDF](articles/vol3-issue1-ranjit-breast-cancer-survival.pdf)
 
 - [Machine Learning Framework for Phishing Detection through Email using Imbalanced Data](articles/vol3-issue1-mkrtumyan-phishing-imbalanced.md)  
-  Mher Mkrtumyan · pp. 24–30
+  Mher Mkrtumyan · pp. 24–30 · [PDF](articles/vol3-issue1-mkrtumyan-phishing-imbalanced.pdf)
 
 - [A Vision-Based Approach to Safe Void Detection and Path Planning in Post-Disaster Rubble Using Segment Anything Models](articles/vol3-issue1-sanku-disaster-path-planning.md)  
-  Abhiram Sanku · pp. 31–36
+  Abhiram Sanku · pp. 31–36 · [PDF](articles/vol3-issue1-sanku-disaster-path-planning.pdf)
 
 - [Leveraging Machine Learning and Zinc-Aware Docking to Discover Natural Inhibitors of EptA Resistance Enzymes](articles/vol3-issue1-cheng-epta-zinc-docking.md)  
-  Mason Cheng, Mariame Diabate · pp. 37–46
+  Mason Cheng, Mariame Diabate · pp. 37–46 · [PDF](articles/vol3-issue1-cheng-epta-zinc-docking.pdf)
 
 ### Volume 3, Issue 2 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue2.pdf)
 
 - [Visualizing Hyperparameters in 2D Drone Navigation](articles/vol3-issue2-punuru-drone-navigation.md)  
-  Maanas Punuru, Jan Ole Ernst · pp. 4–9
+  Maanas Punuru, Jan Ole Ernst · pp. 4–9 · [PDF](articles/vol3-issue2-punuru-drone-navigation.pdf)
 
 - [Entropy-Minimal Noise Schedules for Denoising Diffusion Probabilistic Models: A Non-Equilibrium Thermodynamics Approach](articles/vol3-issue2-omar-diffusion-thermodynamics.md)  
-  Tawhid Bin Omar · pp. 10–15
+  Tawhid Bin Omar · pp. 10–15 · [PDF](articles/vol3-issue2-omar-diffusion-thermodynamics.pdf)
 
 - [Plexibot: A Homogeneous Modular Robot Framework for Adaptive Locomotion in Unstructured Environments](articles/vol3-issue2-goel-plexibot-modular-robot.md)  
-  Kaavya Goel · pp. 16–22
+  Kaavya Goel · pp. 16–22 · [PDF](articles/vol3-issue2-goel-plexibot-modular-robot.pdf)
 
 - [Usability of Municipal AI Policy Documents: A Heuristic Evaluation and NLP Analysis Across 20 U.S. Cities](articles/vol3-issue2-mehra-municipal-ai-policy.md)  
-  Nikhil Mehra · pp. 23–39
+  Nikhil Mehra · pp. 23–39 · [PDF](articles/vol3-issue2-mehra-municipal-ai-policy.pdf)
 
 - [Backdoor Detection in Reinforcement Learning Agents for Electric Vehicle Charging Control](articles/vol3-issue2-raghavan-backdoor-ev-charging.md)  
-  Ajay Raghavan · pp. 40–46
+  Ajay Raghavan · pp. 40–46 · [PDF](articles/vol3-issue2-raghavan-backdoor-ev-charging.pdf)
 
 ### Volume 3, Issue 3 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue3.pdf)
 
 - [PostureScore: An On-Device, Phase-Aware Scoring Pipeline for At-Home Rehabilitation](articles/vol3-issue3-wang-posturescore-rehab.md)  
-  Ella Wang · pp. 4–13
+  Ella Wang · pp. 4–13 · [PDF](articles/vol3-issue3-wang-posturescore-rehab.pdf)
 
 - [A Reproducible Computational Pipeline for Modelling Sequential Decision Thresholds from Stopping-Rule Data](articles/vol3-issue3-kolesnikov-stopping-rule-pipeline.md)  
-  Alex Kolesnikov · pp. 14–20
+  Alex Kolesnikov · pp. 14–20 · [PDF](articles/vol3-issue3-kolesnikov-stopping-rule-pipeline.pdf)
 
 - [Precision versus Efficiency: A Quantized DistilBERT Framework for Automated Mental Health Text Triage](articles/vol3-issue3-goswami-mental-health-triage.md)  
-  Ayaan Goswami, Clayton Greenberg · pp. 21–35
+  Ayaan Goswami, Clayton Greenberg · pp. 21–35 · [PDF](articles/vol3-issue3-goswami-mental-health-triage.pdf)
 
 - [The Effects of Active and Passive Learning Methods](articles/vol3-issue3-lee-active-passive-learning.md)  
-  Jimin Lee · pp. 36–40
+  Jimin Lee · pp. 36–40 · [PDF](articles/vol3-issue3-lee-active-passive-learning.pdf)
 
 - [A Five-Run Comparison of Lightweight Machine Learning Models for IoT Intrusion Detection](articles/vol3-issue3-singh-iot-intrusion-detection.md)  
-  Pradyumn Singh, Russ Alizadeh · pp. 41–47
+  Pradyumn Singh, Russ Alizadeh · pp. 41–47 · [PDF](articles/vol3-issue3-singh-iot-intrusion-detection.pdf)
 
 ### Volume 3, Issue 4 &nbsp;·&nbsp; [Full Issue PDF](vol3-issue4.pdf)
 
 - [Comparing the Sample and Computational Efficiency of Unit-Precision Predictive Coding and Backpropagation](articles/vol3-issue4-huang-predictive-coding.md)  
-  Austin Huang · pp. 4–15
+  Austin Huang · pp. 4–15 · [PDF](articles/vol3-issue4-huang-predictive-coding.pdf)
 
 - [Benchmarking BRCA2 Missense Variant Pathogenicity Predictors Across Functional Domains and in a Subset of Variants Observed in Ashkenazi Jewish Individuals](articles/vol3-issue4-bocknek-brca2-variant-predictors.md)  
-  Meirav Bocknek, Mariame Diabate · pp. 16–22
+  Meirav Bocknek, Mariame Diabate · pp. 16–22 · [PDF](articles/vol3-issue4-bocknek-brca2-variant-predictors.pdf)
 
 - [Beyond Cycle Count: Sensor-Based Maintenance Warnings for Simulated Turbofan Engines](articles/vol3-issue4-talur-turbofan-maintenance.md)  
-  Prahalad Talur · pp. 23–28
+  Prahalad Talur · pp. 23–28 · [PDF](articles/vol3-issue4-talur-turbofan-maintenance.pdf)
 
 - [Dynamic Mathematical PDE Modeling and Machine Learning for TANGO2 Identification and Crisis Prediction](articles/vol3-issue4-tippimath-tango2-crisis-prediction.md)  
-  Abhay Tippimath · pp. 29–37
+  Abhay Tippimath · pp. 29–37 · [PDF](articles/vol3-issue4-tippimath-tango2-crisis-prediction.pdf)
 
 - [Investigating the Efficacy of the Gemini 2.5 Pro Model in the Estimation of Macronutrient Content](articles/vol3-issue4-guttikonda-gemini-macronutrient.md)  
-  Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou · pp. 38–43
+  Sonali Guttikonda, Junyao Chen, He Tu, Zhengyuan Zhou · pp. 38–43 · [PDF](articles/vol3-issue4-guttikonda-gemini-macronutrient.pdf)
 
 - [Analysis of Methods to Improve Underwater Object Detection in Various Environments](articles/vol3-issue4-katz-underwater-detection.md)  
-  Nico Katz · pp. 44–56
+  Nico Katz · pp. 44–56 · [PDF](articles/vol3-issue4-katz-underwater-detection.pdf)
 
 - [Optimizing Classification-Based Machine Learning Models for Bacterial Spot Disease Detection in Tomato Plants](articles/vol3-issue4-sharma-tomato-bacterial-spot.md)  
-  Siya Sharma · pp. 57–61
+  Siya Sharma · pp. 57–61 · [PDF](articles/vol3-issue4-sharma-tomato-bacterial-spot.pdf)
 
 - [Demographic Sensitivity in Heartsteep Drink Recommendations: An Exploratory Audit of Three Language Models](articles/vol3-issue4-jung-heartsteep-drinks.md)  
-  Yoomin (Rachel) Jung · pp. 62–71
+  Yoomin (Rachel) Jung · pp. 62–71 · [PDF](articles/vol3-issue4-jung-heartsteep-drinks.pdf)
 
 - [A Jet-Multiplicity Confound in Reconstruction-Based Anomaly Detection: Evidence from a Higgs-to-Tau-Pair Proxy Signal](articles/vol3-issue4-arun-collider-anomaly-detection.md)  
-  Abhijay Arun · pp. 72–87
+  Abhijay Arun · pp. 72–87 · [PDF](articles/vol3-issue4-arun-collider-anomaly-detection.pdf)
 
 - [Iterative Development of an AI Prototype for Dental Caries Detection and Localization with Informal Clinical Feedback](articles/vol3-issue4-amancha-dental-caries-detection.md)  
-  Chinmay Karthik Amancha · pp. 88–93
+  Chinmay Karthik Amancha · pp. 88–93 · [PDF](articles/vol3-issue4-amancha-dental-caries-detection.pdf)
 
 - [Causal Faithfulness of SAE Feature Attributions in a Probe Pipeline](articles/vol3-issue4-xie-shap-causal-faithfulness.md)  
-  Samuel Xie, Noura Al-Moubayed · pp. 94–106
+  Samuel Xie, Noura Al-Moubayed · pp. 94–106 · [PDF](articles/vol3-issue4-xie-shap-causal-faithfulness.pdf)
 
 - [Interpreting Character-Level Transformers for Addition and Multiplication Through Integrated Gradients](articles/vol3-issue4-damera-character-transformer-arithmetic.md)  
-  Abhinav Damera · pp. 107–116
+  Abhinav Damera · pp. 107–116 · [PDF](articles/vol3-issue4-damera-character-transformer-arithmetic.pdf)

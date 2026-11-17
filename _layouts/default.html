@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
     <meta charset='utf-8'>
@@ -44,11 +44,14 @@
             </p>
             <section id="main_content">
                 {{ content }}
+                {% if page.citation_pdf %}
+                <p><a href="{{ page.citation_pdf | relative_url }}" class="button">Download Article PDF</a></p>
+                {% endif %}
             </section>
 
             <footer>
 
-                <p>© 2024 International Journal of Secondary Computing and Applications Research (IJSCAR). All rights
+                <p>© 2024–{{ site.time | date: "%Y" }} International Journal of Secondary Computing and Applications Research (IJSCAR). All rights
                     reserved.
                 </p>
             </footer>

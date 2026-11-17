@@ -10,6 +10,7 @@ citation_issue: 1
 citation_firstpage: 24
 citation_lastpage: 30
 citation_doi: "10.5281/zenodo.18435064"
+citation_pdf: "/pubs/articles/vol3-issue1-mkrtumyan-phishing-imbalanced.pdf"
 ---
 
 # Machine Learning Framework for Phishing Detection through Email using Imbalanced Data

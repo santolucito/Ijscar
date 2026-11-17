@@ -11,6 +11,7 @@ citation_issue: 1
 citation_firstpage: 15
 citation_lastpage: 22
 citation_doi: "10.5281/zenodo.14988716"
+citation_pdf: "/pubs/articles/vol2-issue1-bhaduri-drift-variability.pdf"
 ---
 
 # A Study of Drift Variability in Crazyflie Nano-Quadcopters by Pitting in-built Logging Parameters against Meticulous Measurement Techniques

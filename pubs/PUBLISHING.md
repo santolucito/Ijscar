@@ -150,6 +150,15 @@ python3 generate_article_pages.py
 
 This also writes the Google Scholar metadata (`citation_*` fields) into each article's front matter; `_includes/citation-meta.html` turns them into `<meta name="citation_...">` tags on the page. Put each article's own PDF in `pubs/articles/` (named `<slug>.pdf`, same as its `.md`) **before** running the script, so `citation_pdf_url` is included — Google Scholar needs a PDF of just that article, not the merged issue. To check after the site rebuilds, open an article page, View Page Source, and search for `citation_title`.
 
+**Per-article PDFs (needed for Google Scholar).** Scholar can't index several papers inside one PDF and skips any file over 5 MB, so a merged issue PDF alone won't get the articles indexed. If an issue has no per-article PDFs yet, cut them from the merged issue PDF with:
+
+```bash
+cd pubs
+python3 split_issue_pdfs.py 3.4     # volume.issue, e.g. Vol 3 Issue 4
+```
+
+The script finds each article's real first page from its title (it does not trust `page_start`), writes `articles/<slug>.pdf`, shrinks any file over 4.5 MB, and adds `citation_pdf:` to the article's front matter. Check the output sizes, and add a `[PDF](articles/<slug>.pdf)` link after the page range of each article in `pubs/index.md` so crawlers can reach the file from the Publications page.
+
 ---
 
 ## Step 9 — Commit Everything to GitHub
@@ -170,7 +179,8 @@ GitHub Pages will rebuild automatically. Allow 1–2 minutes, then verify at [ij
 | File | What to update |
 |---|---|
 | `pubs/articles.csv` | Add one row per article; fill pages and DOI once known |
-| `pubs/index.md` | Add new `### Volume N, Issue N` section with article links |
+| `pubs/index.md` | Add new `### Volume N, Issue N` section with article links, each with a `[PDF](articles/<slug>.pdf)` link |
+| `pubs/articles/<slug>.pdf` | One small (< 5 MB) PDF per article — see `split_issue_pdfs.py` |
 | `pubs/generate_article_pages.py` | Add entry to `ISSUE_PDF` dict; add slug overrides if needed |
 | `pubs/merge_issue.py` | Update `VOLUME`, `ISSUE`, and `COMPONENTS` list |
 | `pubs/volN-issueN.pdf` | The merged issue PDF itself |
