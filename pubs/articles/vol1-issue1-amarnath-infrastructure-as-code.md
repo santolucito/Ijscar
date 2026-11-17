@@ -34,5 +34,3 @@ Code generation with Large Language Models (LLMs) has helped to increase softwar
 **Keywords:** Infrastructure as Code, Large Language Models
 
 ---
-
-[View Full Issue PDF](../vol1-issue1.pdf#page=15){: .button} &nbsp; [All Publications](../)

@@ -34,5 +34,3 @@ This paper documents the iterative development of a student-built dental caries 
 **Keywords:** Artificial intelligence, dental caries, bitewing radiography, YOLO, object detection, multi-reader evaluation, precision-recall
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=88){: .button} &nbsp; [All Publications](../)

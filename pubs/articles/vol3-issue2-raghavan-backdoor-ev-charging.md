@@ -34,5 +34,3 @@ As electric vehicles become central to modern transportation power grids increas
 **Keywords:** Cybersecurity, Backdoor Detection, Reinforcement Learning, Electric Vehicles
 
 ---
-
-[View Full Issue PDF](../vol3-issue2.pdf#page=40){: .button} &nbsp; [All Publications](../)

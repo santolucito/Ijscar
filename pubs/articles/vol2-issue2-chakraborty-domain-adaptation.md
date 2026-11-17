@@ -33,5 +33,3 @@ This paper investigates whether Domain Adaptation techniques can significantly i
 **Keywords:** Artificial Intelligence, Computer Vision, Deep Learning, Domain Adaptation, Neural Networks, Convolutional Neural Networks, Transfer Learning
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=28){: .button} &nbsp; [All Publications](../)

@@ -35,5 +35,3 @@ IoT intrusion-detection models are useful only if they detect attacks without be
 **Keywords:** IoT Security, Cybersecurity, Intrusion Detection, Machine Learning, XGBoost
 
 ---
-
-[View Full Issue PDF](../vol3-issue3.pdf#page=41){: .button} &nbsp; [All Publications](../)

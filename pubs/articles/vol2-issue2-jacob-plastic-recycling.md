@@ -34,5 +34,3 @@ Not all plastic is recyclable yet many consumers rely on the recycling symbol al
 **Keywords:** Machine learning, artificial intelligence, plastic recycling, sustainability, plastic image classification, plastic categorization
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=8){: .button} &nbsp; [All Publications](../)

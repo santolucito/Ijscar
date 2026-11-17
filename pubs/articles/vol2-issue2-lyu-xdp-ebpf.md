@@ -33,5 +33,3 @@ Firewalls are foundational to computer network security yet managing large and c
 **Keywords:** Firewall, XDP eBPF, Large Language Models, Symbolic Execution, Satisfiability Modulo Theories
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=4){: .button} &nbsp; [All Publications](../)

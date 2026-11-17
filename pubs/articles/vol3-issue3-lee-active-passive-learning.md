@@ -34,5 +34,3 @@ While active learning is widely recognized as the more instructional approach fo
 **Keywords:** Active vs. Passive Training, Educational Research, Comprehension and Application, Study Duration
 
 ---
-
-[View Full Issue PDF](../vol3-issue3.pdf#page=36){: .button} &nbsp; [All Publications](../)

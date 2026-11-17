@@ -34,5 +34,3 @@ This paper explores the application of large language models (LLMs) for music ge
 **Keywords:** large language models, music generation, code generation
 
 ---
-
-[View Full Issue PDF](../vol1-issue1.pdf#page=3){: .button} &nbsp; [All Publications](../)

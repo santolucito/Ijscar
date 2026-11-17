@@ -44,8 +44,17 @@
             </p>
             <section id="main_content">
                 {{ content }}
-                {% if page.citation_pdf %}
-                <p style="clear: both; margin-top: 1em;"><a href="{{ page.citation_pdf | relative_url }}" class="button" style="float: none; display: inline-block;">Download Article PDF</a></p>
+                {% if page.citation_volume %}
+                {% capture issue_pdf %}/pubs/vol{{ page.citation_volume }}-issue{{ page.citation_issue }}.pdf#page={{ page.citation_firstpage }}{% endcapture %}
+                <style>
+                    .article-links { margin: 1.5em 0 1em; }
+                    .article-links a.button { display: block; float: none; clear: both; box-sizing: border-box; width: 100%; max-width: 20em; margin: 0 0 .75em 0; text-align: center; }
+                </style>
+                <div class="article-links">
+                    {% if page.citation_pdf %}<a class="button" href="{{ page.citation_pdf | relative_url }}">Download this article (PDF)</a>{% endif %}
+                    <a class="button" href="{{ issue_pdf | relative_url }}">View Full Issue (PDF)</a>
+                    <a class="button" href="{{ '/pubs/' | relative_url }}">Go to All Publications</a>
+                </div>
                 {% endif %}
             </section>
 

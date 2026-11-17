@@ -34,5 +34,3 @@ When a language model responds to an emotional story, how much does its recommen
 **Keywords:** Language models; demographic sensitivity; structured recommendations; counterfactual prompts; permutation tests; game-based evaluation
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=62){: .button} &nbsp; [All Publications](../)

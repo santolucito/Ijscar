@@ -33,5 +33,3 @@ Recent advances in machine learning (ML) have opened new frontiers for modeling 
 **Keywords:** Physics-Informed Machine Learning, Thermodynamic Modeling, Support Vector Regression, Neural Networks, Digital Twins
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=16){: .button} &nbsp; [All Publications](../)

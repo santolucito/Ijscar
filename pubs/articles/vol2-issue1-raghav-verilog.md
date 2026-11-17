@@ -35,5 +35,3 @@ Recent advancements in Large Language Models (LLMs) have transformed code genera
 **Keywords:** Verilog, Code Generation, LLMs, Ablation Study
 
 ---
-
-[View Full Issue PDF](../vol2-issue1.pdf#page=23){: .button} &nbsp; [All Publications](../)

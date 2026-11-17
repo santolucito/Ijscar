@@ -34,5 +34,3 @@ Modular robots represent a transformative approach to robotic design and unmanne
 **Keywords:** Modular Robots, Consensus-Based Control, Hybrid Locomotion, Docking Mechanism, Unstructured Environments
 
 ---
-
-[View Full Issue PDF](../vol3-issue2.pdf#page=16){: .button} &nbsp; [All Publications](../)

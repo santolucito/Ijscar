@@ -35,5 +35,3 @@ In this research paper we examine the co-occurrence of extreme heat and humidity
 **Keywords:** co-occurrence of extreme heat and pollution, climate change, Southwest United States, compound events, air pollution
 
 ---
-
-[View Full Issue PDF](../vol2-issue1.pdf#page=9){: .button} &nbsp; [All Publications](../)

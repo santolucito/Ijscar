@@ -35,5 +35,3 @@ Sparse autoencoders (SAEs) decompose language model activations into interpretab
 **Keywords:** Sparse autoencoders, Mechanistic interpretability, Feature attribution, Faithfulness evaluation, Causal interventions, Shapley values
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=94){: .button} &nbsp; [All Publications](../)

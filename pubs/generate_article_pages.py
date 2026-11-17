@@ -8,17 +8,6 @@ import re
 ARTICLES_CSV = os.path.join(os.path.dirname(__file__), "articles.csv")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "articles")
 
-ISSUE_PDF = {
-    (1, 1): "../vol1-issue1.pdf",
-    (2, 1): "../vol2-issue1.pdf",
-    (2, 2): "../vol2-issue2.pdf",
-    (3, 1): "../vol3-issue1.pdf",
-    (3, 2): "../vol3-issue2.pdf",
-    (3, 3): "../vol3-issue3.pdf",
-    (3, 4): "../vol3-issue4.pdf",
-}
-
-
 def slugify(text):
     text = text.lower()
     text = re.sub(r"[^\w\s-]", "", text)
@@ -118,7 +107,6 @@ def make_page(row, slug):
     p_start = row["page_start"].strip()
     p_end = row["page_end"].strip()
     doi = row["doi"].strip()
-    pdf_path = ISSUE_PDF.get((vol, iss), "../pubs/") + f"#page={p_start}"
 
     authors_line = format_authors_line(row)
 
@@ -165,8 +153,6 @@ description: "{authors_line} — IJSCAR Vol. {vol}, Issue {iss}, {year}, pp. {p_
 **Keywords:** {keywords}
 
 ---
-
-[View Full Issue PDF]({pdf_path}){{: .button}} &nbsp; [All Publications](../)
 """
     return page.strip() + "\n"
 

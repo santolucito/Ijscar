@@ -181,6 +181,6 @@ GitHub Pages will rebuild automatically. Allow 1–2 minutes, then verify at [ij
 | `pubs/articles.csv` | Add one row per article; fill pages and DOI once known |
 | `pubs/index.md` | Add new `### Volume N, Issue N` section with article links, each with a `[PDF](articles/<slug>.pdf)` link |
 | `pubs/articles/<slug>.pdf` | One small (< 5 MB) PDF per article — see `split_issue_pdfs.py` |
-| `pubs/generate_article_pages.py` | Add entry to `ISSUE_PDF` dict; add slug overrides if needed |
+| `pubs/generate_article_pages.py` | Add slug overrides if needed (the page buttons are built by `_layouts/default.html`) |
 | `pubs/merge_issue.py` | Update `VOLUME`, `ISSUE`, and `COMPONENTS` list |
 | `pubs/volN-issueN.pdf` | The merged issue PDF itself |

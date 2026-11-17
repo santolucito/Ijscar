@@ -34,5 +34,3 @@ Noise schedules in denoising diffusion probabilistic models (DDPMs) control how 
 **Keywords:** diffusion models, noise schedule, entropy production, stochastic thermodynamics, generative models
 
 ---
-
-[View Full Issue PDF](../vol3-issue2.pdf#page=10){: .button} &nbsp; [All Publications](../)

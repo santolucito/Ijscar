@@ -33,5 +33,3 @@ Systemic risk in financial systems is frequently thought to rise largely from ma
 **Keywords:** Systemic Risk, Symbolic Computation, Constraint Solving, Financial Networks, Graph Theory, Risk Modeling
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=14){: .button} &nbsp; [All Publications](../)

@@ -34,5 +34,3 @@ In disaster-stricken environments such as collapsed buildings landslides or eart
 **Keywords:** Geo-SAM, Safe Void Detection, Path Planning, Disaster Robotics, A*, RRT*, LADI-v2
 
 ---
-
-[View Full Issue PDF](../vol3-issue1.pdf#page=31){: .button} &nbsp; [All Publications](../)

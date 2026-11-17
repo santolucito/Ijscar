@@ -34,5 +34,3 @@ Phishing emails remain a persistent cybersecurity threat as attackers continue t
 **Keywords:** Phishing Detection, Machine Learning, Dual-Layer Framework, Email Security, Imbalanced Data, Sender Metadata, Email Content Analysis, Random Forest, XGBoost, LightGBM, ROC Curve, Logistic Regression, Cybersecurity, Dataset Preprocessing
 
 ---
-
-[View Full Issue PDF](../vol3-issue1.pdf#page=24){: .button} &nbsp; [All Publications](../)
