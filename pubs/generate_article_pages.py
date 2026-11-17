@@ -5,6 +5,14 @@ import csv
 import os
 import re
 
+# Issues whose PDF page numbers differ from the printed page numbers in
+# articles.csv (e.g. the cover isn't numbered). Value = PDF page minus printed page.
+# Used so "View Full Issue (PDF)" opens the right page.
+PDF_PAGE_OFFSET = {
+    (1, 1): 1,
+    (2, 1): 1,
+}
+
 ARTICLES_CSV = os.path.join(os.path.dirname(__file__), "articles.csv")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "articles")
 
@@ -109,6 +117,9 @@ def make_page(row, slug):
     doi = row["doi"].strip()
 
     authors_line = format_authors_line(row)
+    pdf_page_line = ""
+    if (vol, iss) in PDF_PAGE_OFFSET:
+        pdf_page_line = f"\npdf_page: {int(p_start) + PDF_PAGE_OFFSET[(vol, iss)]}"
 
     doi_display = doi.replace("https://doi.org/", "") if doi.startswith("https://doi.org/") else doi
     # If this article's own individual PDF is hosted alongside its landing page,
@@ -129,7 +140,7 @@ def make_page(row, slug):
 layout: default
 title: "{title.replace('"', '&quot;')}"
 description: "{authors_line} — IJSCAR Vol. {vol}, Issue {iss}, {year}, pp. {p_start}–{p_end}"
-{citation_fields}
+{citation_fields}{pdf_page_line}
 ---
 
 # {title}

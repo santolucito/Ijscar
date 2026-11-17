@@ -119,6 +119,8 @@ Now that the issue PDF is assembled, count the page ranges for each article and 
 
 Open `articles.csv` and fill in `page_start` and `page_end` for each new article row. Pages refer to the page number **within the merged PDF file** (not the printed number on the paper).
 
+If the issue PDF's cover or other front pages are not numbered, the printed page numbers run behind the PDF viewer's page numbers (as in Vol 1 Issue 1 and Vol 2 Issue 1, where the first article is printed "3" on PDF page 4). Keep the printed numbers in the CSV, and add the issue to `PDF_PAGE_OFFSET` in `generate_article_pages.py` so the "View Full Issue (PDF)" button opens the correct page.
+
 Then regenerate the individual article HTML pages:
 
 ```bash

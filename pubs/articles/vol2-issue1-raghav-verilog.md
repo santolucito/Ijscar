@@ -10,6 +10,7 @@ citation_volume: 2
 citation_issue: 1
 citation_firstpage: 23
 citation_lastpage: 32
+pdf_page: 24
 citation_doi: "10.5281/zenodo.14988731"
 citation_pdf: "/pubs/articles/vol2-issue1-raghav-verilog.pdf"
 ---

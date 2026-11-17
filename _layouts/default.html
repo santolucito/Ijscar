@@ -45,7 +45,8 @@
             <section id="main_content">
                 {{ content }}
                 {% if page.citation_volume %}
-                {% capture issue_pdf %}/pubs/vol{{ page.citation_volume }}-issue{{ page.citation_issue }}.pdf#page={{ page.citation_firstpage }}{% endcapture %}
+                {% assign issue_page = page.pdf_page | default: page.citation_firstpage %}
+                {% capture issue_pdf %}/pubs/vol{{ page.citation_volume }}-issue{{ page.citation_issue }}.pdf#page={{ issue_page }}{% endcapture %}
                 <style>
                     .article-links { margin: 1.5em 0 1em; }
                     .article-links a.button { display: block; float: none; clear: both; box-sizing: border-box; width: 100%; max-width: 20em; margin: 0 0 .75em 0; text-align: center; }

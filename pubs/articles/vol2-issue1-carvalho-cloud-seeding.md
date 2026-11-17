@@ -10,6 +10,7 @@ citation_volume: 2
 citation_issue: 1
 citation_firstpage: 33
 citation_lastpage: 36
+pdf_page: 34
 citation_doi: "10.5281/zenodo.15149793"
 citation_pdf: "/pubs/articles/vol2-issue1-carvalho-cloud-seeding.pdf"
 ---
