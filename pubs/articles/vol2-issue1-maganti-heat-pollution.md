@@ -10,6 +10,7 @@ citation_volume: 2
 citation_issue: 1
 citation_firstpage: 9
 citation_lastpage: 14
+pdf_page: 10
 citation_doi: "10.5281/zenodo.14988723"
 citation_pdf: "/pubs/articles/vol2-issue1-maganti-heat-pollution.pdf"
 ---

@@ -10,6 +10,7 @@ citation_volume: 1
 citation_issue: 1
 citation_firstpage: 3
 citation_lastpage: 10
+pdf_page: 4
 citation_doi: "10.5281/zenodo.14279480"
 ---
 

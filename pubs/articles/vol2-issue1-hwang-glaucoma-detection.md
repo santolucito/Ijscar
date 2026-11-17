@@ -9,6 +9,7 @@ citation_volume: 2
 citation_issue: 1
 citation_firstpage: 3
 citation_lastpage: 8
+pdf_page: 4
 citation_doi: "10.5281/zenodo.15149831"
 citation_pdf: "/pubs/articles/vol2-issue1-hwang-glaucoma-detection.pdf"
 ---
