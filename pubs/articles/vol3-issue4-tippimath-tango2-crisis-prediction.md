@@ -34,5 +34,3 @@ TANGO2 (Transport And Golgi Organization 2) deficiency disorder (TDD) is a rare 
 **Keywords:** TANGO2, rare disease, Random Forest, reaction diffusion equation, partial differential equations, Human Phenotype Ontology, crisis prediction, bioinformatics, machine learning
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=29){: .button} &nbsp; [All Publications](../)

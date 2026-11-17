@@ -35,5 +35,3 @@ This study addresses the challenge of automatically triaging online mental healt
 **Keywords:** Natural Language Processing, Text Classification, Mental Health Triage, Machine Learning, BERT, Optimization, Sentiment Analysis
 
 ---
-
-[View Full Issue PDF](../vol3-issue3.pdf#page=21){: .button} &nbsp; [All Publications](../)

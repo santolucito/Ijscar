@@ -34,5 +34,3 @@ After surgery many patients do their rehab exercises at home without knowing whe
 **Keywords:** Human-centered computing, Ubiquitous and mobile computing, Applied computing, Consumer health, Computing methodologies (activity recognition and understanding)
 
 ---
-
-[View Full Issue PDF](../vol3-issue3.pdf#page=4){: .button} &nbsp; [All Publications](../)

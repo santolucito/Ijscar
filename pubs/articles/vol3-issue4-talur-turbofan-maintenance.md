@@ -34,5 +34,3 @@ Run-to-failure engine data can make a maintenance warning look successful for th
 **Keywords:** Predictive maintenance, remaining useful life, turbofan engines, N-CMAPSS, sensor telemetry, warning threshold, engine-grouped cross-validation
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=23){: .button} &nbsp; [All Publications](../)

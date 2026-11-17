@@ -34,5 +34,3 @@ Breast cancer remains the most commonly diagnosed cancer among women worldwide w
 **Keywords:** Breast Cancer Survival, Machine Learning, Deep Learning, Ensemble Models, Tabular Data, METABRIC, Genetic Attributes, Clinical Attributes
 
 ---
-
-[View Full Issue PDF](../vol3-issue1.pdf#page=13){: .button} &nbsp; [All Publications](../)

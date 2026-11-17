@@ -35,5 +35,3 @@ Drift is one of the most unpredictable challenges when operating nano-quadcopter
 **Keywords:** Nano-quadcopters, Crazyflie, mechanical variability, drone drift
 
 ---
-
-[View Full Issue PDF](../vol2-issue1.pdf#page=15){: .button} &nbsp; [All Publications](../)

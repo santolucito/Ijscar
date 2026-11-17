@@ -34,5 +34,3 @@ We evaluate how single-augmentation and aggregate-augmentation training affect t
 **Keywords:** Computer Vision, Underwater, Jerlov Water Types, Data Augmentations
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=44){: .button} &nbsp; [All Publications](../)

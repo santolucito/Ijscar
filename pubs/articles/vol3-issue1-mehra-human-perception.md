@@ -34,5 +34,3 @@ Large Language Models (LLMs) now generate phishing emails indistinguishable from
 **Keywords:** Phishing Detection, Large Language Models, Machine Learning Security, Adversarial Machine Learning, Email Security, Generative AI, Random Forest, Cybersecurity
 
 ---
-
-[View Full Issue PDF](../vol3-issue1.pdf#page=4){: .button} &nbsp; [All Publications](../)

@@ -34,5 +34,3 @@ Game development is a field that benefits immensely from using Generative Artifi
 **Keywords:** Game Design, Model Counting, Balance, Level Difficulty
 
 ---
-
-[View Full Issue PDF](../vol1-issue1.pdf#page=24){: .button} &nbsp; [All Publications](../)

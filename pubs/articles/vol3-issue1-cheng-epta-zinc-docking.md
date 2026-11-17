@@ -35,5 +35,3 @@ Antibiotic resistance in multidrug-resistant (MDR) bacteria poses a critical thr
 **Keywords:** Bacterial resistance, Machine learning, Colistin, EptA, Polymyxin resistance enzymes, Zinc-aware molecular docking, Antibiotic resistance, Polymyxin antibiotics, Zinc-dependent metalloenzymes, Structure-based virtual screening, Gram-negative bacterial infections
 
 ---
-
-[View Full Issue PDF](../vol3-issue1.pdf#page=37){: .button} &nbsp; [All Publications](../)

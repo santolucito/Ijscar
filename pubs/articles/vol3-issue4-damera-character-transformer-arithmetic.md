@@ -34,5 +34,3 @@ Transformer models have demonstrated strong performance across a variety of reas
 **Keywords:** Transformer Models, Arithmetic Reasoning, Integrated Gradients, Explainable Artificial Intelligence, Interpretability
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=107){: .button} &nbsp; [All Publications](../)

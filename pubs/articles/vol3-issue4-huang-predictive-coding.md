@@ -34,5 +34,3 @@ Synchronous unit-precision predictive coding (PC) replaces back-propagation’s 
 **Keywords:** predictive coding, backpropagation, sample efficiency, computational efficiency, iterative inference, implementation validation
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=4){: .button} &nbsp; [All Publications](../)

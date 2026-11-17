@@ -33,5 +33,3 @@ Diagnosis of cardiovascular diseases through cardiac MRI imaging plays a crucial
 **Keywords:** Cardiovascular, MRI, Heart Ventricles, Segmentation, Artificial Intelligence, Deep Learning
 
 ---
-
-[View Full Issue PDF](../vol1-issue1.pdf#page=11){: .button} &nbsp; [All Publications](../)

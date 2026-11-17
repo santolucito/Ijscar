@@ -34,5 +34,3 @@ Unsupervised anomaly detectors trained on background events alone have been prop
 **Keywords:** Computer Science and Software Engineering, Machine Learning, Anomaly Detection, Autoencoders, Particle Physics
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=72){: .button} &nbsp; [All Publications](../)

@@ -35,5 +35,3 @@ Reinforcement Learning (RL) is a subfield of Machine Learning that involves agen
 **Keywords:** Reinforcement Learning (RL), Unmanned Aerial Vehicle (UAV), Hyperparameters, Reward shaping, Discount factor, Learning rate, Actor-Critic, Stochasticity, Proximal Policy Optimization (PPO)
 
 ---
-
-[View Full Issue PDF](../vol3-issue2.pdf#page=4){: .button} &nbsp; [All Publications](../)

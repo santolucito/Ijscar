@@ -33,5 +33,3 @@ As space travel becomes increasingly complex and sought after with the prospects
 **Keywords:** PyBaMM, Code Generation, Battery Degradation Study, LEO Spacecraft, Machine Learning Analysis
 
 ---
-
-[View Full Issue PDF](../vol2-issue2.pdf#page=21){: .button} &nbsp; [All Publications](../)

@@ -34,5 +34,3 @@ As artificial intelligence tools become embedded in government operations U.S. m
 **Keywords:** HCI, heuristic evaluation, AI governance, document usability, plain language, municipal policy, NLP, readability, legal text complexity
 
 ---
-
-[View Full Issue PDF](../vol3-issue2.pdf#page=23){: .button} &nbsp; [All Publications](../)

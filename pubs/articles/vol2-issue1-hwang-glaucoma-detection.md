@@ -34,5 +34,3 @@ This study develops and evaluates the performance and computational efficiency o
 **Keywords:** Artificial Intelligence, Computer Vision, Deep Learning, Neural Networks, Transfer Learning, Medical Imaging, Glaucoma Detection
 
 ---
-
-[View Full Issue PDF](../vol2-issue1.pdf#page=3){: .button} &nbsp; [All Publications](../)

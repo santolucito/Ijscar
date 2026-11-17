@@ -35,5 +35,3 @@ Pathogenic variants in BRCA2 substantially increase hereditary cancer risk, yet 
 **Keywords:** BRCA2, in-silico predictors, variant classification, ClinVar, SIFT, PolyPhen-2, REVEL, Ashkenazi Jewish population, variants of uncertain significance
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=16){: .button} &nbsp; [All Publications](../)

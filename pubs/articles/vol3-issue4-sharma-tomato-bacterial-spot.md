@@ -34,5 +34,3 @@ Plant pests and diseases destroy up to 40% of global crop production each year, 
 **Keywords:** Plant disease detection, bacterial spot, tomato, image classification, machine learning, support vector classifier, convolutional neural network, PlantVillage, robustness to image changes
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=57){: .button} &nbsp; [All Publications](../)

@@ -37,5 +37,3 @@ Health guidance is a topic that has been gaining increasing traction in the past
 **Keywords:** Multimodal Large Language Models, Gemini 2.5 Pro, Macronutrient Estimation, Food Image Analysis, Nutrition5k, Prompt Engineering
 
 ---
-
-[View Full Issue PDF](../vol3-issue4.pdf#page=38){: .button} &nbsp; [All Publications](../)
