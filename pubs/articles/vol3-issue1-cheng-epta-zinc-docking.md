@@ -11,6 +11,7 @@ citation_issue: 1
 citation_firstpage: 37
 citation_lastpage: 46
 citation_doi: "10.5281/zenodo.18432165"
+citation_pdf: "/pubs/articles/vol3-issue1-cheng-epta-zinc-docking.pdf"
 ---
 
 # Leveraging Machine Learning and Zinc-Aware Docking to Discover Natural Inhibitors of EptA Resistance Enzymes

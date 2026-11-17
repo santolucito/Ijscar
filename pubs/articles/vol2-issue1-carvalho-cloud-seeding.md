@@ -11,6 +11,7 @@ citation_issue: 1
 citation_firstpage: 33
 citation_lastpage: 36
 citation_doi: "10.5281/zenodo.15149793"
+citation_pdf: "/pubs/articles/vol2-issue1-carvalho-cloud-seeding.pdf"
 ---
 
 # Using AI Modeling to Predict the Impact of Cloud Seeding on Amount of Rainfall and How that Affects the Temperature in Different Regions

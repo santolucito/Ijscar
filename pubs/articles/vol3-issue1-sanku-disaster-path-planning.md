@@ -10,6 +10,7 @@ citation_issue: 1
 citation_firstpage: 31
 citation_lastpage: 36
 citation_doi: "10.5281/zenodo.18404630"
+citation_pdf: "/pubs/articles/vol3-issue1-sanku-disaster-path-planning.pdf"
 ---
 
 # A Vision-Based Approach to Safe Void Detection and Path Planning in Post-Disaster Rubble Using Segment Anything Models
